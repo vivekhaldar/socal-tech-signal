@@ -1,0 +1,611 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#dfff35">
+  <meta name="description" content="A weekly field guide to the best in-person AI, engineering, security, and founder events across Southern California.">
+  <title>SoCal Tech Signal — Weekly field guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&family=Unbounded:wght@400;550;700;850&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: oklch(97% 0.008 104);
+      --paper-deep: oklch(92% 0.02 106);
+      --ink: oklch(20% 0.035 275);
+      --ink-soft: oklch(40% 0.035 273);
+      --line: oklch(76% 0.025 105);
+      --signal: oklch(88% 0.21 116);
+      --signal-deep: oklch(74% 0.2 117);
+      --cobalt: oklch(51% 0.25 274);
+      --vermilion: oklch(64% 0.23 32);
+      --oc: oklch(64% 0.23 32);
+      --la: oklch(51% 0.25 274);
+      --sd: oklch(61% 0.16 158);
+      --later: oklch(53% 0.15 326);
+      --featured: var(--signal);
+      --font-display: "Unbounded", "Arial Black", sans-serif;
+      --font-ui: "Instrument Sans", "Arial Narrow", sans-serif;
+      --step--1: 0.8125rem;
+      --step-0: 1rem;
+      --step-1: clamp(1.15rem, 1.05rem + 0.45vw, 1.42rem);
+      --step-2: clamp(1.5rem, 1.2rem + 1vw, 2.15rem);
+      --step-3: clamp(2.25rem, 1.65rem + 2.8vw, 4.4rem);
+      --step-4: clamp(3.5rem, 2.25rem + 6vw, 7.8rem);
+      --space-1: 0.25rem;
+      --space-2: 0.5rem;
+      --space-3: 0.75rem;
+      --space-4: 1rem;
+      --space-6: 1.5rem;
+      --space-8: 2rem;
+      --space-12: 3rem;
+      --space-16: 4rem;
+      --space-24: 6rem;
+      --max: 78rem;
+      --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-width: 20rem;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: var(--font-ui);
+      font-size: var(--step-0);
+      line-height: 1.5;
+      font-kerning: normal;
+      padding-left: env(safe-area-inset-left);
+      padding-right: env(safe-area-inset-right);
+    }
+
+    a { color: inherit; }
+    button, select { font: inherit; }
+    button { color: inherit; }
+    .skip-link {
+      position: fixed;
+      left: 1rem;
+      top: -5rem;
+      z-index: 100;
+      padding: 0.75rem 1rem;
+      background: var(--ink);
+      color: var(--paper);
+    }
+    .skip-link:focus { top: 1rem; }
+    :focus-visible { outline: 3px solid var(--signal); outline-offset: 3px; }
+
+    .shell {
+      width: min(calc(100% - 2rem), var(--max));
+      margin-inline: auto;
+    }
+
+    .masthead {
+      min-height: 4.5rem;
+      border-bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-4);
+      padding-block: var(--space-3);
+    }
+    .brand {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0.55rem;
+      text-decoration: none;
+      letter-spacing: -0.04em;
+      font-weight: 700;
+      font-size: 1.08rem;
+    }
+    .brand-slash { color: var(--vermilion); font-weight: 400; }
+    .masthead-note {
+      margin: 0;
+      color: var(--ink);
+      font-size: var(--step--1);
+      text-align: right;
+      line-height: 1.25;
+      max-width: 17rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .hero {
+      position: relative;
+      overflow: clip;
+      padding-block: clamp(4rem, 9vw, 8rem) clamp(4rem, 8vw, 7rem);
+      border-block: 1px solid var(--ink);
+      background: var(--signal);
+    }
+    .hero-grid {
+      display: grid;
+      gap: var(--space-12);
+      align-items: end;
+    }
+    .issue-kicker, .eyebrow {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      margin: 0 0 var(--space-6);
+      font-size: var(--step--1);
+      font-weight: 750;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .issue-kicker::before {
+      content: "";
+      width: 2.5rem;
+      height: 0.45rem;
+      background: var(--vermilion);
+    }
+    h1 {
+      max-width: 13ch;
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-4);
+      font-weight: 850;
+      line-height: 0.94;
+      letter-spacing: -0.055em;
+      text-wrap: balance;
+    }
+    .hero-copy {
+      display: grid;
+      gap: var(--space-6);
+      max-width: 38rem;
+    }
+    .dek {
+      margin: 0;
+      font-family: var(--font-ui);
+      font-size: var(--step-2);
+      font-weight: 560;
+      line-height: 1.08;
+      letter-spacing: -0.035em;
+    }
+    .audience { margin: 0; max-width: 55ch; color: var(--ink-soft); }
+    .issue-meta {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: var(--space-2) var(--space-4);
+      padding-top: var(--space-6);
+      border-top: 1px solid var(--line);
+      font-size: var(--step--1);
+    }
+    .issue-meta dt { font-weight: 750; text-transform: uppercase; letter-spacing: 0.08em; }
+    .issue-meta dd { margin: 0; }
+
+    .route-map {
+      position: absolute;
+      right: -4rem;
+      top: 1.25rem;
+      width: min(50vw, 40rem);
+      color: var(--ink);
+      opacity: 0.14;
+      pointer-events: none;
+    }
+
+    .manifesto {
+      background: var(--paper);
+      color: var(--ink);
+      padding-block: var(--space-8);
+      border-bottom: 1px solid var(--ink);
+    }
+    .manifesto .shell {
+      display: grid;
+      gap: var(--space-3);
+    }
+    .manifesto p { margin: 0; }
+    .manifesto strong { color: var(--cobalt); }
+    .manifesto-copy { max-width: 75ch; font-family: var(--font-ui); font-size: var(--step-1); font-weight: 560; line-height: 1.35; letter-spacing: -0.025em; }
+
+    .section { padding-block: clamp(3.5rem, 7vw, 6rem); }
+    .section-head {
+      display: grid;
+      gap: var(--space-4);
+      margin-bottom: var(--space-12);
+      align-items: end;
+    }
+    .section-title {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-3);
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -0.055em;
+    }
+    .section-note { margin: 0; max-width: 42ch; color: var(--ink-soft); }
+
+    .features {
+      display: grid;
+      gap: var(--space-8);
+    }
+    .feature {
+      position: relative;
+      min-height: 20rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: var(--space-12);
+      padding: clamp(1.5rem, 4vw, 3rem);
+      color: var(--paper);
+      background: var(--ink);
+      overflow: hidden;
+      text-decoration: none;
+      transition: transform 220ms var(--ease-out), color 120ms linear;
+      animation: reveal 650ms var(--ease-out) both;
+      animation-delay: calc(var(--i, 0) * 70ms);
+    }
+    .feature::after {
+      content: attr(data-number);
+      position: absolute;
+      right: -0.05em;
+      bottom: -0.27em;
+      color: oklch(32% 0.04 247);
+      font-family: var(--font-display);
+      font-size: clamp(9rem, 22vw, 18rem);
+      line-height: 1;
+      z-index: 0;
+    }
+    .feature > * { position: relative; z-index: 1; }
+    .feature:nth-child(2) { background: var(--cobalt); }
+    .feature:nth-child(3) { background: var(--vermilion); color: var(--ink); }
+    .feature h3 {
+      margin: 0;
+      max-width: 14ch;
+      font-family: var(--font-display);
+      font-size: var(--step-2);
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -0.035em;
+    }
+    .feature-meta { margin: var(--space-4) 0 0; max-width: 40ch; font-size: var(--step--1); }
+    .feature-foot { display: flex; justify-content: space-between; align-items: end; gap: var(--space-4); }
+    .feature-description { margin: 0; max-width: 45ch; font-size: 0.92rem; }
+    .feature-arrow { font-size: 1.6rem; line-height: 1; }
+
+    .filter-dock {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: color-mix(in oklch, var(--paper) 94%, transparent);
+      border-block: 1px solid var(--ink);
+      padding-top: var(--space-2);
+      padding-bottom: var(--space-2);
+    }
+    .filter-scroll {
+      display: flex;
+      align-items: center;
+      gap: var(--space-2);
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding-inline: max(1rem, env(safe-area-inset-left)) max(1rem, env(safe-area-inset-right));
+    }
+    .filter-scroll::-webkit-scrollbar { display: none; }
+    .filter-label { flex: 0 0 auto; margin-right: var(--space-2); font-size: var(--step--1); font-weight: 750; text-transform: uppercase; letter-spacing: 0.08em; }
+    .filter {
+      flex: 0 0 auto;
+      min-height: 2.75rem;
+      border: 1px solid var(--ink);
+      border-radius: 999px;
+      background: transparent;
+      padding: 0.55rem 0.95rem;
+      cursor: pointer;
+      font-size: var(--step--1);
+      font-weight: 700;
+      transition: transform 100ms var(--ease-out), background 120ms linear, color 120ms linear;
+    }
+    .filter[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+    .filter:active { transform: scale(0.97); }
+
+    .directory { padding-block: clamp(3.5rem, 7vw, 7rem); }
+    .directory-head {
+      display: grid;
+      gap: var(--space-4);
+      margin-bottom: var(--space-12);
+    }
+    .directory-count { margin: 0; color: var(--ink-soft); }
+    .region-group { margin-bottom: var(--space-24); }
+    .region-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: var(--space-4);
+      padding-bottom: var(--space-3);
+      border-bottom: 3px solid var(--region-color);
+      margin-bottom: var(--space-2);
+    }
+    .region-head h3 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-2);
+      font-weight: 700;
+      letter-spacing: -0.035em;
+    }
+    .region-count { font-size: var(--step--1); font-weight: 750; }
+    .region-group[data-region="OC"] { --region-color: var(--oc); }
+    .region-group[data-region="LA"] { --region-color: var(--la); }
+    .region-group[data-region="SD"] { --region-color: var(--sd); }
+    .region-group[data-region="Later"] { --region-color: var(--later); }
+
+    .event-list { list-style: none; margin: 0; padding: 0; }
+    .event {
+      container-type: inline-size;
+      border-bottom: 1px solid var(--line);
+    }
+    .event-link {
+      display: grid;
+      gap: var(--space-4);
+      padding-block: var(--space-6);
+      text-decoration: none;
+      transition: color 120ms linear;
+    }
+    .event-meta {
+      margin: 0 0 var(--space-3);
+      color: var(--ink-soft);
+      font-size: var(--step--1);
+      font-weight: 650;
+      font-variant-numeric: tabular-nums;
+    }
+    .event h4 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-1);
+      font-weight: 550;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-wrap: balance;
+    }
+    .event-description { margin: var(--space-3) 0 0; max-width: 70ch; color: var(--ink-soft); font-size: 0.94rem; }
+    .event-side { display: flex; align-items: end; justify-content: space-between; gap: var(--space-4); }
+    .tags { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+    .tag {
+      border: 1px solid var(--line);
+      padding: 0.23rem 0.5rem;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .event-arrow { color: var(--region-color); font-size: 1.3rem; line-height: 1; }
+    .empty { display: none; padding-block: var(--space-16); text-align: center; color: var(--ink-soft); }
+
+    .about {
+      padding-block: var(--space-16) var(--space-24);
+      background: var(--signal);
+      border-top: 1px solid var(--ink);
+    }
+    .about-grid { display: grid; gap: var(--space-8); }
+    .about h2 { margin: 0; font-family: var(--font-display); font-size: var(--step-2); font-weight: 700; letter-spacing: -0.04em; }
+    .about p { margin: 0; max-width: 68ch; }
+    .footer-line {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: var(--space-4);
+      margin-top: var(--space-12);
+      padding-top: var(--space-4);
+      border-top: 1px solid var(--ink);
+      font-size: var(--step--1);
+      font-weight: 700;
+    }
+    .maker-link {
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.22em;
+    }
+    .maker-link:hover { text-decoration-color: var(--vermilion); }
+    .maker-heart { color: var(--vermilion); }
+
+    @container (min-width: 42rem) {
+      .event-link { grid-template-columns: minmax(0, 1fr) 14rem; align-items: end; gap: var(--space-8); }
+    }
+
+    @media (min-width: 48rem) {
+      .shell { width: min(calc(100% - 4rem), var(--max)); }
+      .hero-grid { grid-template-columns: minmax(0, 1.15fr) minmax(18rem, 0.65fr); }
+      .manifesto .shell { grid-template-columns: 10rem 1fr; align-items: start; }
+      .section-head { grid-template-columns: 1fr 22rem; }
+      .features { grid-template-columns: 1.2fr 0.8fr; grid-template-rows: 1fr 1fr; }
+      .feature:first-child { grid-row: 1 / 3; min-height: 42rem; }
+      .feature:not(:first-child) { min-height: 20rem; }
+      .directory-head { grid-template-columns: 1fr auto; align-items: end; }
+      .about-grid { grid-template-columns: minmax(12rem, 0.45fr) minmax(0, 1fr); }
+    }
+
+    @media (min-width: 72rem) {
+      .masthead { min-height: 5.25rem; }
+      .event-link { padding-block: var(--space-8); }
+      .event h4 { max-width: 30ch; }
+    }
+
+    @media (hover: hover) {
+      .feature:hover { transform: translateY(-0.35rem); }
+      .event-link:hover h4 { color: var(--region-color); }
+      .filter:hover { background: var(--paper-deep); }
+      .filter[aria-pressed="true"]:hover { background: var(--ink); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+    }
+
+    @media print {
+      body { background: var(--paper); }
+      .filter-dock { display: none; }
+      .feature, .event { break-inside: avoid; }
+      a { text-decoration: none; }
+    }
+
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(1.2rem); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to events</a>
+
+  <header class="shell masthead">
+    <a class="brand" href="#top" aria-label="SoCal Tech Signal home">
+      <span>SoCal</span><span class="brand-slash">/</span><span>Signal</span>
+    </a>
+    <p class="masthead-note" id="cadence"></p>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <svg class="route-map" viewBox="0 0 620 520" aria-hidden="true">
+        <path d="M122 70C228 112 300 135 348 214C399 296 438 343 524 450" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="9 13"/>
+        <path d="M125 70C189 113 228 159 242 216C266 313 370 392 524 450" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <circle cx="122" cy="70" r="14" fill="currentColor"/><circle cx="348" cy="214" r="14" fill="currentColor"/><circle cx="524" cy="450" r="14" fill="currentColor"/>
+        <text x="79" y="45" fill="currentColor" font-family="sans-serif" font-size="22">LA</text>
+        <text x="371" y="210" fill="currentColor" font-family="sans-serif" font-size="22">OC</text>
+        <text x="543" y="478" fill="currentColor" font-family="sans-serif" font-size="22">SD</text>
+      </svg>
+      <div class="shell hero-grid">
+        <div>
+          <p class="issue-kicker">Curated in-person</p>
+          <h1>SoCal AI + Tech Events</h1>
+        </div>
+        <div class="hero-copy">
+          <p class="dek" id="dek"></p>
+          <p class="audience" id="audience"></p>
+          <dl class="issue-meta">
+            <dt>Edition</dt><dd id="issue-date"></dd>
+            <dt>Window</dt><dd id="coverage"></dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <aside class="manifesto" aria-label="About this issue">
+      <div class="shell">
+        <p class="eyebrow">The signal</p>
+        <p class="manifesto-copy" id="intro"></p>
+      </div>
+    </aside>
+
+    <section class="section shell" aria-labelledby="featured-title">
+      <div class="section-head">
+        <h2 class="section-title" id="featured-title">Three to circle.</h2>
+        <p class="section-note">The strongest reasons to rearrange the week—selected for program quality, specificity, and the room they’re likely to attract.</p>
+      </div>
+      <div class="features" id="features"></div>
+    </section>
+
+    <nav class="filter-dock" aria-label="Filter events by region">
+      <div class="filter-scroll">
+        <span class="filter-label">Show</span>
+        <button class="filter" type="button" data-filter="All" aria-pressed="true">All</button>
+        <button class="filter" type="button" data-filter="OC" aria-pressed="false">Orange County</button>
+        <button class="filter" type="button" data-filter="LA" aria-pressed="false">Los Angeles</button>
+        <button class="filter" type="button" data-filter="SD" aria-pressed="false">San Diego</button>
+        <button class="filter" type="button" data-filter="Later" aria-pressed="false">Later</button>
+      </div>
+    </nav>
+
+    <section class="directory shell" aria-labelledby="directory-title">
+      <div class="directory-head">
+        <h2 class="section-title" id="directory-title">The full field guide.</h2>
+        <p class="directory-count" id="directory-count" aria-live="polite"></p>
+      </div>
+      <div id="directory"></div>
+      <p class="empty" id="empty">No events match this view.</p>
+    </section>
+
+    <section class="about" id="about">
+      <div class="shell about-grid">
+        <h2>What this is.</h2>
+        <div>
+          <p id="about-copy"></p>
+        </div>
+      </div>
+      <div class="shell footer-line">
+        <span>SoCal Tech Signal</span>
+        <span>Orange County · Los Angeles · San Diego</span>
+        <span id="footer-date"></span>
+        <a class="maker-link" href="https://vivekhaldar.com/" target="_blank" rel="me noopener noreferrer" aria-label="Made with love by Vivek Haldar">Made with <span class="maker-heart" aria-hidden="true">♥</span> by Vivek Haldar</a>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const issue = __ISSUE_DATA__;
+    const regionNames = { OC: 'Orange County', LA: 'Los Angeles', SD: 'San Diego', Later: 'Later on the radar' };
+    const regionOrder = ['OC', 'LA', 'SD', 'Later'];
+    let activeFilter = 'All';
+
+    const escapeHtml = (value = '') => value.replace(/[&<>"]/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[character]);
+
+    document.getElementById('cadence').textContent = issue.cadence;
+    document.getElementById('dek').textContent = issue.dek;
+    document.getElementById('audience').textContent = issue.audience;
+    document.getElementById('issue-date').textContent = issue.issueDate;
+    document.getElementById('coverage').textContent = issue.coverage;
+    document.getElementById('intro').innerHTML = `<strong>${escapeHtml(issue.events.length + ' curated event entries.')}</strong> ${escapeHtml(issue.intro)}`;
+    document.getElementById('about-copy').textContent = `${issue.publication} is an independent weekly edit of in-person AI, engineering, security, and founder events for people building and operating technology across Southern California.`;
+    document.getElementById('footer-date').textContent = issue.issueDate;
+
+    document.getElementById('features').innerHTML = issue.featured.map((event, index) => `
+      <a class="feature" style="--i:${index}" data-number="0${index + 1}" href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">
+        <div>
+          <p class="eyebrow">Editor’s pick 0${index + 1}</p>
+          <h3>${escapeHtml(event.title)}</h3>
+          <p class="feature-meta">${escapeHtml(event.meta)}</p>
+        </div>
+        <div class="feature-foot">
+          <p class="feature-description">${escapeHtml(event.description)}</p>
+          <span class="feature-arrow" aria-hidden="true">↗</span>
+        </div>
+      </a>
+    `).join('');
+
+    function renderDirectory() {
+      const visibleRegions = activeFilter === 'All' ? regionOrder : [activeFilter];
+      const visibleEvents = issue.events.filter((event) => activeFilter === 'All' || event.region === activeFilter);
+      document.getElementById('directory-count').textContent = `${visibleEvents.length} ${visibleEvents.length === 1 ? 'event' : 'events'} in this view`;
+      document.getElementById('empty').style.display = visibleEvents.length ? 'none' : 'block';
+      document.getElementById('directory').innerHTML = visibleRegions.map((region) => {
+        const events = issue.events.filter((event) => event.region === region);
+        if (!events.length) return '';
+        return `
+          <section class="region-group" data-region="${region}" aria-labelledby="region-${region}">
+            <div class="region-head">
+              <h3 id="region-${region}">${regionNames[region]}</h3>
+              <span class="region-count">${events.length}</span>
+            </div>
+            <ol class="event-list">
+              ${events.map((event) => `
+                <li class="event">
+                  <a class="event-link" href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">
+                    <div>
+                      <p class="event-meta">${escapeHtml(event.meta)}</p>
+                      <h4>${event.starred ? '<span aria-label="Editor’s pick">★ </span>' : ''}${escapeHtml(event.title)}</h4>
+                      <p class="event-description">${escapeHtml(event.description)}</p>
+                    </div>
+                    <div class="event-side">
+                      <div class="tags">${event.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div>
+                      <span class="event-arrow" aria-hidden="true">↗</span>
+                    </div>
+                  </a>
+                </li>
+              `).join('')}
+            </ol>
+          </section>
+        `;
+      }).join('');
+    }
+
+    document.querySelectorAll('.filter').forEach((button) => {
+      button.addEventListener('click', () => {
+        activeFilter = button.dataset.filter;
+        document.querySelectorAll('.filter').forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+        renderDirectory();
+        document.getElementById('directory-title').scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+      });
+    });
+
+    renderDirectory();
+  </script>
+</body>
+</html>
