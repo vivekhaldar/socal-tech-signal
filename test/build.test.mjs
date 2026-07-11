@@ -40,7 +40,7 @@ test('generated production site exposes the complete event list and live signup'
   const web = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
   assert.match(web, /"events":\[/);
   assert.match(web, /"mode":"live"/);
-  assert.match(web, /socal-tech-signal-signup\.vivekhaldar-02231129\.workers\.dev\/subscribe/);
+  assert.match(web, /vivek-blog-subscriptions\.vivekhaldar-02231129\.workers\.dev\/subscribe\/socal/);
   assert.match(web, /Want next week’s signal in your inbox\?/);
 });
 

@@ -2,15 +2,17 @@
 
 Cloudflare Worker providing Resend-backed double opt-in for SoCal Tech Signal.
 
-Production endpoint:
+Legacy production endpoint:
 
 ```text
 https://socal-tech-signal-signup.vivekhaldar-02231129.workers.dev
 ```
 
-The website posts to `/subscribe`; signed confirmation links use `/confirm`.
-Confirmed addresses are stored as Resend contacts in the dedicated segment and
-are explicitly opted into the weekly topic.
+The website now posts to the shared publication-scoped service at
+`https://vivek-blog-subscriptions.vivekhaldar-02231129.workers.dev/subscribe/socal`.
+Keep this legacy Worker deployed until the shared route has passed a real
+confirmation test; then retire it explicitly. Confirmed addresses remain in the
+dedicated SoCal segment and topic.
 
 ## Local mock
 

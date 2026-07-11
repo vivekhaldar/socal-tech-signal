@@ -12,7 +12,7 @@ const issue = loadIssue(sourcePath);
 
 const signupMode = process.env.SIGNUP_MODE || 'live';
 const signupEndpoint = process.env.SIGNUP_ENDPOINT
-  || 'https://socal-tech-signal-signup.vivekhaldar-02231129.workers.dev/subscribe';
+  || 'https://vivek-blog-subscriptions.vivekhaldar-02231129.workers.dev/subscribe/socal';
 const data = { ...issue, signup: { mode: signupMode, endpoint: signupEndpoint } };
 const render = (canonicalUrl) => template
   .replace('__CANONICAL_URL__', canonicalUrl)

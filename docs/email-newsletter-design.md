@@ -19,10 +19,12 @@ The pull-request review gate is the authorization boundary:
 
 The website signup, permanent issue archive, HTML and plain-text email renderer,
 privacy page, confirmation page, and Cloudflare Worker double-opt-in flow are now
-implemented. The production Worker is deployed at
-`https://socal-tech-signal-signup.vivekhaldar-02231129.workers.dev`; confirmed
-subscribers are stored in the dedicated Resend segment and explicitly opted into
-the weekly topic. Sender authentication for `updates.socaltech.live` is verified.
+implemented. The shared publication-scoped Worker is deployed at
+`https://vivek-blog-subscriptions.vivekhaldar-02231129.workers.dev`; SoCal signup
+uses `/subscribe/socal`. Confirmed subscribers are stored only in the dedicated
+SoCal Resend segment and explicitly opted into the weekly topic. Sender
+authentication for `updates.socaltech.live` is verified. The shared service
+protects unrelated topic preferences during global-unsubscribe re-consent.
 
 A valid physical postal address must replace the email template's launch
 placeholder before the first newsletter Broadcast is sent.
