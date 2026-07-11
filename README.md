@@ -38,3 +38,4 @@ the reviewed mailing address used in every newsletter footer.
 ## Design documents
 
 - [Email newsletter design and implementation](docs/email-newsletter-design.md)
+- [Email delivery operations](docs/email-delivery-operations.md)
