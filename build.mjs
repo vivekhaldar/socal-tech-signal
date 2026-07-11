@@ -3,7 +3,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
-const sourcePath = path.resolve(here, process.argv[2] || 'content/2026-07-10.md');
+const latestIssue = fs.readdirSync(path.join(here, 'content'))
+  .filter((name) => /^\d{4}-\d{2}-\d{2}\.md$/.test(name))
+  .sort()
+  .at(-1);
+if (!latestIssue) throw new Error('No dated Markdown issue found under content/');
+const sourcePath = path.resolve(here, process.argv[2] || path.join('content', latestIssue));
 const templatePath = path.join(here, 'template.html');
 const outputPath = path.join(here, 'index.html');
 
@@ -52,7 +57,7 @@ function inferTags(text) {
 }
 
 const introMatch = md.match(/AI, engineering, security, and founder events[^\n]*\.\n\n([^\n]+)\n\n([^\n]+)?/);
-const issueDate = md.match(/\*\*Pilot edition · ([^*]+)\*\*/)?.[1] || 'Current edition';
+const issueDate = md.match(/\*\*(?:Pilot edition|Edition) · ([^*]+)\*\*/)?.[1] || 'Current edition';
 const coverage = md.match(/\*\*Events from ([^*]+)\*\*/)?.[1] || '';
 
 const featured = parseEvents(
