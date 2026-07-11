@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#dfff35">
+  <title>Subscription — SoCal Tech Signal</title>
+  <style>
+    :root { --paper:#f8f7f0;--ink:#171629;--signal:#dfff35;--red:#f05b3d; }
+    * { box-sizing:border-box; }
+    body { margin:0;background:var(--signal);color:var(--ink);font:17px/1.55 ui-sans-serif,system-ui,sans-serif; }
+    main { width:min(calc(100% - 2rem),52rem);min-height:100svh;margin:auto;display:grid;align-content:center;padding:4rem 0; }
+    .kicker { margin:0 0 1rem;font-size:.8rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase; }
+    h1 { max-width:12ch;margin:0;font-size:clamp(3rem,11vw,7rem);line-height:.9;letter-spacing:-.075em; }
+    p { max-width:44ch;margin:1.7rem 0 0;font-size:1.1rem; }
+    a { display:inline-block;margin-top:2rem;padding:.9rem 1.1rem;background:var(--ink);color:var(--paper);font-weight:800;text-decoration:none; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="kicker">SoCal / Signal</p>
+    <h1 id="title">You’re on the signal.</h1>
+    <p id="message">Your subscription is confirmed. The complete weekly event list will arrive before the week fills up.</p>
+    <div><a href="/">Back to this week’s events</a></div>
+  </main>
+  <script>
+    const status = new URLSearchParams(window.location.search).get('status');
+    const title = document.getElementById('title');
+    const message = document.getElementById('message');
+    if (status === 'invalid') {
+      title.textContent = 'That link has expired.';
+      message.textContent = 'Return to the event guide and request a fresh confirmation email.';
+    } else if (status === 'service') {
+      title.textContent = 'Confirmation paused.';
+      message.textContent = 'The email service is temporarily unavailable. Try the confirmation link again in a few minutes.';
+    }
+  </script>
+</body>
+</html>

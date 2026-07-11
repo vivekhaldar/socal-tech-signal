@@ -1,0 +1,20 @@
+name = "socal-tech-signal-signup"
+main = "src/index.mjs"
+compatibility_date = "2026-07-10"
+
+[vars]
+SITE_URL = "https://socaltech.live"
+ALLOWED_ORIGINS = "https://socaltech.live,http://localhost:4173"
+RESEND_FROM = "SoCal Tech Signal <signal@updates.socaltech.live>"
+RESEND_REPLY_TO = "vh@vivekhaldar.com"
+RESEND_SEGMENT_ID = "23a2930f-781d-4230-8efc-b89db1fe845a"
+RESEND_TOPIC_ID = "fb44d5d4-a29c-48fc-8d8f-308d705f19bb"
+SIGNUP_MODE = "live"
+
+[[kv_namespaces]]
+binding = "SIGNUP_RATE_LIMIT"
+id = "74d34676ceee41b08f08f03e69ce2510"
+
+# Set secrets with Wrangler; never put values here:
+# wrangler secret put RESEND_API_KEY
+# wrangler secret put CONFIRMATION_SECRET

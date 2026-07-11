@@ -1,6 +1,6 @@
 # Email newsletter design and implementation
 
-Status: planned; partially provisioned
+Status: signup and rendering implemented; weekly sending remains review-gated
 Last updated: July 10, 2026
 
 ## Summary
@@ -16,11 +16,21 @@ The existing review gate remains central:
 3. Merging publishes the website.
 4. Sending the email remains a separate explicit agent action until the workflow has earned enough trust to combine those gates.
 
+The website signup, permanent issue archive, HTML and plain-text email renderer,
+privacy page, confirmation page, and Cloudflare Worker double-opt-in flow are now
+implemented. The production Worker is deployed at
+`https://socal-tech-signal-signup.vivekhaldar-02231129.workers.dev`; confirmed
+subscribers are stored in the dedicated Resend segment and explicitly opted into
+the weekly topic. Sender authentication for `updates.socaltech.live` is verified.
+
+A valid physical postal address must replace the email template's launch
+placeholder before the first newsletter Broadcast is sent.
+
 ## Current provisioning state
 
 - Vivek has created the Resend account.
-- A Resend API key has been provisioned for programmatic control.
-- The key is stored in `pass` at `API_KEYS/RESEND_API_KEY`.
+- A send-only Resend API key is stored at `API_KEYS/RESEND_API_KEY`.
+- A full-access automation key is stored at `API_KEYS/RESEND_FULL_ACCESS_API_KEY`.
 - The key value must never be printed, copied into the repository, included in PR text, written to automation memory, or placed in client-side code.
 
 Agents and scripts should load it only for the process that needs it:
