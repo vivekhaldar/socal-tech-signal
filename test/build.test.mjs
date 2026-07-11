@@ -44,6 +44,21 @@ test('generated production site exposes the complete event list and live signup'
   assert.match(web, /Want next week’s signal in your inbox\?/);
 });
 
+test('every public web surface includes the Cloudflare Analytics beacon', () => {
+  const token = '147476885ede4939b262ff1b3c6e16be';
+  const publicFiles = [
+    'index.html',
+    path.join('issues', issue.slug, 'index.html'),
+    'privacy.html',
+    'subscribed.html',
+  ];
+
+  for (const file of publicFiles) {
+    const html = fs.readFileSync(path.join(root, file), 'utf8');
+    assert.match(html, new RegExp(`data-cf-beacon='\\{"token": "${token}"\\}'`));
+  }
+});
+
 test('automatic sender targets the current homepage and permanent archive', () => {
   assert.equal(publicationMatches(`prefix \"slug\":\"${issue.slug}\" ${issue.issueDate} suffix`, issue), true);
   assert.equal(publicationMatches(`\"slug\":\"old-issue\" ${issue.issueDate}`, issue), false);
