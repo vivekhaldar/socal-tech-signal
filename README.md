@@ -20,3 +20,7 @@ The generated `index.html` has no runtime dependencies beyond the two Google Fon
 A local Codex automation runs every Monday at 8:00 p.m. America/Los_Angeles. It prepares the upcoming Wednesday-through-Tuesday issue, checks the proven organizers in `SOURCES.md`, performs fresh discovery, verifies every shortlisted event, generates the new dated issue and `index.html`, and opens a pull request against `main`.
 
 The automation never merges its own pull request and never pushes directly to `main`. Merging the reviewed pull request is the publishing action for GitHub Pages.
+
+## Design documents
+
+- [Email newsletter design and implementation](docs/email-newsletter-design.md)
