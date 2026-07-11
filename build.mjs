@@ -21,6 +21,6 @@ const render = (canonicalUrl) => template
 fs.writeFileSync(outputPath, render('https://socaltech.live/'));
 const archivePath = path.join(here, 'issues', issue.slug, 'index.html');
 fs.mkdirSync(path.dirname(archivePath), { recursive: true });
-fs.writeFileSync(archivePath, render(issue.webUrl));
+fs.writeFileSync(archivePath, render(issue.archiveUrl));
 
 console.log(`Built ${outputPath} and ${archivePath} from ${sourcePath} (${issue.events.length} event entries)`);

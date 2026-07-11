@@ -3,7 +3,7 @@ Saturday, July 11 through Tuesday, July 21
 
 37 curated event entries. Southern California has a real builder week ahead. LA has the deepest technical slate, including Claude Code, defense cybersecurity, and a two-day spatial-AI hackathon. OC is strongest on practical learning—vibe coding, quantum computing, and AI operator workflows—while San Diego has an unusually good run of small, focused developer communities.
 
-View this issue on the web: https://socaltech.live/issues/2026-07-10/
+View this issue on the web: https://socaltech.live/
 
 THREE TO CIRCLE
 
@@ -215,7 +215,7 @@ Friday, July 24 · 6:00–8:00 p.m. · Newport Beach · Free · Approval require
 A small working clinic built around before/after business workflows and live “hot seat” diagnosis of attendees’ automation problems. The room is limited to roughly 20–30 owners and operators.
 https://www.meetup.com/orange-county-ai/events/315434020/
 
-Full web issue: https://socaltech.live/issues/2026-07-10/
+Full web issue: https://socaltech.live/
 
 SoCal Tech Signal
 Postal address required before launch

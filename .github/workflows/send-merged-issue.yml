@@ -1,0 +1,83 @@
+name: Send merged weekly issue
+
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: socal-tech-signal-email
+  cancel-in-progress: false
+
+jobs:
+  send:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out the merged commit
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          fetch-depth: 2
+
+      - name: Identify a newly added weekly issue
+        id: issue
+        shell: bash
+        env:
+          MERGE_SHA: ${{ github.event.pull_request.merge_commit_sha }}
+        run: |
+          set -euo pipefail
+          mapfile -t added < <(git diff --diff-filter=A --name-only "${MERGE_SHA}^1" "$MERGE_SHA" -- 'content/*.md')
+
+          if [[ ${#added[@]} -eq 0 ]]; then
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "This merge added no dated issue; no email will be sent."
+            exit 0
+          fi
+
+          if [[ ${#added[@]} -ne 1 || ! ${added[0]} =~ ^content/[0-9]{4}-[0-9]{2}-[0-9]{2}\.md$ ]]; then
+            echo "Expected exactly one newly added content/YYYY-MM-DD.md file." >&2
+            printf 'Found: %s\n' "${added[*]}" >&2
+            exit 1
+          fi
+
+          source_path="${added[0]}"
+          slug="$(basename "$source_path" .md)"
+          test -f "issues/$slug/index.html"
+          test -f "email/$slug.html"
+          test -f "email/$slug.txt"
+          test -f "email/$slug.subject.txt"
+          echo "send=true" >> "$GITHUB_OUTPUT"
+          echo "source_path=$source_path" >> "$GITHUB_OUTPUT"
+          echo "slug=$slug" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Node
+        if: steps.issue.outputs.send == 'true'
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 22
+
+      - name: Verify the merged build
+        if: steps.issue.outputs.send == 'true'
+        run: npm test
+
+      - name: Wait for publication and send exactly once
+        if: steps.issue.outputs.send == 'true'
+        env:
+          SOURCE_PATH: ${{ steps.issue.outputs.source_path }}
+          POSTAL_ADDRESS: ${{ secrets.SOCAL_SIGNAL_POSTAL_ADDRESS }}
+          RESEND_API_KEY: ${{ secrets.SOCAL_SIGNAL_RESEND_API_KEY }}
+          RESEND_SEGMENT_ID: 23a2930f-781d-4230-8efc-b89db1fe845a
+          RESEND_TOPIC_ID: fb44d5d4-a29c-48fc-8d8f-308d705f19bb
+          RESEND_FROM: SoCal Tech Signal <signal@updates.socaltech.live>
+          RESEND_REPLY_TO: vh@vivekhaldar.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.event.pull_request.merge_commit_sha }}
+        run: npm run email:send-merged

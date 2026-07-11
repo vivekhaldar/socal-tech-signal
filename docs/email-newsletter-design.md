@@ -1,7 +1,7 @@
 # Email newsletter design and implementation
 
-Status: signup and rendering implemented; weekly sending remains review-gated
-Last updated: July 10, 2026
+Status: signup, rendering, and merge-triggered sending implemented
+Last updated: July 11, 2026
 
 ## Summary
 
@@ -9,12 +9,13 @@ SoCal Tech Signal will offer a weekly email edition containing the complete even
 
 The proposed delivery platform is **Resend**. It is preferred because it supports custom HTML, contacts, segments, topics, Broadcast drafts, scheduling, an official CLI, and an official MCP server. The system should be operable by agents and CI without requiring routine work in Resend's browser dashboard.
 
-The existing review gate remains central:
+The pull-request review gate is the authorization boundary:
 
 1. The Monday-night aggregator opens a pull request containing the website and complete email edition.
 2. Vivek reviews the content and rendered email in GitHub.
 3. Merging publishes the website.
-4. Sending the email remains a separate explicit agent action until the workflow has earned enough trust to combine those gates.
+4. A merge that adds exactly one new dated issue authorizes one email send.
+5. The sender waits until the merged issue is live at the homepage and permanent archive before creating the Broadcast.
 
 The website signup, permanent issue archive, HTML and plain-text email renderer,
 privacy page, confirmation page, and Cloudflare Worker double-opt-in flow are now
@@ -39,7 +40,8 @@ Agents and scripts should load it only for the process that needs it:
 RESEND_API_KEY="$(pass API_KEYS/RESEND_API_KEY)" resend whoami
 ```
 
-Provisioning the account and key does not authorize sending a Broadcast. Sending still requires the explicit approval gate described below.
+Provisioning the account and key does not authorize sending a Broadcast. Merging
+a reviewed PR that adds exactly one dated issue is the explicit approval gate.
 
 ## Goals
 
@@ -49,7 +51,7 @@ Provisioning the account and key does not authorize sending a Broadcast. Sending
 - Preserve the site's visual identity within email-client constraints.
 - Generate the website and email from the same verified Markdown issue.
 - Operate subscriber management, drafts, tests, and sends through CLI, MCP, or API.
-- Keep publishing and sending review-gated and auditable.
+- Make the reviewed PR merge the single publishing-and-sending authorization.
 - Handle unsubscribe, bounces, complaints, and preferences through the email provider.
 - Keep provider credentials and subscriber data out of the public repository.
 
@@ -57,7 +59,7 @@ Provisioning the account and key does not authorize sending a Broadcast. Sending
 
 - No pop-ups, modals, name fields, region selectors, or preference questionnaires in the initial signup form.
 - No browser-dashboard dependency for normal weekly operation.
-- No automatic email send merely because the aggregator completed.
+- No email send merely because the aggregator completed or opened a PR.
 - No direct email sending from GitHub Pages or client-side JavaScript.
 - No separate editorial source for the email.
 - No complex lifecycle campaigns, paid subscriptions, referrals, or sponsorship tooling in the initial release.
@@ -236,15 +238,14 @@ Responsibilities:
 
 The generated email should contain an issue identifier in a comment or metadata field so agents can match a Broadcast to the originating issue and commit.
 
-## Weekly automation and approval gates
+## Weekly automation and approval gate
 
-Extend the Monday-night Codex automation as follows:
+The Monday-night Codex automation:
 
 1. Research and verify the Wednesday-through-Tuesday issue.
 2. Generate the Markdown, website, archive, HTML email, text email, and email screenshot.
 3. Validate all artifacts.
-4. Create a Resend Broadcast **draft** through the CLI or MCP server.
-5. Open the weekly GitHub pull request.
+4. Open the weekly GitHub pull request without contacting Resend.
 
 The PR includes:
 
@@ -256,30 +257,31 @@ The PR includes:
 - The three editor's picks.
 - Broken-link and HTML-validation results.
 - Test-send result.
-- Resend Broadcast ID and draft state.
-- The explicit note: `Merging publishes the website but does not send the email.`
+- The explicit note: `Merging publishes the website and sends this email after live verification.`
 
-### Sending
+### Merge-triggered sending
 
-Create a separate future skill or command with an explicit trigger such as `send this week's SoCal Tech Signal`.
+`.github/workflows/send-merged-issue.yml` runs only when a PR to `main` closes as
+merged. It compares the merge commit with its first parent and proceeds only when
+the merge adds exactly one `content/YYYY-MM-DD.md` file. It then:
 
-Before sending, the agent must verify:
+1. Requires the matching homepage, permanent archive, HTML email, text email,
+   and subject artifact in the merged commit.
+2. Runs the complete test suite.
+3. Renders the final email with the postal address supplied by GitHub Actions.
+4. Polls `https://socaltech.live/` and the dated archive until both serve the
+   expected slug and edition.
+5. Creates a GitHub issue named `[email-send] YYYY-MM-DD` as the durable delivery
+   ledger.
+6. Creates a Resend Broadcast draft and records its ID before sending.
+7. Retrieves and verifies the draft's segment, topic, sender, subject, issue
+   marker, homepage link, and text alternative.
+8. Sends that exact Broadcast ID and closes the ledger after Resend reports
+   `queued`, `scheduled`, or `sent`.
 
-1. The weekly PR was merged.
-2. The expected commit is on `origin/main`.
-3. The permanent issue URL returns the expected edition over HTTPS.
-4. The Resend Broadcast is still a draft and matches the issue identifier.
-5. The HTML and text artifacts match the merged commit.
-6. The configured segment and topic are correct.
-7. The user explicitly authorized the send in the current interaction.
-
-Only then run the equivalent of:
-
-```sh
-resend broadcasts send BROADCAST_ID
-```
-
-Record the Broadcast ID, Resend send result, issue URL, commit SHA, recipient count, and timestamp in an append-only operational log. Never retry an ambiguous send without first checking the Broadcast state.
+On rerun, the workflow reads the saved Broadcast ID first. A Broadcast already
+accepted by Resend is never sent again. If a send request fails ambiguously, the
+workflow retrieves the Broadcast state before deciding whether it may retry.
 
 ## Agent interfaces
 
@@ -388,19 +390,19 @@ Pricing, limits, API behavior, and MCP support are time-sensitive. Reverify them
 - Add the website signup band and confirmation pages.
 - Complete abuse, privacy, accessibility, and failure-path testing.
 
-### Phase 4: weekly draft automation
+### Phase 4: weekly merge automation
 
 - Extend the aggregator PR to include all email artifacts.
-- Create or update one idempotent Resend draft per issue.
-- Add the draft ID and verification summary to the PR.
-- Keep sending as a separate explicit action.
+- Include the homepage, permanent archive, and email artifacts in the PR.
+- Treat merge as authorization to create, verify, and send exactly one Broadcast.
+- Store the Broadcast ID and terminal state in a durable GitHub issue ledger.
 
 ### Phase 5: operational hardening
 
 - Add webhook monitoring for delivery, bounce, complaint, and unsubscribe events.
 - Add subscriber export/backup procedure.
 - Measure signup conversion and delivery health without unnecessary tracking.
-- Decide whether merging a reviewed PR should eventually become sufficient authorization to send.
+- Monitor the exactly-once ledger and delivery results for the first several issues.
 
 ## Open decisions
 
@@ -411,8 +413,8 @@ Pricing, limits, API behavior, and MCP support are time-sensitive. Reverify them
 5. Choose and register the postal address shown in the footer.
 6. Decide whether open and click tracking should remain disabled.
 7. Decide which mailbox receives automated test sends.
-8. Decide whether the archived issue URLs should be date-based, slug-based, or both.
-9. Decide when, if ever, PR merge becomes authorization to send automatically.
+8. The homepage serves the current issue and `issues/YYYY-MM-DD/` preserves each permanent archive.
+9. A reviewed PR merge is authorization to send automatically after live-site verification.
 
 ## Reference links
 

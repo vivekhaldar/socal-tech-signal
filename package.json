@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node build.mjs && node build-email.mjs",
     "build:preview": "SIGNUP_MODE=mock node build.mjs && node build-email.mjs",
+    "email:send-merged": "node scripts/send-merged-issue.mjs",
     "test": "node --test test/*.test.mjs worker/test/*.test.mjs"
   }
 }

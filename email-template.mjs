@@ -87,6 +87,7 @@ export const renderEmailHtml = (issue, options = {}) => {
   }).join('');
 
   return `<!doctype html>
+<!-- socal-tech-signal:${escapeHtml(issue.slug)} -->
 <html lang="en">
 <head>
   <meta charset="utf-8">
