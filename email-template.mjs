@@ -64,8 +64,13 @@ export const renderEmailHtml = (issue, options = {}) => {
   const postalAddress = options.postalAddress || 'Postal address required before launch';
   const unsubscribeUrl = options.unsubscribeUrl || '{{{RESEND_UNSUBSCRIBE_URL}}}';
   const preheader = `${issue.featured.map((event) => event.title).join(' · ')} — plus the complete ${issue.events.length}-event list.`;
+  const countSummary = REGION_ORDER
+    .filter((region) => issue.counts[region] > 0)
+    .map((region) => `${region.toUpperCase()} ${issue.counts[region]}`)
+    .join('&nbsp;&nbsp;·&nbsp;&nbsp;');
   const regionSections = REGION_ORDER.map((region) => {
     const events = issue.events.filter((event) => event.region === region);
+    if (!events.length) return '';
     return `
       <tr>
         <td style="padding:44px 28px 0;background:${COLORS.paper};">
@@ -122,11 +127,6 @@ export const renderEmailHtml = (issue, options = {}) => {
             </td>
           </tr>
           <tr>
-            <td style="padding:27px 28px 29px;background:${COLORS.paper};border-bottom:1px solid ${COLORS.ink};">
-              <p style="margin:0;color:${COLORS.ink};font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700;line-height:1.45;"><span style="color:${COLORS.cobalt};font-weight:900;">${issue.events.length} curated event entries.</span> ${escapeHtml(issue.intro)}</p>
-            </td>
-          </tr>
-          <tr>
             <td style="padding:42px 28px 32px;background:${COLORS.paper};">
               <h2 style="margin:0 0 9px;color:${COLORS.ink};font-family:Arial Black,Arial,Helvetica,sans-serif;font-size:31px;font-weight:900;line-height:1;letter-spacing:-1.4px;">Three to circle.</h2>
               <p style="margin:0 0 23px;color:${COLORS.inkSoft};font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.45;">The strongest reasons to rearrange the week.</p>
@@ -137,7 +137,7 @@ export const renderEmailHtml = (issue, options = {}) => {
           </tr>
           <tr>
             <td style="padding:13px 28px;background:${COLORS.ink};color:${COLORS.paper};font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:800;letter-spacing:0.4px;">
-              OC ${issue.counts.OC}&nbsp;&nbsp;·&nbsp;&nbsp;LA ${issue.counts.LA}&nbsp;&nbsp;·&nbsp;&nbsp;SD ${issue.counts.SD}&nbsp;&nbsp;·&nbsp;&nbsp;LATER ${issue.counts.Later}
+              ${countSummary}
             </td>
           </tr>
           ${regionSections}
@@ -170,8 +170,6 @@ export const renderEmailText = (issue, options = {}) => {
     `SOCAL TECH SIGNAL — ${issue.issueDate}`,
     issue.coverage,
     '',
-    `${issue.events.length} curated event entries. ${issue.intro}`,
-    '',
     `View this issue on the web: ${issue.webUrl}`,
     '',
     'THREE TO CIRCLE',
@@ -190,6 +188,7 @@ export const renderEmailText = (issue, options = {}) => {
 
   REGION_ORDER.forEach((region) => {
     const events = issue.events.filter((event) => event.region === region);
+    if (!events.length) return;
     lines.push(`${REGION_NAMES[region].toUpperCase()} (${events.length})`, '');
     events.forEach((event) => {
       lines.push(

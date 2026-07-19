@@ -1,0 +1,245 @@
+SOCAL TECH SIGNAL — July 19, 2026
+Sunday, July 19 through Sunday, August 2
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: FutureCon Orange County Cybersecurity Conference
+Thursday, July 23 · 8:00 a.m.–5:15 p.m. · Garden Grove · $200 full day / $50 afternoon · Approval required
+The most substantial security program in the window combines a CISO panel with sessions on browser threats, machine-speed attacks, autonomous-agent attack surfaces, regulated-data access, and bot/API security. It is sponsor-heavy, but the agenda is unusually current and employed IT professionals can earn up to 10 CPE credits; students and most sales or business-development applicants are ineligible.
+https://futureconevents.com/events/orange-county-ca-2026/
+
+EDITOR'S PICK 02: Secure AI-Assisted Development: Building Safer Code with Claude Code, Codex, and Security-Driven Prompts
+Wednesday, July 22 · 5:30–8:30 p.m. · Santa Monica · Free
+OWASP Los Angeles is offering a practical, demo-driven session on secure prompting, code review, testing, and remediation with AI coding tools. This is the strongest broadly accessible LA event for developers who want concrete techniques rather than another high-level AI panel.
+https://luma.com/tldeyvfj
+
+EDITOR'S PICK 03: Future of Work: Social Impact Hackathon
+Saturday–Sunday, August 1–2 · 9:00 a.m.–5:30 p.m. · Rancho Bernardo · Free application
+Nonprofit leaders, community builders, technologists, and social entrepreneurs will work alongside AI teammates and mentors on real outreach, grants, research, operations, and project-management needs. The participating organization stays in the driver’s seat, no technical background is required, and attendance is free but selected by application.
+https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/315489187/
+
+ORANGE COUNTY (16)
+
+Tartini AI Leadership for the New Era — Next Session
+Tuesday, July 21 · 6:00 p.m. · Newport Beach
+The next Ticket 500 session continues its three-part AI leadership series for entrepreneurs and operators. The venue calendar also lists a following installment on July 27.
+https://tickets.ticket500.events/event/tartini-ai-leadership-for-the-new-era-a-3-part-seminar
+
+tech night! Orange County
+Tuesday, July 21 · 6:00–8:00 p.m. · Orange County
+A developer-community social with an explicit no-recruiter and no-sales-pitch policy. Choose this when the goal is genuine peer connection with local software people rather than a formal program.
+https://technight.events/
+
+AI Tinkerers Orange County
+Tuesday, July 21 · 6:00–8:00 p.m. · Orange County · Approval required · Address after acceptance
+Live implementation demos, code and architecture internals, technical Q&A, and “demos, not decks” for engineers and founders building agents, autonomous workflows, and production LLM integrations. The event remains open for RSVP verification, with the Centercode address released to accepted attendees.
+https://orange-county.aitinkerers.org/p/ai-tinkerers-orange-county-tuesday-july-21-2026-at-centercode
+
+Orange County AI Vibe Coding
+Wednesday, July 22 · 5:00–7:00 p.m. · Newport Beach · Free
+Bring a laptop and work alongside people using Claude Code, Codex, and Gemini. The recurring coworking format welcomes both beginners who want help getting started and experienced builders with active projects.
+https://www.meetup.com/orange-county-ai/events/315507532/
+
+★ FutureCon Orange County Cybersecurity Conference
+Thursday, July 23 · 8:00 a.m.–5:15 p.m. · Garden Grove · $200 full day / $50 afternoon · Approval required
+A full cybersecurity conference with current sessions on AI-enabled attacks, coding-agent risk, bot and API security, governed data access, and enterprise resilience. Attendance is limited to employed IT professionals; the full-day pass includes meals, a happy hour, and up to 10 CPE credits.
+https://futureconevents.com/events/orange-county-ca-2026/
+
+AI-First Engineering, Voice Agents and Claude Code
+Thursday, July 23 · 4:30–7:00 p.m. · Irvine
+A developer-focused evening on voice agents, spec-driven development, and building a knowledge base with Claude Code. The program promises live engineering examples rather than a general AI overview.
+https://www.meetup.com/irvine-ai/events/315567079/
+
+AI Clinic for OC Business Owners & Operators
+Friday, July 24 · 6:00–8:00 p.m. · Newport Beach · Free · Approval required
+A small working clinic built around three real business workflows and live hot-seat diagnosis of attendees’ automation problems. Capacity is roughly 20–30 owners and operators, so this is best for people ready to bring a concrete process to improve.
+https://luma.com/c0f51iw1
+
+Orange County AI Office Hours
+Sunday, July 26 · 3:00–5:00 p.m. · Newport Beach · Free
+An informal HanaHaus work session for project feedback, collaborator discovery, or help getting unstuck. There is no formal agenda; the value is access to a recurring local builder community.
+https://www.meetup.com/orange-county-ai/events/315257211/
+
+AI in Production: The Agent Economy and High-Stakes AI Decisions
+Tuesday, July 28 · 6:00–8:00 p.m. · Irvine · Ticketed
+A keynote on identity, authorization, and payments for trusted agent transactions, followed by an Autodesk lightning talk about AI-assisted decisions in high-stakes settings. The public page lists early-bird and standard tickets but does not expose the prices before registration.
+https://luma.com/hw3fs8wp
+
+Design Leadership for the AI Era
+Tuesday, July 28 · 6:00–8:00 p.m. · Newport Beach · Paid registration required
+A product-and-design leadership session on how AI changes team direction, decision-making, and the craft beyond prompt techniques. Tickets are sold through an external registration page, with the price not shown on the Meetup listing.
+https://www.meetup.com/socaluxdesigners/events/315506339/
+
+Securing AI Coding Agents: Claude Code, RCEs, and Developer Workflow Risk
+Wednesday, July 29 · 5:30–7:30 p.m. · Irvine
+Cloud Security Alliance Orange County and Kodem will unpack real remote-code-execution research, trust-boundary failures, and practical controls for enterprise adoption of AI coding agents. Bring a laptop for the hands-on workshop.
+https://www.meetup.com/cloud-security-alliance-csa-orange-county/events/315504291/
+
+Technical Co-Founder Wanted
+Thursday, July 30 · 6:00–8:00 p.m. · Newport Beach
+Founders will present product ideas to engineers and AI builders for candid technical feedback and possible co-founder matches. The format is useful for people actively evaluating a company-building relationship, not passive startup networking.
+https://luma.com/z3qkkwbg
+
+Prototype-Driven Building: Keep Your Plan Flexible as You Build with AI
+Thursday, July 30 · 6:30–9:00 p.m. · Fullerton
+A presentation and hands-on workshop on prototype-driven development with AI agents. Bring a laptop, an AI coding agent, and an idea you are willing to build in the room.
+https://www.meetup.com/i-build-with-ai/events/312965531/
+
+Claude 101: Work Smarter with AI
+Friday, July 31 · 11:30 a.m.–1:00 p.m. · Irvine · Free · 30 seats
+An introductory business-user workshop with live Claude demonstrations, practical workplace examples, and lunch. Registration is handled through the organizer’s external event page.
+https://www.meetup.com/right-click/events/315673106/
+
+Marketing Agents in Action
+Friday, July 31 · 6:00–8:00 p.m. · Newport Beach · Free
+Case studies and Q&A on how founder-led businesses deploy marketing agents for campaigns, lead qualification, and smaller operating teams. The organizer explicitly promises real use cases and economics rather than a theory-heavy talk.
+https://www.meetup.com/orange-county-ai/events/315730345/
+
+Orange County: Claude Code for Beginners
+Saturday, August 1 · 1:00–5:00 p.m. · Newport Beach · Approval required
+A four-hour beginner session on using Claude Code in the terminal to build a full-stack application from zero to one. The registration page requires host approval; arrive with a laptop and enough setup time to work through the build.
+https://luma.com/claude-k58w
+
+LOS ANGELES (14)
+
+Worlds in Action Hack: SIGGRAPH Edition
+Sunday, July 19 · In progress until 5:00 p.m. · Los Angeles · Free application · Approval required
+The second day of this world-model and GenAI hackathon is still underway at the refresh cutoff, with spatial AI, Gaussian-splat, WebXR, multi-agent, and creative-AI projects heading toward final demos. Exact access and location require organizer approval, so confirm acceptance before traveling.
+https://luma.com/u7pmhw92
+
+Broken Data Club LA with Matchbook AI
+Monday, July 20 · 6:00–8:00 p.m. · Santa Monica · Approval required · Two spots remaining when checked
+A deliberately small room for data, analytics, governance, MDM, BI, and platform leaders dealing with the unreliable enterprise-data layer underneath AI systems. It is explicitly neither a product demo nor a generic AI meetup.
+https://luma.com/vwacsjdj
+
+Agents & APIs Los Angeles Developer Meetup
+Tuesday, July 21 · 5:30–7:30 p.m. · Venice
+Postman, Vercel, Render, and GitLab speakers will demonstrate context-aware engineering agents, natural-language API logic, dependency-aware lifecycle changes, and the evolution of production agent architectures. Space is limited, but registration was still active when checked.
+https://luma.com/los-angeles-july
+
+The AI Shift in Cybersecurity
+Tuesday, July 21 · 5:30–8:30 p.m. · Culver City · From $21.05 · Registration required
+ISSA-LA’s two-session practitioner evening covers how AI is changing vulnerability management, offensive security, secure development, security operations, GRC, hiring, and threat hunting. Dinner, drinks, and two CPE credits are included.
+https://www.eventbrite.com/e/the-ai-shift-in-cybersecurity-what-breaks-what-survives-what-wins-tickets-1988245285170
+
+Quantum Biology: The Next Frontier of Computing, Life, and Intelligence
+Wednesday, July 22 · 2:00–6:00 p.m. · USC, Los Angeles · Free · Registration required
+A public USC program spanning a scientific primer, research and startup panels, company building, workforce development, and a showcase. It sits at an unusual intersection of quantum information, biology, computing, and venture formation.
+https://www.meetup.com/sandiegoquantum/events/315632141/
+
+World Models for Robotics Reading Club — SIGGRAPH × Saturday Robotics
+Wednesday, July 22 · 3:30–6:00 p.m. · Los Angeles Convention Center · Approval required · 70 seats
+Technical lightning talks and discussion on world models, robotics, graphics, simulation, and physical intelligence. The event is inside the SIGGRAPH venue; confirm conference-access requirements with the host before traveling.
+https://luma.com/yh2212ac
+
+★ Secure AI-Assisted Development
+Wednesday, July 22 · 5:30–8:30 p.m. · Santa Monica · Free
+OWASP Los Angeles will demonstrate safer Claude Code and Codex workflows, security-driven prompts, tests, code review, and remediation. It is an unusually practical bridge between application security and day-to-day AI-assisted engineering.
+https://luma.com/tldeyvfj
+
+AI Cafe: AI Power User
+Thursday, July 23 · 8:45–10:30 a.m. · Venice · Approval required
+A friendly but substantive tour of tokens, context, memory, sub-agents, models, harnesses, tools, skills, and connectors. Standard and KINN-member tickets are offered, but the public page does not expose their prices.
+https://luma.com/AICafeJuly23
+
+From Zero to Auto: Hands-On AI Automation for Women
+Saturday, July 25 · 10:00 a.m.–12:30 p.m. · Venice · Approval required · One spot remaining when checked
+Women and nonbinary attendees will build an AI chief of staff using connected workflows, MCPs, Claude, and Cowork. Bring a laptop; this is a build session, not a prompt-writing lecture.
+https://luma.com/women-p2pl
+
+★ Apellix × Pepperdine Autonomous Cleaning Drone Demo
+Saturday, July 25 · 10:00 a.m.–12:00 p.m. · Malibu · Approval required
+A live demonstration of an AI-assisted autonomous cleaning drone, followed by guided attendee flight time. The organizer will also cover deployment economics, training, safety, and commercial operating requirements.
+https://luma.com/hvtoh4ew
+
+Building Demand Forecasting with BigQuery ML
+Saturday, July 25 · 2:00–4:00 p.m. · West Los Angeles
+A hands-on GDG Culver City workshop using BigQuery ML, SQL, ARIMA, and the Citi Bike dataset to build and evaluate a 30-day demand forecast. Bring a laptop and expect to work directly with the model rather than watch a product demo.
+https://gdg.community.dev/events/details/google-gdg-culver-city-presents-building-demand-forecasting-with-bigquery-ml/
+
+Engineering the Future of Intelligence
+Monday, July 27 · 6:00–8:00 p.m. · Long Beach · Registration required
+A DataConLA and CSU Long Beach evening spanning AI, data, computing, and quantum technology. The organizer page is credible but thin on the final agenda and ticket price, so check the registration page before committing.
+https://www.dataconla.com/events/engineering-future-intelligence/
+
+★ Los Angeles Digital Government Summit
+Tuesday, July 28 · 8:00 a.m.–4:25 p.m. · Downtown Los Angeles · Free for public-sector attendees
+Government technology leaders will cover AI operating models, enterprise architecture, cybersecurity for LA28, agentic government, and real public-sector uses. Attendance is restricted to public-sector participants.
+https://events.govtech.com/Los-Angeles-Digital-Government-Summit.html
+
+AI in DevOps World: Introducing MDCP
+Thursday, July 30 · 6:00–9:00 p.m. · Santa Monica
+Two technical talks and demos explore AI in device management and DevOps, then MDCP as an intent-as-syntax approach to architecture and technical debt. The setting is a pub, but the published program is more specific than a generic developer social.
+https://www.meetup.com/meetup-group-zzqwjltm/events/315606851/
+
+SAN DIEGO (12)
+
+OpenAI Build Week Community Meetup — San Diego
+Tuesday, July 21 · 5:00–8:30 p.m. · San Diego · Waitlist
+A Codex-focused build session with current-product updates, community demos, hands-on project time, pizza, and $100 in credits for checked-in attendees. The event is full, but the organizer is still accepting waitlist requests and releases the address to confirmed attendees.
+https://luma.com/3fs6haho
+
+Taking Agentic AI to Production + Amazon Quick and AWS AI-DLC Demo
+Tuesday, July 21 · 6:00–8:00 p.m. · University City
+A production-oriented session on moving agents from scoped proof of concept through governed deployment and ongoing xOps, followed by Amazon Quick and live AWS AI-DLC/Kiro demonstrations. It conflicts with the OpenAI meetup, so choose production architecture here versus hands-on Codex building there.
+https://www.meetup.com/amazon-web-services-san-diego-user-group/events/315574281/
+
+Google AI Studio — VibeCraft
+Wednesday, July 22 · 7:45–8:45 a.m. · Kearny Mesa
+An early-morning, hands-on introduction to Google AI Studio for everyone from first-time prompters to developers building multi-agent workflows. The organizer frames the recurring series as a working lab for developers, writers, artists, and strategists.
+https://eventship.com/event/this-week-google-ai-studio
+
+San Diego Claude Conversation: Who Decides the Rules?
+Wednesday, July 22 · 6:30–8:30 p.m. · San Diego · Waitlist
+A small-group discussion about who sets the rules for increasingly capable AI systems, designed without panels, slides, or pitches. The exact address is released to attendees, and the event was full when checked.
+https://luma.com/claude-3b0x
+
+EDGE 2026 — Jubilant Innovation Forum
+Thursday, July 23 · 1:00–8:00 p.m. · Torrey Pines · Invite only
+A curated biotech forum for founders, investors, and pharmaceutical decision-makers, with keynotes, intimate panels, and a small emerging-company pitch session. The agenda focuses on capital-efficient company creation and strategic partnerships, but access is deliberately limited.
+https://luma.com/742l49ul
+
+Claude Cowork Workshop for Transitioning Veterans
+Friday, July 24 · 11:00 a.m.–2:00 p.m. · San Diego · Approval required · One spot remaining when checked
+A hands-on Claude Cowork workshop for service members and veterans within 24 months of transition. No prior AI experience is required, and lunch is included; the exact venue is shared with approved attendees.
+https://luma.com/fho6o4xw
+
+Securing AI Coding Agents: Claude Code, RCEs, and Developer Workflow Risk
+Tuesday, July 28 · 5:30–7:30 p.m. · University City
+Cloud Security Alliance San Diego and ISACA San Diego are bringing Kodem’s hands-on AI coding-agent security workshop south after the OC session. Expect real RCE research, trust-boundary failures, and practical controls; onsite garage parking is paid, with free street parking nearby.
+https://www.meetup.com/cloud-security-alliance-san-diego/events/315495064/
+
+AI Open Office Hours
+Wednesday, July 29 · 9:00–11:00 a.m. · San Diego
+Founders and operators can submit a company-building question for a one-on-one slot while other attendees listen and form breakout discussions. It is an advice-and-peer-learning format, not a prepared lecture.
+https://eventship.com/event/ai-open-office-hours
+
+From Prompt to Motion: Hands-On AI Video Workshop
+Wednesday, July 29 · 5:30–8:00 p.m. · Logan Heights
+A 30-person working session for local creatives who want to move from prompts into an actual AI video-production workflow. The small capacity and hands-on format make it more useful than a broad creative-AI showcase.
+https://eventship.com/event/from-prompt-to-motion-a-hands-on-ai-video-workshop-for-san-diego-creatives
+
+San Diego Accessibility & Inclusive Design — AI, Disability, and New Interfaces
+Wednesday, July 29 · 6:00–8:00 p.m. · University City · Food and drinks provided
+Two ServiceNow accessibility leaders will examine artificial awareness and the design requirements for AI interfaces serving blind and low-vision users. The talks bring lived experience and product-engineering context to a discussion that is often handled too abstractly.
+https://www.meetup.com/a11ysd/events/315006767/
+
+San Diego Defense Tech Meetup
+Thursday, July 30 · 8:30–11:30 a.m. · Mission Valley
+A targeted ecosystem gathering for defense founders, warfighters, end users, investors, and technical builders. The program is networking-led, but the audience definition is specific enough to be useful to people actively building dual-use or national-security technology.
+https://eventship.com/event/sd-defense-tech-meetup-2
+
+★ Future of Work: Social Impact Hackathon
+Saturday–Sunday, August 1–2 · 9:00 a.m.–5:30 p.m. · Rancho Bernardo · Free application
+Mission-driven organizations will work with AI teammates and mentors on real grants, outreach, stakeholder research, operations, and project-management challenges. No technical background is required, but applying does not guarantee acceptance.
+https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/315489187/
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
