@@ -16,8 +16,8 @@ const issue = loadIssue(findLatestIssuePath(root));
 
 test('latest issue contains the complete curated edition', () => {
   assert.equal(issue.featured.length, 3);
-  assert.equal(issue.events.length, 42);
-  assert.deepEqual(issue.counts, { OC: 16, LA: 14, SD: 12, Later: 0 });
+  assert.equal(issue.events.length, 41);
+  assert.deepEqual(issue.counts, { OC: 16, LA: 13, SD: 12, Later: 0 });
   assert.equal(issue.webUrl, 'https://socaltech.live/');
   assert.equal(issue.archiveUrl, `https://socaltech.live/issues/${issue.slug}/`);
 });
