@@ -16,8 +16,8 @@ const issue = loadIssue(findLatestIssuePath(root));
 
 test('latest issue contains the complete curated edition', () => {
   assert.equal(issue.featured.length, 3);
-  assert.equal(issue.events.length, 37);
-  assert.deepEqual(issue.counts, { OC: 10, LA: 12, SD: 11, Later: 4 });
+  assert.equal(issue.events.length, 42);
+  assert.deepEqual(issue.counts, { OC: 16, LA: 14, SD: 12, Later: 0 });
   assert.equal(issue.webUrl, 'https://socaltech.live/');
   assert.equal(issue.archiveUrl, `https://socaltech.live/issues/${issue.slug}/`);
 });
@@ -33,7 +33,31 @@ test('HTML and text email editions include every event and required footer contr
   assert.match(html, /\{\{\{RESEND_UNSUBSCRIBE_URL\}\}\}/);
   assert.match(text, /\{\{\{RESEND_UNSUBSCRIBE_URL\}\}\}/);
   assert.match(html, new RegExp(`socal-tech-signal:${issue.slug}`));
+  assert.doesNotMatch(html, /curated event entries\./i);
+  assert.doesNotMatch(text, /curated event entries\./i);
   assert.ok(Buffer.byteLength(html) < 90_000, 'email HTML must stay below clipping-prone size');
+});
+
+test('email omits empty regional sections', () => {
+  const events = issue.events.filter((event) => event.region !== 'Later');
+  const withoutLater = {
+    ...issue,
+    events,
+    counts: { ...issue.counts, Later: 0 },
+  };
+  const html = renderEmailHtml(withoutLater, { postalAddress: 'Test address' });
+  const text = renderEmailText(withoutLater, { postalAddress: 'Test address' });
+
+  assert.doesNotMatch(html, />Later on the radar</);
+  assert.doesNotMatch(html, /LATER(?:&nbsp;|\s)*0/);
+  assert.doesNotMatch(text, /LATER ON THE RADAR/);
+});
+
+test('website template omits the issue synthesis band', () => {
+  const template = fs.readFileSync(path.join(root, 'template.html'), 'utf8');
+  assert.doesNotMatch(template, /class="manifesto"/);
+  assert.doesNotMatch(template, />The signal</);
+  assert.doesNotMatch(template, /curated event entries\./i);
 });
 
 test('generated production site exposes the complete event list and live signup', () => {
