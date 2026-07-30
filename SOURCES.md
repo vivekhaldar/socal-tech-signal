@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-07-10
+Last updated: 2026-07-29
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -63,6 +63,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | --- | --- | --- |
 | Meetup broad search | Useful but noisy | Prefer known group pages first, then use broad search to find new recurring communities. |
 | Eventbrite broad search | Useful but rate-limited | Use targeted city/topic searches. Browser extraction may work when text fetches return HTTP 429. |
+| [Alliance for SoCal Innovation community events](https://alliancesocal.org/socal-community-events/) | Useful regional innovation index | Check for founder, technical, university, and ecosystem events across Southern California. The page mixes events with application deadlines and can retain past listings, so follow each candidate to the canonical organizer page and verify the current date, location, program, and registration state. |
 | [dev.events North America](https://dev.events/NA) | Useful for conferences; no in-window pilot picks | Check for larger developer conferences and events needing early registration. |
 | [infosecmap](https://infosecmap.com/) | Suggested by Alok; not yet proven in the pilot | Evaluate for local security events, then promote it in this registry only if it yields verified high-quality picks. |
 
