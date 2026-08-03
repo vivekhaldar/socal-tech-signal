@@ -23,6 +23,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [AI Tinkerers Orange County](https://orange-county.aitinkerers.org/) | Screened, demo-first technical AI events | One of the highest-signal OC sources; prioritize live implementation and no-pitch events. |
 | [Orange County ACM](https://www.meetup.com/acm-oc/) | Computer science, quantum, and engineering talks | Credible speakers and concrete programs; also check named IEEE/SIG co-sponsors. |
 | [Irvine AI](https://www.meetup.com/irvine-ai/) | Claude Code, voice agents, and AI-first software engineering | Small but technically focused; inspect each agenda for live coding or implementation detail. |
+| [OC CTO Talks](https://www.eventbrite.com/o/arkusnexus-cto-talks-40071207613) | Enterprise AI implementation, engineering leadership, and production adoption | A recurring, agenda-driven series with named technical leaders. Prefer the organizer's Eventbrite listing when secondary indexes show a shifted time zone. |
 | [tech night!](https://technight.events/) | Developer-community gatherings | No recruiters or sales pitches. Include as a community pick, not as a technical talk. |
 
 ## Proven Los Angeles organizers and communities
@@ -35,6 +36,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | THE BR-DGE | Space, defense, cyber, and dual-use programs in El Segundo | Strong government/industry access; call out approval, eligibility, and parking costs. |
 | Pacific Foundry | Space, defense, investor, operator, and government briefings | Very high signal but often invite-only. Do not imply that a reader can apply when the listing says otherwise. |
 | Broken Data Club LA | Enterprise data, MDM, governance, analytics, and AI platforms | Small curated operator rooms; verify approval status and exact time from Luma structured data when the visible page omits it. |
+| [Product.ai events](https://luma.com/productai) | Product demos, builder showcases, and applied AI conversations | The recurring Golden Hour format can surface live work in small rooms; verify the announced program and guest because details vary by edition. |
 | [SoCal Python](https://www.socalpython.com/) | Python developer meetups across the LA basin | Check both the community site and its current Luma/Meetup listing. |
 | Claude Community Events | Claude Code and hands-on builder meetups | Search Luma and `claude.com/community`; verify the local host, date, and venue. |
 
