@@ -1,0 +1,140 @@
+SOCAL TECH SIGNAL — August 3, 2026
+Tuesday, August 4 through Tuesday, August 11
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: OC CTO Talks x EvoNexus Irvine: Making AI Stick Beyond the Pilot
+Thursday, August 6 · 5:30–8:00 p.m. · Irvine · Free
+Senior leaders from Autodesk, Microsoft Innovation Hub, and Vortexa AI will compare the organizational and engineering choices that separate durable AI systems from stalled pilots. The agenda includes a focused panel and audience Q&A rather than a sequence of product pitches.
+https://www.eventbrite.com/e/oc-cto-talks-x-evonexus-irvine-making-ai-stick-beyond-the-pilot-tickets-1993623365152
+
+EDITOR'S PICK 02: San Diego Claude Impact Lab: Transparency and Accountability
+Thursday, August 6 · 6:00–10:00 p.m. · San Diego · Registration required · 3 spots remained at verification
+Teams will turn a prior community conversation about who sets AI’s rules into working local prototypes, then demo what they built. It is an unusually concrete bridge between responsible-AI discussion and shipped artifacts, and non-developers are explicitly welcome.
+https://luma.com/claude-m4he
+
+EDITOR'S PICK 03: LA Agentic AI Meetup hosted by Pinecone
+Tuesday, August 11 · 5:00–7:00 p.m. · Playa Vista · Registration required · Work email requested
+Pinecone is convening engineers, founders, and agent builders for member demos and implementation-focused conversation spanning RAG and agentic workflows. The low-key format is designed around seeing what local builders are actually making rather than hearing sales presentations.
+https://luma.com/avw5a3y9
+
+ORANGE COUNTY (5)
+
+Orange County AI Vibe Coding
+Wednesday, August 5 · 5:00–7:00 p.m. · Newport Beach · RSVP required
+Bring a laptop and an active project—or arrive as a beginner who wants help starting with Claude Code, Codex, or Gemini—for two hours of informal building and peer support.
+https://www.meetup.com/orange-county-ai/events/315716259/
+
+★ OC CTO Talks x EvoNexus Irvine: Making AI Stick Beyond the Pilot
+Thursday, August 6 · 5:30–8:00 p.m. · Irvine · Free
+Leaders with enterprise AI experience at Autodesk and Microsoft will examine why pilots stall and what it takes to carry useful systems into production with measurable value.
+https://www.eventbrite.com/e/oc-cto-talks-x-evonexus-irvine-making-ai-stick-beyond-the-pilot-tickets-1993623365152
+
+Legal Strategy Forum: Raising Capital, Scaling Your Business, and Protecting Your IP
+Thursday, August 6 · 6:00–8:30 p.m. · Newport Beach · Free
+Two attorneys will take founder questions on fundraising structures, intellectual property, acquisitions, international expansion, and the legal decisions that become expensive when left until later.
+https://www.buildandback.com/events/legal-strategy-forum
+
+Orange County AI Office Hours
+Sunday, August 9 · 3:00–5:00 p.m. · Newport Beach · RSVP required
+This is an informal working room rather than a lecture: bring an AI project, a technical question, or a problem you want to think through with other local practitioners.
+https://www.meetup.com/orange-county-ai/events/315400049/
+
+Build a Website with AI
+Tuesday, August 11 · 6:00–8:00 p.m. · Newport Beach · Registration required
+Stephan Fitzpatrick will build from plain-language prompt to working pages using Orange County AI’s own site, explaining the tools, workflow, and quality decisions along the way; no coding background is required.
+https://luma.com/ldmr1nrd
+
+LOS ANGELES (5)
+
+Product.ai Golden Hour 006
+Wednesday, August 5 · 5:00–8:00 p.m. · West Los Angeles · Registration required · 70-person room
+Builders will put early products in front of a small audience for a live “tasting,” followed by a fireside conversation. It is most useful for makers willing to show work and compare notes before everything feels finished.
+https://luma.com/hbx8dqlh
+
+THE BR-DGE Launchpad: New SpaceWERX SBIR/STTR Opportunities
+Thursday, August 6 · 1:30–2:30 p.m. · El Segundo · Registration required
+Early-stage startups and non-traditional vendors can get a focused briefing on upcoming SpaceWERX topics, funding priorities, proposal preparation, and routes into federal innovation programs.
+https://luma.com/fjfain9u
+
+Develop an Actionable AI Implementation Plan
+Thursday, August 6 · 1:30–3:30 p.m. · Long Beach · Registration required
+The Long Beach Accelerator’s working session helps business owners map the people, processes, risks, and next steps needed to move a worthwhile AI opportunity into responsible implementation.
+https://luma.com/sz1j8xx0
+
+Human Expertise Meets Procurement Intelligence
+Thursday, August 6 · 6:30–9:00 p.m. · Los Angeles · Approval required · Venue hidden until registration
+An intimate Unusual Ventures roundtable for dual-use founders and government-innovation operators will examine procurement pathways, contracting vehicles, stakeholder maps, and policy requirements for selling into the public sector.
+https://luma.com/yz800lff
+
+★ LA Agentic AI Meetup hosted by Pinecone
+Tuesday, August 11 · 5:00–7:00 p.m. · Playa Vista · Registration required · Work email requested
+Pinecone’s third local gathering puts live community demos at the center, with room for engineers and founders working on RAG systems, agent workflows, and adjacent AI infrastructure.
+https://luma.com/avw5a3y9
+
+SAN DIEGO (11)
+
+San Diego AI Showcase #7: Retention
+Tuesday, August 4 · 6:00–8:30 p.m. · Vista · $10 / free invited-attendee ticket
+Five or more founders will demo unfinished AI products and lessons around retention, including UX bloat from vibe-coding tools, explainable research analysis, and the path from code to design and back.
+https://eventship.com/event/san-diego-ai-showcase-7-north-county-august-2026-main-theme-retention
+
+VibeCraft mini-Slop: Burn Tokens, Race the Clock, and Build Something Ridiculous
+Wednesday, August 5 · 7:45–8:45 a.m. · San Diego · Registration required
+The build prompt drops when the clock starts, leaving participants one hour to improvise with their preferred AI tools and show what they can make without advance preparation.
+https://eventship.com/event/vibecraft-mini-slop-burn-tokens-race-the-clock-build-something-ridiculous
+
+The Marketing Team of One: The Future of AI Marketing
+Wednesday, August 5 · 5:30–8:30 p.m. · Scripps Ranch · Registration required · Limited seating
+Three operators will break down AI-assisted content, outreach, follow-up, and the first automations a small firm should attempt, followed by Q&A and live demos.
+https://luma.com/3sgopqbv
+
+From Scattered to Streamlined: Build One Source of Truth for Your Team
+Thursday, August 6 · 11:30 a.m.–1:00 p.m. · Rancho Bernardo · Registration required · Limited seating
+This Airtable San Diego launch includes a live build walkthrough for operators and team leads trying to replace scattered spreadsheets, email threads, and chat updates with one working system.
+https://luma.com/airtable-from-scattered-to-streamlined
+
+In-N-Out: Money Lessons for Life Science Startups
+Thursday, August 6 · 4:00–7:00 p.m. · Sorrento Valley · Approval required · Space limited
+A UC San Diego founder will unpack an early $2.5 million raise, while a biotech adviser covers current M&A structures and valuations; the program also includes fresh market observations from ADLM 2026.
+https://luma.com/jg6bw1tr
+
+Let’s Code
+Thursday, August 6 · 6:00–8:00 p.m. · Clairemont · Registration required
+Bring a laptop, book, or programming problem for an informal project night with peer help; there is no formal training or presentation.
+https://luma.com/0gxmye14
+
+★ San Diego Claude Impact Lab: Transparency and Accountability
+Thursday, August 6 · 6:00–10:00 p.m. · San Diego · Registration required · 3 spots remained at verification
+Small teams will build and demo local tools around transparency and accountability, with dinner provided and no developer background required.
+https://luma.com/claude-m4he
+
+DEVx Paper Club #4: World Models
+Thursday, August 6 · 7:00–9:00 p.m. · Del Mar Heights · Sold out
+Adam Smith will lead an accessible technical deep dive into world-model research for San Diego’s developer community. Registration had closed at verification, but the listing remains useful for readers already registered and for tracking future DEVx paper clubs.
+https://luma.com/devx-paper-club-aug-6-2026
+
+co routine("Moniker")
+Friday, August 7 · 9:00 a.m.–4:00 p.m. · Liberty Station · Registration required
+DEVx is hosting a long-form developer coworking day for people who want to bring a software project, trade feedback, or get unstuck alongside other local builders.
+https://luma.com/devx-co-routine-aug-7-2026
+
+Prompt Engineering and RAG: AI Engineering
+Saturday, August 8 · 12:00–1:30 p.m. · Rancho Bernardo · In person and online
+San Diego Machine Learning’s book club will discuss the prompt-engineering and retrieval-augmented-generation chapters of Chip Huyen’s *AI Engineering*, with prior notes and recordings available for context.
+https://www.meetup.com/san-diego-machine-learning/events/315942586/
+
+AI Town Hall
+Monday, August 10 · 6:00–8:00 p.m. · Rancho Bernardo · RSVP required
+Attendees submit and vote on questions before the event, then the organizers route the highest-priority topics—from coding and security to biotech, defense, and practical automation—to relevant local experts.
+https://www.buildandback.com/events/ai-town-hall-rancho-bernardo
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
