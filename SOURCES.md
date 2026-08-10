@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-07-29
+Last updated: 2026-08-09
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -25,6 +25,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Irvine AI](https://www.meetup.com/irvine-ai/) | Claude Code, voice agents, and AI-first software engineering | Small but technically focused; inspect each agenda for live coding or implementation detail. |
 | [OC CTO Talks](https://www.eventbrite.com/o/arkusnexus-cto-talks-40071207613) | Enterprise AI implementation, engineering leadership, and production adoption | A recurring, agenda-driven series with named technical leaders. Prefer the organizer's Eventbrite listing when secondary indexes show a shifted time zone. |
 | [tech night!](https://technight.events/) | Developer-community gatherings | No recruiters or sales pitches. Include as a community pick, not as a technical talk. |
+| [Sustain SoCal events](https://sustainsocal.org/events/) | Water, energy, climate, data-center infrastructure, and clean technology | Strong cross-sector technical programs with named utility, university, engineering, and industry speakers. Preserve any source time-zone-label caveat and verify pricing on the linked registration page. |
+| [EnergySec Summit](https://www.energysec.org/summit/) | OT/ICS security, NERC CIP, energy-sector compliance, and critical-infrastructure cyber | Annual high-signal conference with detailed agenda pages. Verify the live ticket state separately: its 2026 sales page showed correct future dates while also saying registration was unavailable. |
 
 ## Proven Los Angeles organizers and communities
 
@@ -39,6 +41,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Product.ai events](https://luma.com/productai) | Product demos, builder showcases, and applied AI conversations | The recurring Golden Hour format can surface live work in small rooms; verify the announced program and guest because details vary by edition. |
 | [SoCal Python](https://www.socalpython.com/) | Python developer meetups across the LA basin | Check both the community site and its current Luma/Meetup listing. |
 | Claude Community Events | Claude Code and hands-on builder meetups | Search Luma and `claude.com/community`; verify the local host, date, and venue. |
+| [AWS Builders Los Angeles](https://www.meetup.com/aws-builders-los-angeles/) | AWS architecture, applied AI, developer platforms, and community-built systems | Prefer occurrences with named technical sessions. Call out building-access requirements, government ID, laptop, and RSVP conditions. |
+| [Transition Careers events](https://transitioncareers.com/events/) | Cleared technical-career fairs spanning space, cyber, engineering, IT, and intelligence | Event-specific clearance and installation-access rules control over generic footer language. Include only targeted technical fairs, not broad recruiting events. |
 
 ## Proven San Diego communities
 
@@ -52,6 +56,9 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [ISACA San Diego on Eventbrite](https://www.eventbrite.com/o/isaca-san-diego-chapter-3005643250) | OT security, governance, risk, audit, and critical infrastructure | Eventbrite may rate-limit text fetches; use browser extraction or the chapter page, then verify price and sales status. |
 | North County AI Coffee Chat | Oceanside/North County AI builder community | Find the current occurrence through Luma SD. Treat as a community pick unless a formal program is listed. |
 | OpenAI Build Week | Codex build sessions and demos | Campaign-specific rather than guaranteed recurring. Search Luma for new local editions. |
+| [IEEE San Diego](https://sdieee.org/sdieee/) | Robotics, autonomous systems, ocean engineering, electronics, and practitioner talks | Cross-check the event body, IEEE vTools registration window, and Meetup structured data; vTools registration dates can be mistaken for event dates by aggregators. |
+| [Aquillius events](https://www.aquillius.com/events) | Life-science, medical-device, biotech-founder, and applied-AI workshops | Verify the individual event page or ticket route because the index can list recurring series with little detail. |
+| [Navy Gold Coast](https://www.navygoldcoast.org/) | Navy procurement, dual use, cyber, autonomy, SBIR/STTR, and small-business acquisition | Annual San Diego conference. Use the current attendee page and dated agenda PDF; older “why attend” copy can retain prior-year access language. |
 
 ## Professional chapter watchlist
 
