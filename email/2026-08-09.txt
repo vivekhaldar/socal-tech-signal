@@ -1,0 +1,185 @@
+SOCAL TECH SIGNAL — August 9, 2026
+Monday, August 10 through Tuesday, August 18
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: OC AI Builders Lightning Hackathon
+Monday, August 17 · 5:00–8:00 p.m. · Irvine · Free · Registration open
+A 50-minute build sprint followed by two-minute demos makes this the week’s sharpest build-to-show loop in Orange County: agents, apps, workflow automation, evals, and developer tools all qualify, while pitches do not. Builders should bring a laptop and arrive ready to make something working alongside the Orange County AI, Nebius, and EvoNexus communities.
+https://luma.com/pmm5w9mj
+
+EDITOR'S PICK 02: Robot Soccer Cup Hack Day
+Friday, August 14 · 9:00 a.m.–7:00 p.m. · Venice · Free · Registration open
+AI LA and Qualcomm are supplying miniAuto robots and a full build day spanning Arduino/Linux, Edge Impulse, and computer vision before a 32-team tournament. It is the strongest Los Angeles pick for engineers who want hardware, edge AI, and a real performance test in the same room.
+https://luma.com/robot-cup-hackathon-aug26
+
+EDITOR'S PICK 03: 2026 Navy Gold Coast Small Business Exposition
+Monday–Thursday, August 17–20 · Programming starts 9:00 a.m. Monday · General attendee registration opens 10:00 a.m. (sponsors 8:00 a.m.) · San Diego · Industry walk-in $899 · On-site registration reopens August 17
+The current draft program brings NAVWAR opportunities, CISA and CMMC, SBIR/STTR, tech transfer, autonomy, acquisition, and matchmaking into one unusually dense defense-technology forum. It is the week’s best San Diego choice for qualified founders and operators who need to understand how small-business innovation reaches Department of the Navy programs.
+https://www.navygoldcoast.org/
+
+ORANGE COUNTY (11)
+
+Build a Website with AI
+Tuesday, August 11 · 6:00–8:00 p.m. · Newport Beach · Free · Registration open
+Stephan Fitzpatrick will build the Orange County AI site from plain-language prompt to working pages, explaining the tools, workflow, and quality decisions for both coders and no-code attendees.
+https://luma.com/ldmr1nrd
+
+Notion Meetup Orange County: Notion, AI, and the Future of Creative Work
+Wednesday, August 12 · 5:00–7:00 p.m. · Irvine · Free · Registration open
+Creators and operators can compare two short keynotes with interactive stations showing live Notion, AI, and agent workflows for content systems, visual identity, and lead pipelines.
+https://luma.com/piqbwqhp
+
+Orange County AI Vibe Coding
+Wednesday, August 12 · 5:00–7:00 p.m. · Newport Beach · Free · Registration open
+Bring a laptop and an active project—or arrive as a beginner who wants direct help starting with Claude Code, Codex, Gemini, or another AI coding tool—for two hours of peer building.
+https://luma.com/orange-9v3e
+
+Water Solutions 11: The Water Data Center Nexus
+Thursday, August 13 · 1:00–7:00 p.m. · Irvine · $100 nonmembers · Registration open
+Data-center, utility, infrastructure, and climate-tech operators can examine water demand, reclaimed-water systems, edge facilities at treatment plants, site readiness, policy, and new solutions with AWS, UCI, utility, and engineering speakers.
+https://sustainsocal.org/event/water-solutions-11/
+
+Founder’s Journey Workshop: Ideation to Action
+Thursday, August 13 · 4:00–6:00 p.m. · Irvine · $25 nonmembers · Member and partner discounts available
+Early technical founders can pressure-test assumptions, product concepts, validation plans, prototypes, and proof-of-concept paths with Zaga Labs and Invento Design practitioners.
+https://network.greaterirvinechamber.com/calendar/Details/founder-s-journey-workshop-series-ideation-to-action-do-you-have-a-business-idea-worth-pursuing-1842054
+
+Gain $1 Million for Your Company’s Next AI Project
+Thursday, August 13 · 6:00–8:00 p.m. · Newport Beach · Free · Registration open
+Despite the promotional title, the operator agenda is concrete: identify high-value AI work, quantify ROI before building, diagnose common failure modes, and turn a project into an executive-ready business case.
+https://luma.com/4wi40o71
+
+Boba and iOS at Summerfield Tea Bar
+Sunday, August 16 · 1:00–2:00 p.m. · Garden Grove · RSVP required · Price not stated
+This is a lightweight bring-a-laptop coding hour for iOS and general software builders who want peer help or a quiet nudge on an active project, not a formal talk.
+https://www.meetup.com/boba-and-code-ios-development-software-and-startups/events/315864395/
+
+21st EnergySec Security AND Compliance Summit
+Monday–Wednesday, August 17–19 · Starts 8:00 a.m. Monday · Anaheim · Published full-conference rate $1,195 nonmembers / $837 members · Registration currently unavailable
+OT and ICS defenders, utility security teams, NERC-CIP practitioners, and critical-infrastructure engineers can dig into real intrusion response, cloud and supply-chain rules, USB and wireless attack tools, agentic-AI risk, incident response, and security-investment decisions. The page still shows future event dates but was not accepting new registrations at verification, so this is practical for existing registrants unless EnergySec reopens sales; a published Monday-only pass is $495.
+https://www.eventzilla.net/e/the-21st-energysec-security-and-compliance-summit-2138678141
+
+★ OC AI Builders Lightning Hackathon
+Monday, August 17 · 5:00–8:00 p.m. · Irvine · Free · Registration open
+Vivek Haldar and Alice from Nebius are hosting a fast build sprint and short demos for people making agents, apps, automations, evals, and developer tools; bring a laptop, and expect food and drinks rather than a pitch stage.
+https://luma.com/pmm5w9mj
+
+SoCalSec — August 2026
+Monday, August 17 · 6:00–8:00 p.m. · Anaheim · Free · Registration open
+Cybersecurity, DFIR, fraud, privacy, intelligence, and public-safety practitioners get a focused, no-sales-pitches community room; go for cross-discipline problem sharing rather than a scheduled presentation.
+https://luma.com/y8ep0r4h
+
+tech night!
+Tuesday, August 18 · 6:00–8:00 p.m. · Irvine · Free · Registration open · 30 spots remained at verification
+Developers and designers can trade project feedback in an explicitly recruiter-free and sales-free outdoor gathering near University Town Center; treat it as a community night, not a technical lecture.
+https://luma.com/6ae65n23
+
+LOS ANGELES (9)
+
+LA Agentic AI Meetup hosted by Pinecone
+Tuesday, August 11 · 5:00–7:00 p.m. · Playa Vista · Free · Registration open · Work email requested
+Engineers, founders, and agent builders can inspect community demos and compare implementation notes across RAG, agent workflows, and adjacent infrastructure in a format explicitly designed without selling.
+https://luma.com/avw5a3y9
+
+Space, Acquisition, FM, IT, Engineering, Cyber & Intel Cleared Hiring Fair
+Tuesday–Wednesday, August 11–12 · 11:00 a.m.–2:00 p.m. each day · El Segundo · Free · Registration and résumé upload required · Existing base access required · Organizer’s clearance guidance conflicts
+Professionals who already have Los Angeles Air Force Base access can meet targeted employers across space, cyber, engineering, IT, facilities, and intelligence; the header says active clearance is required, while the body and registration form indicate applicants without one may register.
+https://transitioncareers.com/event/laafb/
+
+Startup Cafe: Alternative Funding Models with Michael Gilvary
+Wednesday, August 12 · 8:45–10:30 a.m. · Venice · Free · General admission open
+Technical founders who want options beyond a conventional venture round can hear a founder-turned-investor explain alternative capital, investor decisions, and tradeoffs, then test their own assumptions in Q&A.
+https://luma.com/StartupCafeAug12
+
+Avoiding the Cash Crunch
+Thursday, August 13 · 9:00–11:30 a.m. · Santa Monica · Free · Approval required · Exact address released after approval · 10 spots remained at verification
+Founders and operators can work through liquidity, runway, cash management, and market-disruption scenarios with Female Investors Club and Silicon Valley Bank hosts in a small approved room.
+https://luma.com/b7rmtnit
+
+AWS + AI in Action: Exploring Amazon Quick and Community-Built Innovation
+Thursday, August 13 · 4:30–6:30 p.m. · Santa Monica · Free · RSVP open · Government ID and laptop requested
+AWS builders can see one session on Amazon Quick and another on Aurelius Experiment, a privacy-first AWS and AI platform for collective sensemaking, with enough detail for engineers evaluating both approaches.
+https://www.meetup.com/aws-builders-los-angeles/events/315602989/
+
+Demo Day LA — August 2026
+Thursday, August 13 · 5:30–10:00 p.m. · Venice · $99 general admission
+Founders and early-stage operators can watch multiple pitches and live demos, then join a fireside Q&A with TeleSign cofounder Darren Berkovitz; early-bird and startup-demo tiers were sold out at verification.
+https://luma.com/DemoDayLAAug
+
+★ Robot Soccer Cup Hack Day
+Friday, August 14 · 9:00 a.m.–7:00 p.m. · Venice · Free · Registration open
+Participants will build on supplied miniAuto robots using Arduino/Linux, Edge Impulse, and computer vision, then put the result into a 32-team tournament hosted by AI LA and Qualcomm.
+https://luma.com/robot-cup-hackathon-aug26
+
+Decode the Ocean: A Hackathon for Young Builders
+Sunday, August 16 · 11:00 a.m.–2:00 p.m. · Venice · Free · Student, parent, and volunteer tickets open
+Young builders can create and demo ocean- and eDNA-inspired apps or games with classroom-safe Lovable and imagi accounts; the description welcomes middle and high schoolers, while the current student ticket is labeled for high school students.
+https://luma.com/ImagiHackathon
+
+Broken Data Club LA with Matchbook AI
+Monday, August 17 · 6:00–8:00 p.m. · Santa Monica · Free · Approval required · 12 spots remained at verification
+Enterprise data practitioners can compare practical approaches to governance, MDM, Customer 360, identity resolution, analytics, and AI-ready data in a room explicitly positioned apart from generic AI meetups and product demos.
+https://luma.com/6v2ob73q
+
+SAN DIEGO (10)
+
+AI Town Hall
+Monday, August 10 · 6:00–8:00 p.m. · Rancho Bernardo · RSVP required · Price not stated
+Attendees submit and vote on questions before local experts tackle the highest-priority topics across AI security, biotech, defense technology, coding, automation, and practical implementation.
+https://www.buildandback.com/events/ai-town-hall-rancho-bernardo
+
+Autonomous Vehicle (RC) — Beginners and Builders
+Monday, August 10 · 6:00–8:00 p.m. · San Diego · RSVP open · No organizer fee stated · Food and drink are individual purchase
+Robotics builders can bring a kit or bot, get expert help, and work with open-source autonomous-car systems built around the Donkey AI and convolutional-neural-network stack.
+https://www.meetup.com/roboticsclub/events/315138914/
+
+mini-Slop Debrief + Token-Saving Systems
+Wednesday, August 12 · 7:45–8:45 a.m. · San Diego · Registration open · Price not stated
+AI builders can compare local project debriefs, agentic workflows, and concrete token-saving techniques through live walkthroughs rather than a passive presentation.
+https://eventship.com/event/this-week-mini-slop-debrief-token-saving-systems
+
+RoboSub 2026 Overview
+Wednesday, August 12 · 5:30–7:30 p.m. · San Diego · No admission charge · RSVP appreciated · Attendees buy their own food and drink
+Miramar College’s engineering team will unpack its first RoboSub competition—autonomous-underwater-vehicle trials, failures, fixes, and lessons—alongside internship projects and technical show-and-tell from IEEE OES, TMA BlueTech, and MTS.
+https://events.vtools.ieee.org/m/568732
+
+Let’s Code
+Thursday, August 13 · 6:00–8:00 p.m. · San Diego · Free · Registration open
+Bring a laptop, book, or programming problem for an informal project night with peer help; it deliberately offers active coding and learning rather than a formal talk.
+https://luma.com/0gxmye14
+
+Bits in Bio x Phare Bio: Getting Under the Hood of AI Drug Discovery
+Thursday, August 13 · 6:30–8:30 p.m. · San Diego · Free · Approval required · Exact address released after approval
+Biotech and AI practitioners can hear Phare Bio CEO Akhila Kosaraju explain how LLMs and domain-specific models support drug discovery and generative-AI antibiotic work, followed by a focused reception.
+https://luma.com/xurkbmei
+
+Weekend Function(): Cloudflare Deploys
+Saturday, August 15 · 12:00–4:00 p.m. · San Diego · Free · Registration open
+Thomas Desmond will live-build and deploy an app on Cloudflare with an AI coding tool, after which developers can follow along, show projects, build together, or get help on code; no prior Cloudflare experience is required.
+https://luma.com/devx-weekend-function-aug-15-2026
+
+Demystifying Cyber Risk: Integrating Cybersecurity into Enterprise GRC
+Sunday, August 16 · 9:00 a.m.–5:00 p.m. · Chula Vista · $650 · In person only · Registration open · 8 CPE
+Security, audit, and risk leaders can spend a full day translating cyber inputs into enterprise GRC decisions in this pre-conference workshop; it requires a separate ticket from the main GRC conference.
+https://www.theiia.org/en/events/conference/hybrid-conferences/grc-conference
+
+★ 2026 Navy Gold Coast Small Business Exposition
+Monday–Thursday, August 17–20 · Programming starts 9:00 a.m. Monday · General attendee registration opens 10:00 a.m. (sponsors 8:00 a.m.) · San Diego · Industry walk-in $899 · On-site registration reopens August 17
+Qualified defense-technology founders and operators can work through NAVWAR opportunities, CISA and CMMC, SBIR/STTR, tech transfer, autonomy, acquisition, and government matchmaking with the Navy and NDIA San Diego.
+https://www.navygoldcoast.org/
+
+Say What You Do in One Sentence: An Offer Workshop for Medical Device and Life Science Founders
+Monday, August 17 · 6:00–8:00 p.m. · San Diego · Free for Aquillius members and guests · 60-person cap
+Medical-device, diagnostics, and biotech engineers and scientists will turn complex work into a tested two-sentence offer specification through guided exercises and live breakout feedback.
+https://eventship.com/event/say-what-you-do-in-one-sentace
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
