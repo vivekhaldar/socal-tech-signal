@@ -1,0 +1,245 @@
+SOCAL TECH SIGNAL — August 17, 2026
+Monday, August 17 through Tuesday, August 25
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: AI Tinkerers OC — August 19 Meetup at Ingram Micro
+Wednesday, August 19 · 6:00–8:00 p.m. · Irvine · Free · Application required
+Five-minute code demos and technical questions make this Orange County’s strongest implementation room of the week. The screened, no-pitch format is built for people already experimenting with models, agents, and production AI systems rather than spectators looking for a slide deck.
+https://orange-county.aitinkerers.org/p/ai-tinkerers-oc-august-19th-2026-meetup-ingram-micro
+
+EDITOR'S PICK 02: Data Con LA 2026
+Saturday, August 22 · 8:00 a.m.–5:00 p.m. · Long Beach · Published $100 general / $50 student · Ticket link active
+Four tracks span AI and machine learning, data engineering, analytics, and technical careers, with a keynote, panels, and more than 20 talks from practitioners across UCLA, Zillow, Disney, Oracle, Intuit, LanceDB, and other organizations. It is the week’s deepest single-day Los Angeles program for data builders.
+https://www.dataconla.com/events/dcla-2026/
+
+EDITOR'S PICK 03: Building for Good Hackathon
+Thursday–Friday, August 20–21 · 4:00–10:00 p.m. Thursday / 8:30 a.m.–6:00 p.m. Friday · La Jolla · Free · Registration open
+UC San Diego’s Data Science Alliance is running a fresh-code hackathon around affordability, homelessness, computer vision, and other preapproved public-good challenges. Workshops, two build blocks, judging, demos, and prizes create a meaningful end-to-end test for data and AI teams.
+https://luma.com/0d16go33
+
+ORANGE COUNTY (13)
+
+21st EnergySec Security and Compliance Summit
+Monday–Wednesday, August 17–19 · 8:00 a.m. Monday–1:15 p.m. Wednesday · Anaheim · Published $1,195 nonmember / $837 member · Registration currently unavailable
+OT and ICS defenders, utility security teams, and NERC-CIP practitioners can work through intrusion response, supply-chain and cloud rules, government briefings, agentic-AI risk, and security-investment decisions. EnergySec still links to registration, but the controlling ticket page says it cannot accept registrations, so this is practical for existing registrants unless sales reopen; published day passes are $495.
+https://www.energysec.org/summit/
+
+OC AI Builders Lightning Hackathon
+Monday, August 17 · 5:00–8:00 p.m. · Irvine · Free · Registration open
+Vivek Haldar and Alice from Nebius are hosting a 50-minute build sprint followed by two-minute demos for people making agents, apps, workflow automations, evaluations, and developer tools. Bring a laptop and expect a build-to-show loop rather than a pitch stage.
+https://luma.com/pmm5w9mj
+
+SoCalSec — August 2026
+Monday, August 17 · 6:00–8:00 p.m. · Anaheim · Free · Registration open
+Cybersecurity, DFIR, fraud, privacy, intelligence, and public-safety practitioners get a focused, explicitly no-sales-pitches community room. Go for cross-discipline problem sharing rather than a scheduled presentation.
+https://luma.com/y8ep0r4h
+
+The Agency Intelligence Era
+Monday, August 17 · 6:00–8:00 p.m. · Newport Beach · Free · Tickets on sale
+COR founder Mo Johmani will show how agency teams can turn email, documents, and Slack history into shared institutional memory, including a live system view and practical client-intelligence and strategy workflows. This is operator-facing applied AI, not a software-engineering session.
+https://www.eventbrite.com/e/the-agency-intelligence-era-tickets-1996914839039
+
+tech night!
+Tuesday, August 18 · 6:00–8:00 p.m. · Irvine · Free · Registration open
+Developers and designers can trade project feedback in an explicitly recruiter-free and sales-free outdoor gathering near University Town Center. Treat it as a builder-community night, not a technical lecture.
+https://luma.com/6ae65n23
+
+codex-maxxing for fun and profit — Vivek Haldar
+Tuesday, August 18 · 6:00–8:00 p.m. · Newport Beach · RSVP open · Price not stated
+Live OpenAI Codex and voice-mode demonstrations will show how everyday knowledge work becomes agent workflows, with enough concrete implementation detail for builders evaluating where coding agents fit. This directly overlaps tech night in Irvine.
+https://www.meetup.com/monday-mbas/events/316083461/
+
+Orange County AI Vibe Coding
+Wednesday, August 19 · 5:00–7:00 p.m. · Newport Beach · Free · Registration open
+Bring a laptop and an active project—or arrive as a beginner who wants direct help starting with Claude Code, Codex, Gemini, or another AI coding tool—for two hours of peer building.
+https://luma.com/orange-z1bn
+
+★ AI Tinkerers OC — August 19 Meetup at Ingram Micro
+Wednesday, August 19 · 6:00–8:00 p.m. · Irvine · Free · Application required
+The “Demos &gt; Decks” agenda gives each builder five minutes to show working code, followed by technical questions and no pitches. The explicit agenda runs through 8:00 p.m.; the page’s structured metadata incorrectly extends the event to 9:00 p.m.
+https://orange-county.aitinkerers.org/p/ai-tinkerers-oc-august-19th-2026-meetup-ingram-micro
+
+Agentic AI Foundations — In Person
+Thursday, August 20 · 5:30–8:30 p.m. · Irvine · $97 · Approval required · Exact address released after approval
+Life-sciences builders and operators can examine agent architecture, tool use, real agent workflows versus bots, data and process readiness, and risk before implementation in a two-hour workshop bracketed by networking.
+https://luma.com/5t7x9al5
+
+Agent Anatomy: A Research Presentation
+Thursday, August 20 · 6:00–8:00 p.m. · Newport Beach · Free · Registration open
+Michael Dorado will break down the memory, planning, tool-use, and orchestration layers of modern AI agents using research from a forthcoming white paper. The registration data correctly resolves the August event to Pacific daylight time despite “PST” wording on the venue page.
+https://luma.com/cwa5jt3v
+
+OWASP OC August 2026 Monthly Meeting
+Friday, August 21 · 6:00–8:00 p.m. · Irvine · Free · Tickets available · Optional livestream
+Shan Kulkarni of Nullify will present “Trials, Tribulations & Tokenomics: Building an Agentic Security Harness,” covering exploit validation, automated patching, token and engineering-capacity allocation, testing, retries, and escalation. The meeting includes free parking at SolHub OC.
+https://www.eventbrite.com/e/owasp-oc-august-2026-monthly-meeting-tickets-1997988136300
+
+AI Clinic for OC Business Owners & Operators
+Friday, August 21 · 6:00–8:00 p.m. · Newport Beach · Free · Approval required · 20–30 seats
+John Xu and Adam Stinson will diagnose attendees’ real business workflows, sketch AI fixes live, and compare before-and-after implementations. The roughly 20–30-seat clinic is for operators bringing a concrete process to improve, not passive networking.
+https://tickets.ticket500.events/event/ai-clinic-for-oc-business
+
+Cloud Connected MedTech Dinner: Risk and Regulation
+Tuesday, August 25 · 5:30–8:00 p.m. · Irvine · Free · Limited spaces · Follow-up required
+Engineers and CTOs can compare regulated-device cloud architecture, data residency, HIPAA, audit trails, FDA cybersecurity guidance, SaMD compliance, and production connectivity, with a design-control and documentation demonstration. The vendor-hosted registration form requires a business email and company and does not promise immediate confirmation.
+https://matrixone.health/west-coast-forum/irvine-connect-networking
+
+LOS ANGELES (16)
+
+ECE Seminar: Gabriel Bertocco
+Monday, August 17 · 11:00 a.m.–12:00 p.m. · Los Angeles · In person · Access terms not stated
+Gabriel Bertocco will present research on self-supervised learning for person re-identification, legally compliant smart-security systems, and work from IARPA’s BRIAR program. USC lists the seminar in EEB 132 but does not state a ticket, price, or registration requirement.
+https://viterbi.usc.edu/events/event_details.php?events_id=107800
+
+PhD Defense — Juan Garcia Nila
+Monday, August 17 · 2:00–4:00 p.m. · Los Angeles · Hybrid · Access terms not stated
+Juan Garcia Nila’s defense examines open-system quantum dynamics, continuous quantum error correction, bosonic codes, and fault tolerance. USC lists a physical room in EEB 132 alongside hybrid access but does not state a ticket, price, or registration requirement.
+https://viterbi.usc.edu/events/event_details.php?events_id=107805
+
+Broken Data Club LA with Matchbook AI
+Monday, August 17 · 6:00–8:00 p.m. · Santa Monica · Free · Sold out · Waitlist open
+Enterprise data practitioners can compare practical approaches to data quality, governance, MDM, identity resolution, Customer 360, analytics, and AI-ready data in a room explicitly positioned apart from generic AI meetups and product demos.
+https://luma.com/6v2ob73q
+
+Private Dinner in LA: AI Agents — From PoC to Production
+Tuesday, August 18 · 5:30–8:30 p.m. · Beverly Hills · Free · Invite-only and approval required
+Arcade.dev and LangChain are convening senior enterprise AI leaders for a specific production-agent program: deployment patterns, security, reliability, evaluation, and the distance between a proof of concept and an operating system. Access is narrow and the event is vendor-hosted, but the engineering agenda is concrete.
+https://luma.com/7o02aly5
+
+Semiconductors and Microelectronics Technology Seminar — Farnaz Niroui
+Wednesday, August 19 · 2:30–4:00 p.m. · Los Angeles · Hybrid · Access terms not stated
+MIT EECS professor Farnaz Niroui will connect atomically engineered materials and nanomanufacturing to neuromorphic computing, sensors, and adaptive systems. USC lists the seminar in EEB 132 with hybrid access but does not state a ticket, price, or registration requirement.
+https://viterbi.usc.edu/events/event_details.php?events_id=107808
+
+ISSA LA: Beyond Mythos & GPT 5.5 + Leveraging SABSA
+Wednesday, August 19 · 5:30–8:30 p.m. · Culver City · $21.05–$55.20 including fees · Tickets available · 2 CPE
+Two substantive sessions connect generative-AI and data-science methods to future-state cybersecurity program design, then apply SABSA security architecture to governance and implementation. The ticket includes a buffet dinner.
+https://issala.org/event/august-19-2026-beyond-mythos-gpt-5-5-imagineering-a-future-state-cybersecurity-program-paul-grabow/
+
+G-Rex Grant Tour Los Angeles
+Thursday, August 20 · 10:00 a.m.–7:00 p.m. · Los Angeles · Free–$250 by attendee type · Approval required
+Cell- and gene-therapy teams can examine research, manufacturing, AI and ML analytics, and grant strategy with speakers from UCLA, USC/CHLA, Cedars-Sinai, A2 Biotherapeutics, and other organizations. This is a full-day technical life-sciences program rather than a general founder meetup.
+https://www.scaleready.com/initiatives/g-rex-grant-tour-2026/g-rex-grant-tour-los-angeles-ca/
+
+Unreal Jam LA 2026
+Thursday–Friday, August 20–21 · 10:00 a.m.–7:00 p.m. each day · Downtown Los Angeles · Free · Registration open
+Teams will form and build original Unreal Engine projects with mentors, then move through playtesting, judging, and a final showcase. The two-day format is especially useful for developers and technical artists who want a real engine-and-team constraint rather than a tutorial.
+https://luma.com/dy1j39ng
+
+JEWEL CITY HACK NIGHT — Teens Only
+Thursday, August 20 · 5:00–7:00 p.m. · Glendale · Free · Approval required · Ages 13–18 only
+Teen builders can bring laptops and work on inventions and technology projects alongside mentors from the Hacker Fund network. This is an explicitly youth-only, project-first build night at Glendale Central Library rather than a general community mixer.
+https://luma.com/jchteensaugust20
+
+★ Data Con LA 2026
+Saturday, August 22 · 8:00 a.m.–5:00 p.m. · Long Beach · Published $100 general / $50 student · Ticket link active
+Four tracks cover AI and machine learning, data engineering, analytics, and technical careers, with a keynote, four panels, and more than 20 talks. The official program and ticket route are current, though the ticket provider blocked a live inventory readback at verification.
+https://www.dataconla.com/events/dcla-2026/
+
+SWIRL: Immersive AI/XR Art Experience
+Sunday, August 23 · 2:00–8:00 p.m. · Los Angeles · Tickets from $45 · Registration open
+Creative technologists can move between a hands-on vibe-coded synth workshop, generative film, reactive and XR systems, and AI-tool demonstrations. The program clears the bar on participation and implementation rather than spectacle alone; higher ticket tiers extend to $500.
+https://luma.com/swirl
+
+Cyberdeck Workshop
+Sunday, August 23 · 3:00–6:00 p.m. · Downtown Los Angeles · $200 · Sold out · Waitlist open · Exact address hidden
+Participants will assemble a take-home cyberdeck using a Raspberry Pi, circuits, breadboards, microcontrollers, and MicroPython. A laptop and closed-toe shoes are required; new access depends on the waitlist.
+https://luma.com/zgvaxwx2
+
+Claude for Precision Medicine
+Monday, August 24 · 5:00–7:00 p.m. · Beverly Hills · Free · Approval required · Exact address released after approval
+Physicians, patients, builders, and health leaders will compare applied clinical-AI opportunities in a deliberately small discussion with no pitches, panel, or press. Go for problem framing and cross-domain scrutiny rather than a product showcase.
+https://luma.com/claude-precisionmed
+
+MedTech Executives AI Afterwork
+Monday, August 24 · 5:30–8:00 p.m. · Los Angeles · Price not stated · Business email and company details required
+The vendor-hosted program at the UCLA Luskin Conference Center includes live AI-engineering demos, design-control automation, and a technical, product-quality, and regulatory checklist for medtech teams. The concrete operating agenda clears the bar, but the registration form is also a company lead form.
+https://matrixone.health/west-coast-forum/los-angeles-ai-engineering
+
+Vibe Code LA Meetup
+Monday, August 24 · 6:00–8:00 p.m. · Culver City · RSVP open · Price not stated
+Participants will build, pair on, ship, and demo AI apps, agents, automations, and tools at Total Wine on Jefferson Boulevard. The laptop-first format makes this a useful community work session even without a named speaker.
+https://www.meetup.com/vibe-code-la/events/315906315/
+
+AI × Visual Journalism Forum
+Tuesday–Wednesday, August 25–26 · 6:00 p.m. Tuesday–5:00 p.m. Wednesday · Downtown Los Angeles · $50–$100 · Five spots remained · Exact address hidden
+Hacks/Hackers, ASU Narrative and Emerging Media, and CatchLight are bringing journalists and technologists together for hands-on 3D reconstruction, cryptographically signed photography, authenticity standards, tool testing, and framework-writing workshops. The forum begins inside this issue’s window and continues the following day.
+https://luma.com/ai-visual-journalism-forum-2026
+
+SAN DIEGO (13)
+
+2026 Navy Gold Coast Small Business Exposition
+Monday–Thursday, August 17–20 · Program hours vary by day · San Diego · Industry walk-in $899 · Confirm onsite availability
+Defense-technology founders and operators can work through cyber threats, CMMC, autonomy, SBIR/STTR, tech transfer, supply chains, undersea systems, security clearances, and Navy acquisition. The August 15 V2 agenda is the freshest source but remains marked draft and subject to change; organizer pages conflict on whether registration is already available or reopens onsite August 17. Qualifying government attendance without meals is free, while academic onsite registration is unavailable.
+https://www.navygoldcoast.org/
+
+Say What You Do in One Sentence: An Offer Workshop for Medical Device and Life Science Founders
+Monday, August 17 · 6:00–8:00 p.m. · San Diego · Free for Aquillius members and guests · Registration open
+Medical-device, diagnostics, and biotech engineers and scientists will turn complex work into a tested offer specification through taught frameworks, guided exercises, and live technical breakouts.
+https://www.aquillius.com/event/say-what-you-do-in-one-sentence-an-offer-workshop-for-medical-device-and-life-science-founders
+
+We Share and Learn Token Efficiency Techniques
+Wednesday, August 19 · 7:45–8:45 a.m. · San Diego · Registration open · Price not stated
+AI builders can compare prompt and workflow techniques that reduce token use, then work through concrete projects and demos. The short format is practical and implementation-focused rather than a broad AI overview.
+https://eventship.com/event/this-week-we-share-and-learn-token-efficiency-techniques
+
+Resiliency by Design: Stress-Testing Your GRC Framework for the Next Decade
+Wednesday, August 19 · 1:00–5:00 p.m. · Chula Vista · $325 · Separate in-person registration · Limited seats
+Audit, security, and risk leaders will run scenario simulations and translate the results into a resilience playbook. The workshop’s explicit stress-testing format makes it useful beyond the surrounding conference program.
+https://www.theiia.org/en/events/conference/hybrid-conferences/grc-conference
+
+San Diego Arduino Enthusiasts
+Wednesday, August 19 · 7:00–9:00 p.m. · National City · RSVP open · Price not stated
+Hardware builders will continue a low-power PCB Arduino project using an STM32G431CB, OLED control, and low-power modes. Bring questions or a project and expect board-level implementation rather than a general startup meetup.
+https://www.meetup.com/san-diego-hardware-startups-network/events/315800905/
+
+Claude Cowork 101
+Thursday, August 20 · 10:00–11:30 a.m. · San Diego · Registration open · Price not stated · Exact venue hidden
+Alex Lee will compare Claude Chat with Cowork, then cover Project and Cowork setup, subagents, multitasking, and long-running tasks. The registration page is active, but the venue is not disclosed and the page does not expose when the listing was created.
+https://eventship.com/event/claude-cowork-101
+
+★ Building for Good Hackathon
+Thursday–Friday, August 20–21 · 4:00–10:00 p.m. Thursday / 8:30 a.m.–6:00 p.m. Friday · La Jolla · Free · Registration open
+The Data Science Alliance is hosting a fresh-code build around affordability, homelessness, computer vision, and other preapproved public-good challenges, with workshops, two build blocks, judging, demos, and prizes at UC San Diego.
+https://luma.com/0d16go33
+
+AI Tinkerers San Diego: Self-hosting Models and Managing Token Spend
+Thursday, August 20 · 6:00–9:00 p.m. · San Diego · Application required · Price not stated · Address released to confirmed attendees
+Code-first demonstrations will cover self-hosted inference, token-cost reduction, applied AI systems, and a hands-on demo zone at AWS. Admission is screened for proof of work, and a Meetup RSVP alone does not reserve a place.
+https://san-diego.aitinkerers.org/p/self-hosting-models-and-managing-token-spend
+
+Creating Custom WordPress Plugins with AI
+Thursday, August 20 · 6:00–8:00 p.m. · San Diego · RSVP open · Price not stated · Space limited
+Evan Scheingross will walk through a live AI-assisted plugin-development workflow, production lessons, community demos, and technical Q&A. The session is about shipping custom WordPress behavior, not generic AI prompting.
+https://www.meetup.com/sd-wordpress/events/315778324/
+
+A Tea Chat for Life Sciences with Evan Y. Snyder
+Friday, August 21 · 9:30–11:00 a.m. · San Diego · Registration open · Price not stated
+The director of Sanford Burnham Prebys’ Center for Stem Cells and Regenerative Medicine will lead a research-focused discussion on neural stem cells and regenerative therapeutics. This is a technical life-sciences conversation, not a general networking tea.
+https://eventship.com/event/a-tea-chat-for-life-sciences-evan-y-snyder-vanguard-of-stem-cells-regeneration
+
+AI Show + Tell: Sharathon 2
+Sunday, August 23 · 4:30–8:30 p.m. · La Mesa · Free · Registration open
+Short demonstrations, shared schematics and workflows, Claude Code and Codex starter projects, and an open build floor give makers several ways to show work or pair on something new.
+https://luma.com/i9qawfbe
+
+Building Resilient Systems in the Age of Agentic Development with Antithesis and AWS
+Tuesday, August 25 · 5:00–8:00 p.m. · San Diego · Free · Registration open
+Engineers can dig into distributed-system resilience, agentic-development correctness, pre-production validation, failure testing, and observability with Antithesis and AWS practitioners. Check-in begins at 4:30 p.m.
+https://luma.com/gs7kiwq3
+
+LLM Inference at Scale: The Hidden Cost Nobody Talks About
+Tuesday, August 25 · 5:30–7:30 p.m. · San Diego · RSVP open · Price not stated
+Saniya Jaswani will cover GPU architecture, batching, KV caches, quantization, concurrency, throughput, latency, and cost at production scale. This is the week’s sharpest systems-level LLM talk.
+https://www.meetup.com/sandiegosoftware/events/316108765/
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/

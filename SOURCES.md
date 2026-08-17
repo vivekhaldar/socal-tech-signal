@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-08-09
+Last updated: 2026-08-17
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -13,6 +13,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Luma LA Tech](https://luma.com/discover/la/tech) | LA plus some OC; engineering, founder, security | SoCal Python, defense/cyber, startup workshops, and technical community events | Noisy outside the target audience. Apply the quality filter rather than accepting Luma's category label. |
 | [Luma San Diego AI](https://luma.com/discover/sd/ai) | San Diego County; AI and developer events | DEVx, OpenAI Build Week, Claude events, North County AI, and technical reading groups | Recurring events can appear many times. Deduplicate by canonical URL and date. |
 | [SoCalCyber](https://socalcyber.org/) | OC, LA, SD; cybersecurity | ISSA, ISACA, OWASP, FutureCon, and chapter events across the region | Treat as a curated security index. Its displayed times can reflect UTC conversion; verify against the chapter or ticket page. |
+| [Matrix One](https://matrixone.health/) | OC and LA; regulated medtech, cloud, AI engineering, and compliance | Detailed technical forums and dinners for engineering, product, quality, and regulatory leaders | Vendor-hosted and lead-form driven. Verify whether attendance is free, priced, or merely followed up after submission; preserve business-email and company requirements. |
 
 ## Proven Orange County communities
 
@@ -27,6 +28,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [tech night!](https://technight.events/) | Developer-community gatherings | No recruiters or sales pitches. Include as a community pick, not as a technical talk. |
 | [Sustain SoCal events](https://sustainsocal.org/events/) | Water, energy, climate, data-center infrastructure, and clean technology | Strong cross-sector technical programs with named utility, university, engineering, and industry speakers. Preserve any source time-zone-label caveat and verify pricing on the linked registration page. |
 | [EnergySec Summit](https://www.energysec.org/summit/) | OT/ICS security, NERC CIP, energy-sector compliance, and critical-infrastructure cyber | Annual high-signal conference with detailed agenda pages. Verify the live ticket state separately: its 2026 sales page showed correct future dates while also saying registration was unavailable. |
+| [OWASP Orange County](https://owasp.org/www-chapter-orange-county/) | Application security, agentic-security systems, exploit validation, and practitioner talks | Require a named speaker and technical topic on the current chapter or ticket page; organizer reminders without an agenda do not clear the bar. |
 
 ## Proven Los Angeles organizers and communities
 
@@ -43,6 +45,9 @@ Use this registry before open-ended discovery. Query every proven source for the
 | Claude Community Events | Claude Code and hands-on builder meetups | Search Luma and `claude.com/community`; verify the local host, date, and venue. |
 | [AWS Builders Los Angeles](https://www.meetup.com/aws-builders-los-angeles/) | AWS architecture, applied AI, developer platforms, and community-built systems | Prefer occurrences with named technical sessions. Call out building-access requirements, government ID, laptop, and RSVP conditions. |
 | [Transition Careers events](https://transitioncareers.com/events/) | Cleared technical-career fairs spanning space, cyber, engineering, IT, and intelligence | Event-specific clearance and installation-access rules control over generic footer language. Include only targeted technical fairs, not broad recruiting events. |
+| [ISSA Los Angeles](https://issala.org/) | Cybersecurity architecture, governance, practitioner education, and CPE programs | Prefer meetings with named speakers and technical sessions. Verify the venue, ticket tiers, and final agenda on the event-specific organizer and ticket pages. |
+| [Data Con LA events](https://www.dataconla.com/events/) | Annual data engineering, AI and ML, analytics, and technical-career programming | Use the first-party conference program for scope and speakers, then verify price and live inventory through its linked ticket provider; ticket platforms may block automated readback. |
+| [USC Viterbi events](https://viterbi.usc.edu/events/) | Engineering seminars, defenses, computing and AI research, semiconductors, and technical lectures | The calendar can surface same-day additions. Use the event-specific page for the physical room and hybrid status, and state plainly when public ticket or registration terms are not published. |
 
 ## Proven San Diego communities
 
@@ -59,6 +64,12 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [IEEE San Diego](https://sdieee.org/sdieee/) | Robotics, autonomous systems, ocean engineering, electronics, and practitioner talks | Cross-check the event body, IEEE vTools registration window, and Meetup structured data; vTools registration dates can be mistaken for event dates by aggregators. |
 | [Aquillius events](https://www.aquillius.com/events) | Life-science, medical-device, biotech-founder, and applied-AI workshops | Verify the individual event page or ticket route because the index can list recurring series with little detail. |
 | [Navy Gold Coast](https://www.navygoldcoast.org/) | Navy procurement, dual use, cyber, autonomy, SBIR/STTR, and small-business acquisition | Annual San Diego conference. Use the current attendee page and dated agenda PDF; older “why attend” copy can retain prior-year access language. |
+| [AI Tinkerers San Diego](https://san-diego.aitinkerers.org/) | Screened, code-first AI demos, model infrastructure, agents, and applied implementation | Prefer the official chapter index and detail route. A Meetup RSVP may not reserve admission, and individual pages can trigger an automation challenge. |
+| [Data Science Alliance](https://www.datasciencealliance.org/) | Data and AI hackathons, public-interest projects, and practitioner programs | Verify the individual registration page, challenge rules, full multi-day schedule, and whether a ticket is application-based or immediately confirmed. |
+| [San Diego WordPress Meetup](https://www.meetup.com/sd-wordpress/) | Web engineering, plugin development, production workflows, and community demos | Include only occurrences with a named technical topic or live build; general WordPress networking still needs the normal filter. |
+| [San Diego Hardware-Startups Network](https://www.meetup.com/san-diego-hardware-startups-network/) | Arduino, PCB, embedded-systems, hardware prototyping, and founder-builder sessions | Favor project-specific workshops and continuation builds over broad hardware-startup networking. |
+| [San Diego Software Engineers](https://www.meetup.com/sandiegosoftware/) | Production software engineering, LLM systems, cloud, and architecture talks | Require a named speaker and concrete engineering agenda; verify the active occurrence rather than relying on the group description. |
+| [Eventship](https://eventship.com/) | Small AI-builder workshops and technical life-sciences discussions in San Diego | Event pages may hide the exact venue, price, organizer history, or publication date. Include only listings with a concrete curriculum or named expert and preserve every missing access fact. |
 
 ## Professional chapter watchlist
 
