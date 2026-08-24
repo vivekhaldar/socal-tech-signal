@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-08-17
+Last updated: 2026-08-24
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -13,7 +13,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Luma LA Tech](https://luma.com/discover/la/tech) | LA plus some OC; engineering, founder, security | SoCal Python, defense/cyber, startup workshops, and technical community events | Noisy outside the target audience. Apply the quality filter rather than accepting Luma's category label. |
 | [Luma San Diego AI](https://luma.com/discover/sd/ai) | San Diego County; AI and developer events | DEVx, OpenAI Build Week, Claude events, North County AI, and technical reading groups | Recurring events can appear many times. Deduplicate by canonical URL and date. |
 | [SoCalCyber](https://socalcyber.org/) | OC, LA, SD; cybersecurity | ISSA, ISACA, OWASP, FutureCon, and chapter events across the region | Treat as a curated security index. Its displayed times can reflect UTC conversion; verify against the chapter or ticket page. |
-| [Matrix One](https://matrixone.health/) | OC and LA; regulated medtech, cloud, AI engineering, and compliance | Detailed technical forums and dinners for engineering, product, quality, and regulatory leaders | Vendor-hosted and lead-form driven. Verify whether attendance is free, priced, or merely followed up after submission; preserve business-email and company requirements. |
+| [Matrix One](https://matrixone.health/) | OC, LA, and SD; regulated medtech, cloud, AI engineering, and compliance | Detailed technical forums, breakfasts, afterworks, and dinners for engineering, product, quality, and regulatory leaders | Vendor-hosted and lead-form driven. Verify whether attendance is free, priced, or merely followed up after submission; preserve business-email and company requirements. |
 
 ## Proven Orange County communities
 
@@ -29,6 +29,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Sustain SoCal events](https://sustainsocal.org/events/) | Water, energy, climate, data-center infrastructure, and clean technology | Strong cross-sector technical programs with named utility, university, engineering, and industry speakers. Preserve any source time-zone-label caveat and verify pricing on the linked registration page. |
 | [EnergySec Summit](https://www.energysec.org/summit/) | OT/ICS security, NERC CIP, energy-sector compliance, and critical-infrastructure cyber | Annual high-signal conference with detailed agenda pages. Verify the live ticket state separately: its 2026 sales page showed correct future dates while also saying registration was unavailable. |
 | [OWASP Orange County](https://owasp.org/www-chapter-orange-county/) | Application security, agentic-security systems, exploit validation, and practitioner talks | Require a named speaker and technical topic on the current chapter or ticket page; organizer reminders without an agenda do not clear the bar. |
+| [Cloud Security Alliance Orange County](https://www.meetup.com/cloud-security-alliance-csa-orange-county/) | Cloud security, workplace AI risk, governance, and practitioner guidance | Require a concrete topic and preserve RSVP-only or no-walk-in restrictions from the active occurrence. |
+| [IEEE Orange County Section events](https://r6.ieee.org/ocs/events/) | Computer science, enterprise AI, MCP, electronics, and engineering programs | Prefer the regional calendar for the real occurrence time when the linked vTools page exposes an incorrect registration or multiweek date range. |
 
 ## Proven Los Angeles organizers and communities
 
@@ -48,6 +50,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [ISSA Los Angeles](https://issala.org/) | Cybersecurity architecture, governance, practitioner education, and CPE programs | Prefer meetings with named speakers and technical sessions. Verify the venue, ticket tiers, and final agenda on the event-specific organizer and ticket pages. |
 | [Data Con LA events](https://www.dataconla.com/events/) | Annual data engineering, AI and ML, analytics, and technical-career programming | Use the first-party conference program for scope and speakers, then verify price and live inventory through its linked ticket provider; ticket platforms may block automated readback. |
 | [USC Viterbi events](https://viterbi.usc.edu/events/) | Engineering seminars, defenses, computing and AI research, semiconductors, and technical lectures | The calendar can surface same-day additions. Use the event-specific page for the physical room and hybrid status, and state plainly when public ticket or registration terms are not published. |
+| [Veeam Community events](https://community.veeam.com/events) | Data resilience, disaster recovery, cloud infrastructure, security, and technical user groups | Include only occurrences with an explicit technical update or working agenda; vendor community venues may otherwise be mostly social. |
 
 ## Proven San Diego communities
 
@@ -57,6 +60,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [San Diego Machine Learning](https://www.meetup.com/san-diego-machine-learning/) | ML/AI engineering book clubs, evaluation, and technical study | Prior notes, videos, and GitHub materials are useful organizer-quality signals. |
 | [San Diego iOS Developers](https://www.meetup.com/sdiosdevelopers/) | Applied AI and coding workflows for Apple developers | Include when the session has a specific technical topic, not merely platform networking. |
 | [San Diego Cyber Group](https://www.meetup.com/san-diego-cyber-meetup/) | Practitioner cybersecurity community events | Established community. Respect professional/student eligibility restrictions. |
+| [Cloud Security Alliance San Diego](https://www.meetup.com/cloud-security-alliance-san-diego/) | Cloud security, workplace AI risk, governance, and practitioner guidance | Require a concrete session topic and preserve venue, parking, and RSVP constraints from the active occurrence. |
 | [AWS San Diego official group](https://www.meetup.com/amazon-web-services-san-diego-user-group/) | Production AI, cloud architecture, agents, and live AWS demos | Strong technical source. Prefer the English/local event page because search caches can shift dates across time zones. |
 | [ISACA San Diego on Eventbrite](https://www.eventbrite.com/o/isaca-san-diego-chapter-3005643250) | OT security, governance, risk, audit, and critical infrastructure | Eventbrite may rate-limit text fetches; use browser extraction or the chapter page, then verify price and sales status. |
 | North County AI Coffee Chat | Oceanside/North County AI builder community | Find the current occurrence through Luma SD. Treat as a community pick unless a formal program is listed. |

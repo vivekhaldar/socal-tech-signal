@@ -1,0 +1,242 @@
+SOCAL TECH SIGNAL — August 24, 2026
+Tuesday, August 25 through Tuesday, September 1
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: Intro to Generative UI for Adaptive Experiences
+Thursday, August 27 · 6:30–9:00 p.m. · Fullerton · RSVP open · Price not stated
+This technical session moves past chat boxes into interfaces that assemble themselves from model output. Expect tool calling, structured outputs, MCP, component catalogs, and demonstrations using the Vercel AI SDK and OpenAI Apps SDK—one of the week’s clearest looks at how agent behavior becomes a usable product surface.
+https://www.meetup.com/i-build-with-ai/events/315599552/
+
+EDITOR'S PICK 02: AIAI Los Angeles: Generative AI + Agentic AI Summits
+Wednesday, August 26 · 8:00 a.m.–4:30 p.m., followed by happy hour · Downtown Los Angeles · $595 individual / $495 each for teams of three or more · Tickets available
+One pass covers parallel generative- and agentic-AI tracks at the Conrad Los Angeles. The program gets specific about keeping agents on rails, production evaluations, Google Gemini workflows, autonomous cloud security, and what it takes to move agent systems from a demo into operations.
+https://world.aiacceleratorinstitute.com/location/losangeles
+
+EDITOR'S PICK 03: Machine Learning over Networks: From Fundamentals to Applications
+Monday, August 31 · 4:01–5:30 p.m. · San Diego · Free · In person with hybrid access
+IEEE distinguished lecturer Tamer ElBatt will connect communication-efficient federated learning to Fed-Sophia, second-order state synchronization, MIRA for multi-task LLM fine-tuning, digital-health prediction, and multi-tier IoT intelligence. The technical depth and span from algorithms to deployed edge systems make this San Diego’s strongest research room of the week.
+https://events.vtools.ieee.org/m/572732
+
+ORANGE COUNTY (12)
+
+Cloud Connected MedTech Dinner: Risk and Regulation
+Tuesday, August 25 · 5:30–8:00 p.m. · Irvine · Free · Limited spaces · Follow-up required
+Engineers and CTOs can compare regulated-device cloud architecture, data residency, HIPAA, audit trails, FDA cybersecurity guidance, SaMD compliance, and production connectivity. The vendor-hosted form requires a business email and company and does not promise immediate confirmation.
+https://matrixone.health/west-coast-forum/irvine-connect-networking
+
+Orange County AI Vibe Coding
+Wednesday, August 26 · 5:00–7:00 p.m. · Newport Beach · RSVP open · Price not stated
+Bring a laptop and an active AI-coding project—or a concrete idea you want help starting—for two hours of peer building with Claude Code, Codex, Gemini, and adjacent tools. Treat this as a work session, not a presentation.
+https://www.meetup.com/orange-county-ai/events/316012195/
+
+Defending Against the Hidden Risks of AI Tools in the Workplace
+Wednesday, August 26 · 5:30–7:30 p.m. · Irvine · RSVP required · Price not stated · No walk-ins
+Cloud Security Alliance Orange County will turn workplace AI risk into practical controls and lessons from real use. The organizer says space is filling and explicitly requires registration rather than onsite walk-ins.
+https://www.meetup.com/cloud-security-alliance-csa-orange-county/events/315991568/
+
+Human + AI: Combining AI and Human Expertise
+Wednesday, August 26 · 6:00–8:00 p.m. · Irvine · $26 · Tickets available
+UCI professor Padhraic Smyth and Hadar Ziv will examine how systems decide when a model should act and when a human should intervene, grounding the discussion in current research and real operating decisions rather than generic augmentation claims.
+https://luma.com/ww306wf3
+
+OC Indies Monthly Meetup
+Wednesday, August 26 · 7:30–9:30 p.m. · Santa Ana · RSVP open · Price not stated
+Independent developers can show project progress, playtest work, and get direct feedback from peers. It is a useful community build room for people who have something in motion, even without a formal speaker program.
+https://www.meetup.com/oc-indie-developers-meetup/events/312354830/
+
+Claude Cowork, X-ray Analysis, and Compound Learning
+Thursday, August 27 · 5:00–7:00 p.m. · Irvine · RSVP open · Price not stated
+Irvine AI’s fourth event combines a Claude Cowork workflow with x-ray analysis and compound-learning techniques, reserving roughly an hour for technical content before open discussion. Bring a laptop if you want to follow the implementation rather than only watch.
+https://www.meetup.com/irvine-ai/events/315994863/
+
+Agent Builder Deep Dive
+Thursday, August 27 · 5:00–7:00 p.m. · Irvine · RSVP open · Price not stated
+At the Microsoft Technology Center, attendees will work through Microsoft 365 Copilot Agent Builder and the mechanics of turning organizational knowledge into task-specific agents. The interactive format makes this more useful than a product overview for Microsoft-stack teams.
+https://www.meetup.com/ai-agent-business-networking-business-tech/events/316207684/
+
+★ Intro to Generative UI for Adaptive Experiences
+Thursday, August 27 · 6:30–9:00 p.m. · Fullerton · RSVP open · Price not stated
+The agenda connects tool calling, structured model output, MCP, and component catalogs to interfaces generated at runtime. Demonstrations with the Vercel AI SDK and OpenAI Apps SDK should give product engineers a concrete architecture to critique.
+https://www.meetup.com/i-build-with-ai/events/315599552/
+
+Executive Dinner: Leveraging AI Agents
+Thursday, August 27 · 7:00–9:00 p.m. · Costa Mesa · Free · Approval required · Exact address hidden
+This StackAI-hosted executive dinner is vendor-led but has a concrete operating agenda: agent governance, data protection, token cost, and choosing production use cases. Apply only if a small, curated enterprise room is useful to you.
+https://luma.com/orange-county
+
+The Sifr Playbook with Oussama Hamouti
+Sunday, August 30 · 5:00–8:00 p.m. · Yorba Linda · Free · Approval required · Exact address hidden
+Founder Oussama Hamouti will break down how to find a painful problem, shape a product, and sell B2B without outside funding. The program is founder-focused rather than deeply technical, but the promised operating playbook clears the bar.
+https://luma.com/rtenmfsl
+
+★ 2026 GET-AI Series #5: Connect AI to Enterprise Data
+Monday, August 31 · 5:00–7:00 p.m. · Irvine · Free · In person with hybrid access · Dinner provided onsite
+The first session builds and tests a small TypeScript MCP server; the second covers enterprise APIs, databases, RAG, authorization, governance, auditability, monitoring, and evaluations. IEEE’s main page exposes an incorrect broad date range, but its agenda and Southern California calendar agree on the Monday evening program.
+https://events.vtools.ieee.org/m/570942
+
+VeeamON Tour Orange County
+Tuesday, September 1 · 8:00 a.m.–6:00 p.m. · Newport Beach · Registration active · Price not stated · Limited space
+Two tracks at the VEA Newport Beach Marriott cover resilience and security, data and AI trust, and infrastructure for the agentic era. The organizer’s registration route is active but restricts automated detail reads, so confirm the final agenda and admission terms before traveling.
+https://go.veeam.com/veeamon-tour-orange-county
+
+LOS ANGELES (11)
+
+AI × Visual Journalism Forum
+Tuesday–Wednesday, August 25–26 · 6:00 p.m. Tuesday–5:00 p.m. Wednesday · Downtown Los Angeles · $50–$100 · Late tickets available · Exact address hidden
+Hacks/Hackers, ASU Narrative and Emerging Media, and CatchLight are bringing journalists and technologists together for 3D reconstruction, cryptographically signed photography, authenticity standards, tool testing, and framework-writing workshops. Six late-ticket spots remained at verification.
+https://luma.com/ai-visual-journalism-forum-2026
+
+★ AIAI Los Angeles: Generative AI + Agentic AI Summits
+Wednesday, August 26 · 8:00 a.m.–4:30 p.m., followed by happy hour · Downtown Los Angeles · $595 individual / $495 each for teams of three or more · Tickets available
+The combined summit at the Conrad puts OpenAI, Google, Factory AI, and other practitioners into parallel tracks on agent guardrails, evaluations, production systems, Gemini workflows, and autonomous security. The price is steep, but the agenda is materially deeper than a generic AI conference.
+https://world.aiacceleratorinstitute.com/location/losangeles
+
+OWASP LA Double Feature
+Wednesday, August 26 · 5:30–8:30 p.m. · Santa Monica · Free · Registration open · Address released after registration
+Bruce Schneier will discuss integrity in an AI-mediated world, followed by Brandon Veiseh on AI-driven offensive security and autonomous penetration testing. Forty-two spots remained at verification.
+https://luma.com/lcghxw9m
+
+ComfyUI Official Los Angeles August Meetup
+Wednesday, August 26 · 6:00–9:00 p.m. · Culver City · Free · Approval required · Exact address hidden
+ComfyUI creators, model builders, startups, and visual-AI practitioners can show current work and compare workflows. A presentation submission route gives this community session more substance than an unstructured creator social.
+https://luma.com/nd0u29u8
+
+2026 Space Contracting Executive Forum
+Thursday, August 27 · 8:30 a.m.–5:00 p.m. · El Segundo · Published $30 · Registration closed
+Senior government and industry leaders will cover space acquisition and contracting constraints in a full-day forum. This is now useful only to existing registrants; government attendees must follow the published .mil-email rules, and parking is $20.
+https://luma.com/9k1m5rxn
+
+FinOps Meetup Los Angeles: Shifting FinOps Left to the AI Code Generator
+Thursday, August 27 · 6:30–9:00 p.m. · El Segundo · Free · Registration open
+Infracost CEO Hassan Khajeh-Hosseini will examine how cost feedback moves from cloud dashboards into code generation itself. It is a focused session for platform, cloud, and engineering teams thinking about AI-written infrastructure.
+https://luma.com/b128j01h
+
+AI Design LA Kickoff
+Saturday, August 29 · 9:30–11:30 a.m. · Burbank · RSVP open · Price not stated
+Designers and builders will compare AI workflows and tools over breakfast at IKEA, with laptops encouraged. Go to work alongside peers and trade techniques, not for a polished conference program.
+https://www.meetup.com/ai-design-la/events/316008961/
+
+Glendale Claude Workshop
+Saturday, August 29 · 11:00 a.m.–2:00 p.m. · Glendale · Free · Approval required · Exact address hidden
+Participants will set up Claude, Cowork, and Claude Code against real documents, spreadsheets, inboxes, and working files. Bring a laptop and a genuine task; the workshop is designed around doing the work in the room.
+https://luma.com/claude-ncan
+
+Infinite Cinema Los Angeles
+Saturday, August 29 · 1:00–4:00 p.m. · Santa Monica · Free · Registration open
+Oxen AI and AI Tinkerers LA are pairing a film-and-technology showcase with technical discussion and Q&A. It is a useful bridge for creative technologists evaluating generative production systems rather than a conventional screening.
+https://luma.com/c2iu6ozt
+
+Veeam User Group Los Angeles
+Monday, August 31 · 4:00–7:00 p.m. · El Segundo · Registration open · Price not stated
+The user group will work through Veeam 13.1 updates, features carried back from VeeamON New York, and current business-continuity, disaster-recovery, cloud, and AI concerns. The Topgolf setting is social, but the technical update is explicit.
+https://community.veeam.com/events/veeam-user-group-los-angeles-339
+
+Executive Dinner: Leveraging AI Agents
+Monday, August 31 · 7:00–9:00 p.m. · Los Angeles · Free · Approval required · Exact address hidden
+StackAI is hosting a vendor-led enterprise dinner on governance, data protection, token costs, and selecting agent use cases that can survive production. The value is the narrow operator room; access is curated rather than guaranteed.
+https://luma.com/fco553ft
+
+SAN DIEGO (17)
+
+Building Resilient Systems in the Age of Agentic Development with Antithesis and AWS
+Tuesday, August 25 · 5:00–8:00 p.m. · San Diego · Free · Registration open
+Engineers can dig into distributed-system resilience, agentic-development correctness, pre-production validation, failure testing, and observability with Antithesis and AWS practitioners. Check-in begins at 4:30 p.m.
+https://luma.com/gs7kiwq3
+
+LLM Inference at Scale: The Hidden Cost Nobody Talks About
+Tuesday, August 25 · 5:30–7:30 p.m. · San Diego · RSVP open · Price not stated
+Saniya Jaswani will cover GPU architecture, batching, KV caches, quantization, concurrency, throughput, latency, and production cost. It remains the week’s sharpest systems-level LLM talk.
+https://www.meetup.com/sandiegosoftware/events/316108765/
+
+Defending Against the Hidden Risks of AI Tools in the Workplace
+Tuesday, August 25 · 5:30–7:30 p.m. · San Diego · RSVP open · Price not stated
+Cloud Security Alliance San Diego will turn workplace AI risks into practical controls and real-world guidance. The Executive Drive venue has paid garage parking and limited free street parking.
+https://www.meetup.com/cloud-security-alliance-san-diego/events/315999607/
+
+What’s New in Apple’s On-Device LLM
+Tuesday, August 25 · 6:30–7:30 p.m. · La Jolla · RSVP open · Price not stated
+San Diego iOS Developers will examine Apple’s current on-device language-model capabilities, how they integrate with other models, and where they fit inside apps. The La Jolla library setting makes this an unusually accessible platform-engineering session.
+https://www.meetup.com/sdiosdevelopers/events/315909821/
+
+VibeCraft Mini Build Session
+Wednesday, August 26 · 7:45–8:45 a.m. · San Diego · Registration open · Price not stated
+This compact build-along at Ansir gives attendees a fresh scenario, roughly 45 minutes to make something, and time to show the result. Bring a laptop and model credits or tokens.
+https://eventship.com/event/this-week-build-along-side-your-fellow-vibers-in-this-mini-build-session
+
+AI Hub Weekly Meetup #4
+Wednesday, August 26 · 6:00–8:00 p.m. · San Diego · Registration open · Price not stated
+Aquillius’ AI Hub turns to governance, standards, risk, and the regulatory roadmap. The subject is concrete enough for technical and operating leaders who need to move beyond model demos into accountable deployment.
+https://eventship.com/event/ai-hub-weekly-meetup-4
+
+San Diego Cyber Group Meetup — August 2026
+Wednesday, August 26 · 6:00 p.m. · San Diego · RSVP open · Price not stated · Cyber professionals and students only
+David Spark’s CISO Series community will run a guided security discussion alongside informal conversations at Novo Brazil Mission Valley. Food and drinks are offered to the first 80 arrivals; this is a practitioner-community pick rather than a formal talk.
+https://www.meetup.com/san-diego-cyber-meetup/
+
+#SalesFriends AI Show & Tell
+Wednesday, August 26 · 6:00–8:00 p.m. · San Diego · Free · Approval required
+B2B sales practitioners will give five- to ten-minute demonstrations of AI systems they actually use, with pitches prohibited unless the presenter is showing a personal workflow. That constraint turns a sales meetup into a useful applied-AI demo room.
+https://luma.com/m8374l15
+
+Engineering Afterwork: AI in Day-to-Day Engineering Workflows
+Wednesday, August 26 · 5:30–8:00 p.m. · San Diego · Free · Limited spaces · Follow-up required
+Medtech engineers and technical leaders can see a live workflow demonstration and compare how AI and cloud connectivity fit regulated product development. The vendor-hosted form requires a business email and company and does not promise immediate confirmation.
+https://matrixone.health/west-coast-forum
+
+AI Operational Maturity Breakfast for RA/QA Teams
+Thursday, August 27 · 7:45–9:30 a.m. · San Diego · Free · Limited to roughly 15–20 senior attendees · Follow-up required
+This discussion-driven RAPS-partnered breakfast at Joya Kitchen focuses on governance, human oversight, security, change management, and practical AI adoption in regulated medtech quality and regulatory teams. The form is also a company lead form.
+https://matrixone.health/west-coast-forum
+
+AI Coffee
+Thursday, August 27 · 9:00–11:00 a.m. · San Diego · Free · Approval required · Invite-only
+The weekly Qualcomm gathering is an open technical conversation about current AI work rather than a lecture. It earns a community slot for practitioners who want direct peer exchange, but admission is screened.
+https://luma.com/bvitk3ig
+
+AI Mastermind Session #2: Showcase and Get Inspired
+Thursday, August 27 · 6:00–9:00 p.m. · San Diego · Registration open · Price not stated · Exact venue hidden
+Community members will show concrete AI uses, then break into smaller groups to examine what worked and what can transfer. The venue and price remain undisclosed, so confirm both after registering.
+https://eventship.com/event/ai-mastermind-session-2-showcase-get-inspired
+
+Demos, Deals & Drinks
+Friday, August 28 · 5:30–8:00 p.m. · San Diego · RSVP open · Price not stated
+Kiln Rancho Bernardo is hosting hands-on product experiences alongside networking, including an AI DJ and an AI song-generation app. The event is intentionally broad and sponsor-forward, but the live product interaction keeps it above a generic mixer.
+https://www.buildandback.com/events/kiln-rancho-bernardo-mixer
+
+Applied AI Lab
+Sunday, August 30 · 10:00 a.m.–12:00 p.m. · San Diego · Free · Approval required · Exact address hidden
+Bring a real workflow or problem, decide whether AI is actually appropriate, and leave with a testable experiment. The problem-first structure is a useful antidote to tool-first workshops.
+https://luma.com/wgnoj23l
+
+Where Is AI in 2026—and Where Is It Going?
+Sunday, August 30 · 2:00–3:30 p.m. · Lakeside · Free · Registration open
+This public library workshop combines demonstrations, forecast exercises, and a discussion of present capabilities and risks. It is designed for a broad audience but still asks participants to test claims rather than simply hear predictions.
+https://luma.com/aisap-i9s3
+
+★ Machine Learning over Networks: From Fundamentals to Applications
+Monday, August 31 · 4:01–5:30 p.m. · San Diego · Free · In person with hybrid access
+Tamer ElBatt will move from Fed-Sophia and second-order state synchronization to MIRA for federated multi-task LLM fine-tuning, then into digital health and multi-tier IoT intelligence. IEEE’s main event page exposes an incorrect broad date range; its regional listing resolves the actual Monday program.
+https://events.vtools.ieee.org/m/572732
+
+The Future of High-Speed Interconnects
+Tuesday, September 1 · 4:00–6:00 p.m. · San Diego · Free · Registration open
+This IEEE lecture at Qualcomm will examine bandwidth and signal-integrity constraints, power, thermal design, reliability, copper-graphene approaches, and heterogeneous-integration co-design for AI and high-performance computing.
+https://events.vtools.ieee.org/m/573409
+
+LATER ON THE RADAR (1)
+
+Executive Whiskey Tasting LA 2026
+Wednesday, September 2 · 6:00–8:00 p.m. · Beverly Hills · Invitation request required · Limited capacity · Current request status unconfirmed
+Distillery and CTO Slackers previously listed a small engineering-leadership tasting at Double Barrel, with priority typically given to people at organizations with more than 100 employees or those managing engineering teams of 15 or more. This was queued for the issue one week before the event; the canonical page returned an internal error during today’s refresh, so recheck the link before relying on the schedule or requesting access.
+https://info.distillery.com/executive-whiskey-tasting-la-2026
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
