@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-08-24
+Last updated: 2026-09-01
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -51,6 +51,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Data Con LA events](https://www.dataconla.com/events/) | Annual data engineering, AI and ML, analytics, and technical-career programming | Use the first-party conference program for scope and speakers, then verify price and live inventory through its linked ticket provider; ticket platforms may block automated readback. |
 | [USC Viterbi events](https://viterbi.usc.edu/events/) | Engineering seminars, defenses, computing and AI research, semiconductors, and technical lectures | The calendar can surface same-day additions. Use the event-specific page for the physical room and hybrid status, and state plainly when public ticket or registration terms are not published. |
 | [Veeam Community events](https://community.veeam.com/events) | Data resilience, disaster recovery, cloud infrastructure, security, and technical user groups | Include only occurrences with an explicit technical update or working agenda; vendor community venues may otherwise be mostly social. |
+| [LA DevOps](https://www.meetup.com/ladevops/) | Cloud infrastructure, production operations, semantic search, RAG, and agent systems | Require a named technical talk. Individual programs can have a second speaker or topic still pending, so describe only the confirmed agenda. |
+| [Pinecone community events](https://luma.com/pinecone) | Vector search, RAG, agent workflows, and live technical demos | Verify each occurrence separately; registration can request work identity details, and capacity varies by venue. |
 
 ## Proven San Diego communities
 
@@ -74,6 +76,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [San Diego Hardware-Startups Network](https://www.meetup.com/san-diego-hardware-startups-network/) | Arduino, PCB, embedded-systems, hardware prototyping, and founder-builder sessions | Favor project-specific workshops and continuation builds over broad hardware-startup networking. |
 | [San Diego Software Engineers](https://www.meetup.com/sandiegosoftware/) | Production software engineering, LLM systems, cloud, and architecture talks | Require a named speaker and concrete engineering agenda; verify the active occurrence rather than relying on the group description. |
 | [Eventship](https://eventship.com/) | Small AI-builder workshops and technical life-sciences discussions in San Diego | Event pages may hide the exact venue, price, organizer history, or publication date. Include only listings with a concrete curriculum or named expert and preserve every missing access fact. |
+| [UC San Diego Horizon](https://luma.com/beyondhorizon) | University technology licensing, venture formation, faculty innovation, and research commercialization | Events can hide the exact address until registration. Distinguish public ecosystem programs from advisor-only sessions. |
+| [Claude Code Users Group](https://www.meetup.com/claude-code-users-group/) | Claude Code, Claude API, MCP, and hands-on agent-development meetings | Verify the active occurrence and preserve University of San Diego parking terms when the event is on campus. |
 
 ## Professional chapter watchlist
 

@@ -1,0 +1,150 @@
+SOCAL TECH SIGNAL — September 1, 2026
+Tuesday, September 1 through Tuesday, September 8
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: Session Harness with Ethan
+Saturday, September 5 · 2:00–5:00 p.m. · Newport Beach · Free · Registration open
+Bring a Claude or Codex project and put a working harness around the session. The promise is concrete: leave with a project setup that helps the model retain context, use tokens more deliberately, and improve from one working session to the next.
+https://luma.com/ticket500-t9km
+
+EDITOR'S PICK 02: Semantic Search, RAG, and What Comes Next with Pinecone
+Thursday, September 3 · 6:00–9:00 p.m. · Santa Monica · RSVP open · Price not stated
+Gavin Johnson will demonstrate a Pinecone-backed application, then move from conventional multimodal RAG into Pinecone Nexus and precompiled context for agents. The combination of implementation detail and a concrete next-generation retrieval architecture makes this the week’s strongest open engineering talk.
+https://www.meetup.com/ladevops/events/316193562/
+
+EDITOR'S PICK 03: UC San Diego Horizon First Light 2026
+Thursday, September 3 · 11:00 a.m.–2:00 p.m. · San Diego · Free · Registration open · Exact address released after registration
+UC San Diego Horizon is bringing faculty innovators, strategic advisors, and venture builders together around Open Flow Innovation: licensing university technology, assembling teams around research, and turning portfolio work into companies. Lunch is included.
+https://luma.com/jt1b6wv5
+
+ORANGE COUNTY (8)
+
+VeeamON Tour Orange County
+Tuesday, September 1 · 8:00 a.m.–6:00 p.m. · Newport Beach · In progress at verification · Registration active · Price not stated · Limited space
+Two tracks at the VEA Newport Beach Marriott cover resilience and security, data and AI trust, and infrastructure for the agentic era. The organizer’s registration route is active but restricts automated detail reads, so confirm same-day admission before traveling.
+https://go.veeam.com/veeamon-tour-orange-county
+
+ISACA OC AAIA Certification Review Course
+Wednesday, September 2 · 8:00 a.m.–6:00 p.m. · Irvine · Registration through Cvent · Price shown during registration · 8 CPE
+This full-day review of ISACA’s Advanced in AI Audit material covers AI governance and risk, operations, threats and vulnerabilities, and audit tools and techniques. The chapter page is marked beta, but its event details and Cvent registration route are live.
+https://www.isacaoc.com/events/isaca-oc-chapter-monthly-event-september
+
+Orange County AI Vibe Coding
+Thursday, September 3 · 5:00–7:00 p.m. · Newport Beach · Free · Registration open
+Bring a laptop and an active AI-coding project—or a concrete idea you want help starting—for two hours of peer building with Claude Code, Codex, Gemini, and adjacent tools. Treat this as a work session, not a presentation.
+https://luma.com/orange-wgc4
+
+Turn Your Small Marketing Team into an AI-Powered Growth Engine
+Friday, September 4 · 9:00 a.m.–3:00 p.m. · Irvine · $247 · Approval required · Exact address hidden · Seven spots remained at verification
+This hands-on workshop uses Claude Skills for repeatable brand, design, content, and distribution workflows, then closes the loop with MCP-based performance feedback. It is marketing-oriented, but the promised system-building work is specific enough for technical operators.
+https://luma.com/r6c1m6pu
+
+★ Session Harness with Ethan
+Saturday, September 5 · 2:00–5:00 p.m. · Newport Beach · Free · Registration open
+Bring a Claude or Codex project and put a working harness around the session. The organizer frames this as a practical setup session for getting better continuity and token efficiency from an active project.
+https://luma.com/ticket500-t9km
+
+Entrepreneurship & Venture Forum
+Sunday, September 6 · 9:30 a.m.–4:00 p.m. · Costa Mesa · $45 · Tickets available
+The day combines founder and capital conversations with sessions on AI-enabled commerce and AI-powered brand growth. It is broader than a developer meetup, but the full-day agenda and operator audience clear the founder-event threshold.
+https://luma.com/5witr6qx
+
+Orange County AI Office Hours
+Sunday, September 6 · 3:00–5:00 p.m. · Newport Beach · RSVP open · Price not stated
+Bring a project, a blocker, or a tool you want to compare. The biweekly HanaHaus session is deliberately open-format, making it most useful for builders who arrive with a concrete problem rather than expecting a formal presentation.
+https://www.meetup.com/orange-county-ai/events/315400051/
+
+From Idea to Startup: A 3-Step Framework
+Tuesday, September 8 · 6:00–8:00 p.m. · Newport Beach · Free · Registration open
+Lili Montes will work through a three-step framework for turning an unspoken idea into an initial business, with participation built into the session. This is an early-founder workshop rather than a technical talk, but attendees should leave with a next action they can use immediately.
+https://luma.com/ticket500-qnj6
+
+LOS ANGELES (8)
+
+AI Agent Tech Talks
+Wednesday, September 2 · 4:30–6:30 p.m. · El Segundo · Free · Capacity filled at verification
+The lineup covers OpenClaw integrations, TriggerWare’s Claude-based event triggers, and American Honda’s use of Atlassian Rovo agents, followed by hands-on experimentation. This remains useful to existing registrants; the organizer showed zero spots remaining at verification.
+https://luma.com/uo6p0w5y
+
+Golden Hour 007: On a Mission
+Wednesday, September 2 · 5:00–8:00 p.m. · West Los Angeles · Free · Registration open · Exact address released after registration
+Product.ai’s seventh Golden Hour puts founders and builders into a structured conversation about building in public versus staying in stealth, with a panel, audience questions, and time to compare current work. It is a product-judgment room rather than generic networking.
+https://luma.com/gbdi8qnc
+
+AI Policy September Meetup
+Wednesday, September 2 · 6:00–8:00 p.m. · Chinatown · Free · Registration open
+AI LA’s monthly policy gathering brings practitioners, policymakers, researchers, and interested community members together around responsible AI and current governance questions. There is no announced speaker program, so treat this as a focused community discussion.
+https://luma.com/s1kikhhm
+
+AI Cafe: Claude Code Skills and Video Generation Models
+Thursday, September 3 · 8:45–10:30 a.m. · Venice · Free · Approval required
+Greg Schoeninger will show how Claude Code Skills and current video models can automate video generation and editing pipelines. Coffee begins at 8:45; the technical session runs from 9:30 to 10:30.
+https://luma.com/AICafeSep3
+
+THE BR-DGE Launchpad Session
+Thursday, September 3 · 10:00–11:00 a.m. · El Segundo · Free · Registration open
+This briefing prepares dual-use founders for the next SpaceWERX SBIR/STTR topics, including likely priorities and routes into the program. It is a compact government-market session with a concrete near-term application target.
+https://luma.com/idsp5pm4
+
+★ Semantic Search, RAG, and What Comes Next with Pinecone
+Thursday, September 3 · 6:00–9:00 p.m. · Santa Monica · RSVP open · Price not stated
+Gavin Johnson will demonstrate a Pinecone-backed sample application and Pinecone Nexus, including multimodal RAG and context precompilation for agents. A second talk was still unannounced at verification.
+https://www.meetup.com/ladevops/events/316193562/
+
+USC Biomedical Engineering 50th Anniversary Symposium
+Thursday–Friday, September 3–4 · 7:00 a.m. Thursday–3:00 p.m. Friday · Los Angeles · Free · Registration requested, but the page still says the link is coming soon
+Day one is a research symposium across computational biosystems, devices and imaging, molecular and cellular engineering, and neuroengineering. Day two turns toward devices, biotech and pharma, startups, academia, and healthcare.
+https://bme.usc.edu/bme-50th/
+
+LA Agentic AI Meetup hosted by Pinecone
+Tuesday, September 8 · 5:00–7:00 p.m. · Playa Vista · Free · Registration open · Work details requested
+Pinecone’s monthly gathering is built around live demos, RAG, and agent workflows rather than talks alone. Registration asks for a work email, company, job title, and professional profile.
+https://luma.com/wzf6hq1d
+
+SAN DIEGO (7)
+
+The Future of High-Speed Interconnects
+Tuesday, September 1 · 4:00–6:00 p.m. · San Diego · Free · Registration open
+This IEEE lecture at Qualcomm examines bandwidth and signal-integrity constraints, power, thermal design, reliability, copper-graphene approaches, and heterogeneous-integration co-design for AI and high-performance computing. IEEE vTools exposes inconsistent start metadata, but its agenda and Region 6 occurrence page agree on this afternoon’s program.
+https://events.vtools.ieee.org/m/573409
+
+VibeCraft Build Review and Spec Workshop
+Wednesday, September 2 · 7:45–8:45 a.m. · San Diego · Registration open · Price not stated
+VibeCraft will review how participants approached the previous mini-build—prompts, failures, and stacks—then introduce a specification workshop. The Ansir session is short, but it is anchored in actual build artifacts rather than a tool overview.
+https://eventship.com/event/this-week-build-challenge-review-tech-talk-and-spec-workshop-intro
+
+AI Hub Weekly Meetup #5
+Wednesday, September 2 · 6:00–8:00 p.m. · San Diego · Registration open · Price not stated
+Aquillius asks each attendee to bring an AI tip, tool, or workflow and use the room to compare productivity approaches. There is no formal presentation; this is a peer show-and-tell for people with something concrete to contribute.
+https://eventship.com/event/ai-hub-weekly-meetup-5
+
+★ UC San Diego Horizon First Light 2026
+Thursday, September 3 · 11:00 a.m.–2:00 p.m. · San Diego · Free · Registration open · Exact address released after registration
+Horizon advisors, faculty innovators, and venture builders will open the academic year with an Open Flow Innovation discussion about licensing, portfolio companies, and creating startups from UC San Diego research. Lunch is included.
+https://luma.com/jt1b6wv5
+
+Claude Code Users Group Monthly Meeting
+Thursday, September 3 · 6:00–8:00 p.m. · San Diego · RSVP open · Price not stated · Campus parking is $4 per hour until 7:00 p.m.
+The University of San Diego session starts with Claude Code fundamentals, then moves into the Claude API and Model Context Protocol. The agenda is appropriate for newcomers, while the API and MCP section gives experienced users a reason to stay.
+https://www.meetup.com/claude-code-users-group/events/314737827/
+
+Monthly AI Talks and ML News
+Saturday, September 5 · 12:00–1:30 p.m. · San Diego · In person with hybrid access · Price not stated
+San Diego Machine Learning’s lightning-talk slate includes customs-code classification, machine learning in games, DeepSeek OCR, and the manifold hyper-connections paper. The in-person room is at Aquillius; remote attendees need the community Slack password and a Zoom login.
+https://sdtechscene.org/event/monthly-ai-talks-and-ml-news-in-person-hybrid/2026-09-05/
+
+Lights Out: Data Centers and the Coming Strain on the Electric Grid
+Tuesday, September 8 · Doors 6:00 p.m.; talk 7:00–8:00 p.m. · North Park · Registration open · Price not stated · Exact venue released after registration
+Energy-law professor Kristen van de Biezenbos will connect data-center demand to utility planning, electricity pricing, regulation, reliability, affordability, and environmental justice. It is infrastructure policy, but directly relevant to the physical constraints behind AI growth.
+https://eventship.com/event/lights-out-data-centers-and-the-coming-strain-on-the-electric-grid
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
