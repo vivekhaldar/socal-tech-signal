@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-09-01
+Last updated: 2026-09-14
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -8,7 +8,7 @@ Use this registry before open-ended discovery. Query every proven source for the
 
 | Source | Coverage | What it surfaced | Caveats |
 | --- | --- | --- | --- |
-| [Builders & Backers events](https://www.buildandback.com/events) | OC, LA, SD; AI, tech, startup, security | The broadest candidate pool in the pilot, including OC roundtables, LA developer events, SD community events, and later-on-the-radar listings | Discovery index only. It contains duplicates across platforms, generic networking filler, and occasional date/time discrepancies. Always follow its link to the canonical organizer page. |
+| [Insight & Access events](https://insightandaccess.com/events) (formerly Builders & Backers) | OC, LA, SD; AI, tech, startup, security | Broad regional candidate pool, including technical meetups, deep-tech programs, and design workshops | Discovery index only. The old buildandback.com address redirects here. It contains duplicates, generic networking, stale links, and date/time or geography discrepancies. Always open the organizer page. |
 | [Luma LA AI](https://luma.com/discover/la/ai) | LA plus some nearby OC; AI | Claude Code, AI agents, AI LA, spatial-AI hackathons, and other builder events | Discovery pages may omit dates in extracted text. Open each event card and inspect the full page. |
 | [Luma LA Tech](https://luma.com/discover/la/tech) | LA plus some OC; engineering, founder, security | SoCal Python, defense/cyber, startup workshops, and technical community events | Noisy outside the target audience. Apply the quality filter rather than accepting Luma's category label. |
 | [Luma San Diego AI](https://luma.com/discover/sd/ai) | San Diego County; AI and developer events | DEVx, OpenAI Build Week, Claude events, North County AI, and technical reading groups | Recurring events can appear many times. Deduplicate by canonical URL and date. |
@@ -31,6 +31,10 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [OWASP Orange County](https://owasp.org/www-chapter-orange-county/) | Application security, agentic-security systems, exploit validation, and practitioner talks | Require a named speaker and technical topic on the current chapter or ticket page; organizer reminders without an agenda do not clear the bar. |
 | [Cloud Security Alliance Orange County](https://www.meetup.com/cloud-security-alliance-csa-orange-county/) | Cloud security, workplace AI risk, governance, and practitioner guidance | Require a concrete topic and preserve RSVP-only or no-walk-in restrictions from the active occurrence. |
 | [IEEE Orange County Section events](https://r6.ieee.org/ocs/events/) | Computer science, enterprise AI, MCP, electronics, and engineering programs | Prefer the regional calendar for the real occurrence time when the linked vTools page exposes an incorrect registration or multiweek date range. |
+| [Orange County eXperience Design](https://www.meetup.com/orangecountyxd/) | AI product experience, agent interfaces, and practical design challenges | Prefer sessions with a defined discussion and exercise. Meetup may omit prices; do not infer free admission. |
+| [HanaHaus events](https://www.hanahaus.com/events) | Applied-AI demonstrations, founder programs, and practitioner workshops in Newport Beach | Use the first-party event detail, then check the linked ticket page. Eventbrite can rate-limit inventory reads even when the venue page is readable. |
+| [Antithesis and AWS in Irvine](https://luma.com/bvw2b0wn) | Distributed systems, agent-generated code, reliability, and pre-production verification | Regional events can be hosted with AWS. Use the specific event agenda for check-in time; the calendar start may refer to the first talk. |
+| [STARWEST](https://starwest.techwell.com/) | Software testing, test automation, agent evaluation, and quality engineering | Annual Anaheim conference with separate training, tutorial, and conference days. Verify package coverage and current price; do not imply a general conference pass includes every training day. |
 
 ## Proven Los Angeles organizers and communities
 
@@ -53,6 +57,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Veeam Community events](https://community.veeam.com/events) | Data resilience, disaster recovery, cloud infrastructure, security, and technical user groups | Include only occurrences with an explicit technical update or working agenda; vendor community venues may otherwise be mostly social. |
 | [LA DevOps](https://www.meetup.com/ladevops/) | Cloud infrastructure, production operations, semantic search, RAG, and agent systems | Require a named technical talk. Individual programs can have a second speaker or topic still pending, so describe only the confirmed agenda. |
 | [Pinecone community events](https://luma.com/pinecone) | Vector search, RAG, agent workflows, and live technical demos | Verify each occurrence separately; registration can request work identity details, and capacity varies by venue. |
+| [SoCal Deep Tech Week](https://www.socaldeeptech.com/) | Aerospace, physical AI, maritime and cyber resilience, advanced manufacturing, and industrial site visits | Canonical Luma pages can change agendas, cities, or registration state. Keep approval and waitlist constraints explicit; reject unresolved location or schedule conflicts. |
+| [OWASP San Fernando Valley](https://sfv.owasp.org/) | Software security, governance, and practitioner talks | New chapter programming can appear before a venue is finalized. State the missing venue and never present a likely campus as a confirmed location. |
 
 ## Proven San Diego communities
 
@@ -78,6 +84,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [Eventship](https://eventship.com/) | Small AI-builder workshops and technical life-sciences discussions in San Diego | Event pages may hide the exact venue, price, organizer history, or publication date. Include only listings with a concrete curriculum or named expert and preserve every missing access fact. |
 | [UC San Diego Horizon](https://luma.com/beyondhorizon) | University technology licensing, venture formation, faculty innovation, and research commercialization | Events can hide the exact address until registration. Distinguish public ecosystem programs from advisor-only sessions. |
 | [Claude Code Users Group](https://www.meetup.com/claude-code-users-group/) | Claude Code, Claude API, MCP, and hands-on agent-development meetings | Verify the active occurrence and preserve University of San Diego parking terms when the event is on campus. |
+| [San Diego Design Week](https://sddesignweek.org/programs/) | Human-centered AI, design systems, product engineering, hands-on Adobe workshops, and Qualcomm/UC San Diego programs | First-party detail pages can resolve blocked Eventship listings. Deduplicate umbrella programs and their component sessions; check the registration page as well as the published agenda. |
+| [San Diego Test Equipment Symposium](https://www.atecorp.com/sdtes/attendee-registration) | RF, EMC, power, data acquisition, instrumentation, and live hardware demonstrations | Annual ATEC-hosted event. Read the current program and use the first-party attendee form; a Meetup RSVP alone may not be organizer registration. |
 
 ## Professional chapter watchlist
 
@@ -96,6 +104,8 @@ Use this registry before open-ended discovery. Query every proven source for the
 | [infosecmap](https://infosecmap.com/) | Suggested by Alok; not yet proven in the pilot | Evaluate for local security events, then promote it in this registry only if it yields verified high-quality picks. |
 
 ## Maintenance
+
+September 14, 2026 source caveats: the old OWASP OC and Product.ai routes returned 404, Data Con LA's events route remained unavailable, and the SensAI calendar returned 400. SoCalCyber and Ticket 500's index exposed little usable event text. Several individual Ticket 500 Luma links returned 404. Infosecmap, Alliance, USC Viterbi, and parts of IEEE blocked direct requests; Eventship detail access varied by retrieval method. A Dream AI Hackathon listed in an LA feed was actually in San Francisco on the organizer page. Do not turn a discovery listing into verification.
 
 After each run:
 
