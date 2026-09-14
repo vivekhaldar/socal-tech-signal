@@ -1,0 +1,170 @@
+SOCAL TECH SIGNAL — September 14, 2026
+Tuesday, September 15 through Tuesday, September 22
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: Gen AI: Design is the New Code
+Wednesday, September 16 · 6:30–8:30 p.m. · Irvine · Free · Request to join on Meetup · Parking validated
+Google engineer Elise Ewing will introduce the Elephant Goldfish Model: build a rich design context, then use fresh AI sessions to challenge its assumptions before implementation. The ACM and IEEE program at Knobbe Martens is a particularly good fit for engineers trying to preserve architectural judgment while delegating more code to agents.
+https://www.meetup.com/acm-oc/events/316132346
+
+EDITOR'S PICK 02: PRAXIS Journal Club: What Can AI Hear in Clinical Audio?
+Thursday, September 17 · 4:00–5:00 p.m. · Los Angeles · Free · Registration open
+Lily Wu leads a PRAXIS journal club on what audio language models can capture beyond transcripts, handling long clinical recordings, and evaluating them responsibly. It is open to everyone at USC’s Leavey Library, room 202I, with no technical background required.
+https://luma.com/4hg55zom
+
+EDITOR'S PICK 03: DEVx Paper Club: Position Embeddings and Long Context
+Thursday, September 17 · 7:00–9:00 p.m. · San Diego · Free · Registration open · New venue
+Tom McTavish leads a discussion of RoPE, NoPE, and QK-Norm, connecting position encoding to long-context behavior and model architecture. DEVx has moved this session to the seminar space off the lobby at 11988 El Camino Real; check the new address even if you have attended before.
+https://luma.com/devx-paper-club-sep-17-2026
+
+ORANGE COUNTY (7)
+
+OCXD – Designing for AI Agents: The Next Frontier of Product Experience
+Tuesday, September 15 · 6:30–9:30 p.m. · Irvine · Free · RSVP on Meetup
+OCXD moves from a discussion of trust, transparency, and human control in agent interfaces into a small-team design challenge. Go if you design or ship AI products and want to work through the user experience beyond a chat box; the venue is 200 Spectrum Center Drive, suite 2000.
+https://www.meetup.com/orangecountyxd/events/316248710
+
+Vibe Coding OC: Community Demos and Collaboration
+Wednesday, September 16 · 6:00–8:00 p.m. · Irvine · Free · RSVP on Meetup
+Bring a laptop and a project to share with Vibe Coding Orange County. The evening at Codazen, 60 Bunsen, is organized around members’ demos, collaboration, and questions; new builders are welcome and the host supplies the space.
+https://www.meetup.com/vibe-coding-orange-county/events/316397832/
+
+★ Gen AI: Design is the New Code
+Wednesday, September 16 · 6:30–8:30 p.m. · Irvine · Free · Request to join on Meetup · Parking validated
+Google engineer Elise Ewing will introduce the Elephant Goldfish Model: build a rich design context, then use fresh AI sessions to challenge its assumptions before implementation. The ACM and IEEE program at Knobbe Martens is a particularly good fit for engineers trying to preserve architectural judgment while delegating more code to agents.
+https://www.meetup.com/acm-oc/events/316132346
+
+Orange County AI Vibe Coding
+Thursday, September 17 · 5:00–7:00 p.m. · Newport Beach · Free · Registration open
+Bring a laptop and a project to The Ticket 500, 2807 Villa Way, for a relaxed work session with Claude Code, Codex, Gemini, and other AI coding tools. Newcomers can get help starting; experienced builders can compare approaches while working on their own projects.
+https://luma.com/orange-el54
+
+The AI Masterclass: Impossible to Replace
+Saturday, September 19 · 2:30–5:00 p.m. · Newport Beach · Free general admission ($0 total) · Reserve on Eventbrite
+Irina Grak and Katya Ivahno lead live AI demonstrations on real work tasks, including questions submitted by the audience. The women-led session welcomes everyone at HanaHaus, 3366 Via Lido, and covers agent delegation, privacy, and judging output quality; the ticketed afternoon includes 90 minutes of demos.
+https://www.eventbrite.com/e/impossible-to-replace-the-2026-ai-masterclass-free-live-ai-demos-tickets-1996376968253
+
+Orange County AI Office Hours
+Sunday, September 20 · 3:00–5:00 p.m. · Newport Beach · Free · RSVP on Meetup
+Bring a project or a specific AI question to HanaHaus for the recurring peer-help session. There is no formal speaker agenda: the value comes from comparing tools, troubleshooting, and working alongside other practitioners.
+https://www.meetup.com/orange-county-ai/events/316235476
+
+Sifr Fireside Chat with Burhon Nassir
+Sunday, September 20 · 4:30–7:30 p.m. · Yorba Linda · Free · Approval required · Address released after registration
+Sifr’s founder conversation with Burhon Nassir follows the creation and early distribution of Speaksilq, a language-learning app built with Replit. Go for a concrete founder story about moving from a prototype to the first customers.
+https://luma.com/0wy2yom3
+
+LOS ANGELES (10)
+
+ISSA-LA: Runtime AI Security and Election Threats
+Tuesday, September 15 · 5:30–8:30 p.m. · Culver City · Nonmembers $39.19; members $33.85; full-time students/faculty $21.05 · Fees included · Dinner included
+ISSA’s local chapter pairs Teddi Poehls on runtime AI security with Los Angeles County election-security officer Jeremy Keller on AI-assisted defense, threats, and public trust. This is a professional chapter meeting at the Veterans Memorial Building’s Rotunda Room, 4117 Overland Avenue, with two CPE credits and time for discussion.
+https://www.eventbrite.com/e/runtime-is-where-ai-lives-tickets-1995047284132
+
+LDU AI Academy Kickoff
+Tuesday, September 15 · 6:30–8:30 p.m. · Los Angeles · Free · Registration open · Free lot parking
+A hands-on introduction at Life Development University, 4241 Crenshaw Boulevard, covers useful prompts, checking AI answers, privacy, and differences among major assistants. Bring a phone or laptop; loaner devices are available, making this an accessible starting point for new users.
+https://luma.com/h85b0lml
+
+Startup Cafe: Build a Story Investors Remember
+Wednesday, September 16 · 8:45–10:30 a.m. · Venice · Free standard ticket · Registration open
+Jenna Reback will help founders turn a company’s story into a clear fundraising narrative, including where AI can sharpen the message and where personal judgment matters. Coffee starts at 8:45 at The KINN; the talk and questions run from 9:30 to 10:30.
+https://luma.com/StartupCafeSep16
+
+AI Filmmaking: Curious Refuge Community Meetup
+Wednesday, September 16 · 6:30–8:30 p.m. · Burbank · Free · Registration open · Nonmembers welcome
+A community-led evening for filmmakers and artists to compare AI tools, techniques, and projects at Guild Hall, 3516 West Victory Boulevard. The listing explicitly welcomes people outside Curious Refuge and notes that company employees may not attend; expect peer conversation rather than a formal class.
+https://luma.com/wn9t00lr
+
+The Industrial Base Challenge
+Thursday, September 17 · 9:00 a.m.–noon · Long Beach · Free · Approval required · Exact venue hidden
+This working session turns maritime navigation and satellite-signal resilience, plus faster cyber patching, into written requirements shaped for SBIR topics and other government solicitations. Led by Drew Busbee, it is for port and Navy operators, RF and cyber companies, researchers, and founders who can contribute to the problem definition.
+https://luma.com/t71if0qf
+
+★ PRAXIS Journal Club: What Can AI Hear in Clinical Audio?
+Thursday, September 17 · 4:00–5:00 p.m. · Los Angeles · Free · Registration open
+Lily Wu leads a PRAXIS journal club on what audio language models can capture beyond transcripts, handling long clinical recordings, and evaluating them responsibly. It is open to everyone at USC’s Leavey Library, room 202I, with no technical background required.
+https://luma.com/4hg55zom
+
+AI Agents Happy Hour: Venice
+Thursday, September 17 · 5:00–7:00 p.m. · Venice · Free admission · Registration open
+The fifth City of Agents gathering brings agent builders, founders, and curious operators to the patio at Wurstküche, 625 Lincoln Boulevard. There are no talks or pitches: bring a workflow, an implementation problem, or a story to compare with other people building agents.
+https://luma.com/8gqwtkve
+
+AI, Art and Vibecoding: StrangeNew.World
+Friday, September 18 · 3:00–7:00 p.m. · Los Angeles · Free · RSVP on Meetup
+StrangeNew.World’s weekly gathering at 310 Coffee, 11625 Washington Place, adds a hands-on project session from 5:00 p.m. Bring a laptop, art project, or work in progress for feedback; the earlier conversation is informal and follows the interests of the people in the room.
+https://www.meetup.com/ai-art-and-vibecoding/events/316448181
+
+Broken Data Club LA: Is Your Data Ready for AI?
+Monday, September 21 · 6:00–8:00 p.m. · Santa Monica · Free · Approval required
+Bring a real data-quality failure or an unresolved governance problem to Expert DOJO. This month’s discussion examines what must be cleaned, connected, and governed before AI can use enterprise data reliably, including entity resolution, MDM, and conflicting customer records.
+https://luma.com/020r9ocy
+
+OWASP San Fernando Valley: Governance That Works
+Tuesday, September 22 · 5:30–9:00 p.m. · Northridge · Free · Registration open · Venue being finalized
+Help relaunch the local OWASP chapter and hear Karina Klever discuss practical governance, measurable controls, and data discipline. Food and drinks are included and membership is not required; the chapter is still finalizing its Northridge venue and will post the address on the RSVP page.
+https://luma.com/64y8mff3
+
+SAN DIEGO (10)
+
+Scaling AI Infrastructure with Silicon Photonics and Advanced Packaging
+Tuesday, September 15 · 4:00–6:00 p.m. · San Diego · Free · IEEE registration closes at 3:00 p.m.
+IEEE hosts Hiren Thacker’s research talk on silicon photonics, advanced packaging, and the bandwidth and power demands of large AI systems. Networking begins at 4:00 at Qualcomm Building Q, 6455 Lusk Boulevard, followed by the lecture at 4:30; this is a technical society program for hardware and infrastructure engineers.
+https://events.vtools.ieee.org/m/575708
+
+VibeCraft: The Hidden Cost of Not Defining Your Terms
+Wednesday, September 16 · 7:45–8:45 a.m. · San Diego · Free · Registration link available
+Bring your definitions of agent, spec, context, evaluation, and done to Ansir Innovation Center. This week’s session is devoted to drafting a shared vocabulary for AI-assisted work; the organizer explicitly says there will be no building session.
+https://eventship.com/event/this-week-the-hidden-cost-of-not-defining-your-terms
+
+Own Your Audience in the Age of AI
+Wednesday, September 16 · 5:30–8:00 p.m. · Encinitas · Free · Host approval required
+The Roundtable brings founders and operators together to compare what is working in email, owned audiences, and AI-assisted content. Jake Heilbrunn opens the discussion, then the room works through participants’ distribution problems at the Leucadia Club, 828 North Coast Highway 101; this is a peer roundtable rather than a product demonstration.
+https://luma.com/revhndds
+
+★ DEVx Paper Club: Position Embeddings and Long Context
+Thursday, September 17 · 7:00–9:00 p.m. · San Diego · Free · Registration open · New venue
+Tom McTavish leads a discussion of RoPE, NoPE, and QK-Norm, connecting position encoding to long-context behavior and model architecture. DEVx has moved this session to the seminar space off the lobby at 11988 El Camino Real; check the new address even if you have attended before.
+https://luma.com/devx-paper-club-sep-17-2026
+
+Designing the Digital World of the Future
+Friday, September 18 · 10:00 a.m.–noon · Rancho Bernardo · General admission $39 · Free for students
+WE ARE IN AI’s Design Week workshop asks small teams to take an AI challenge, identify whom it serves, and redesign the experience around people. Bring a design or product perspective to Kiln, 17190 Bernardo Center Drive, suite 200; no technical background is required.
+https://sddesignweek.org/programs/designing-the-digital-world-of-the-future-a-human-centered-ai-experience-san-diego-design-week-2026/
+
+RAG and Agents: AI Engineering Book Club
+Saturday, September 19 · Noon–1:30 p.m. · San Diego · In person with online access · Free · RSVP on Meetup
+San Diego Machine Learning’s book club continues chapter 6 of Chip Huyen’s AI Engineering, focusing on RAG and agents. Join at Aquillius for the discussion; online participants need a Zoom account and the meeting password from the community Slack.
+https://www.meetup.com/san-diego-machine-learning/events/316523936
+
+DEVx Weekend Function: Lightning Showcase
+Saturday, September 19 · Noon–4:00 p.m. · San Diego · Free · Registration open · Speaker topics pending
+DEVx’s Weekend Function combines lunch, community presentations, and time to show projects or build with other developers. Bring a laptop to 1495 Pacific Highway, suite 300; the event format is confirmed, but individual speakers and topics were still being developed.
+https://luma.com/devx-weekend-function-sep-19-2026
+
+IEEE Consultants’ Network: Use and Deployment of AI Specialists
+Monday, September 21 · 5:30–7:30 p.m. · San Diego · Free; buy your own food and drinks · IEEE RSVP available
+Matthew Zimmer discusses when an organization needs an AI specialist, what non-specialists can do themselves, and how to collaborate productively across the gap. The IEEE Consultants’ Network meets at Leucadia Pizza UTC, 7748 Regents Road; the presentation starts at 6:15.
+https://events.vtools.ieee.org/m/573819
+
+Open Source, On-Premises AI: A Practical Implementation Guide
+Tuesday, September 22 · 5:30–7:30 p.m. · San Diego · Free · RSVP on Meetup
+Tony Bubbins walks through virtualization, self-hosted language models, graphical interfaces, and agentic tools, with live demonstrations. Meet at Venture X, 10089 Willow Creek Road, if you want a practical starting point for running AI on infrastructure you control.
+https://www.meetup.com/sandiegosoftware/events/316313242
+
+Hidden Swift Concurrency Bugs
+Tuesday, September 22 · 6:30–7:30 p.m. · La Jolla · Free · RSVP on Meetup
+The San Diego iOS Developers group works through concurrency failures that compile successfully: unmanaged task lifetimes, ignored cancellation, MainActor work, actor isolation, and races under load. Meet in the Riford Library seminar room, 7555 Draper Avenue, for a practical peer-learning session.
+https://www.meetup.com/sdiosdevelopers/events/316558659/
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
