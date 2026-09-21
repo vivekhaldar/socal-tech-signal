@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-09-14
+Last updated: 2026-09-21
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -62,6 +62,7 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [OWASP San Fernando Valley](https://sfv.owasp.org/) | Software security, governance, and practitioner talks | New chapter programming can appear before a venue is finalized. State the missing venue and never present a likely campus as a confirmed location. |
 | Curious Refuge Events | Community-led AI filmmaking discussions | Verify the local host and format; the Burbank meetup welcomes nonmembers and is led by community participants. |
 | AI Agents Happy Hour / City of Agents | Recurring peer gathering for LA agent builders | The Venice edition is free, with no presentations or pitch program. Locate the current occurrence on Luma. |
+| [Glendale Tech Week](https://www.glendaletechweek.com/) | Annual open-source, AI, cybersecurity, civic-tech, founder, and demo programming in Glendale | Treat the week as a discovery index. Verify each independently hosted occurrence on its canonical page, including waitlists, addresses, and audience rules. |
 
 ## Proven San Diego communities
 
@@ -88,6 +89,8 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [UC San Diego Horizon](https://luma.com/beyondhorizon) | University technology licensing, venture formation, faculty innovation, and research commercialization | Events can hide the exact address until registration. Distinguish public ecosystem programs from advisor-only sessions. |
 | [Claude Code Users Group](https://www.meetup.com/claude-code-users-group/) | Claude Code, Claude API, MCP, and hands-on agent-development meetings | Verify the active occurrence and preserve University of San Diego parking terms when the event is on campus. |
 | [San Diego Design Week](https://sddesignweek.org/programs/) | Human-centered AI, design systems, product engineering, hands-on Adobe workshops, and Qualcomm/UC San Diego programs | First-party detail pages can resolve blocked Eventship listings. Deduplicate umbrella programs and their component sessions; check the registration page as well as the published agenda. |
+| [AICamp San Diego events](https://www.aicamp.ai/event) | GenAI, LLM, agent, data-platform, and Google Cloud practitioner meetups | The canonical page can require an account before it reveals the final address. Consolidate duplicate Meetup and Google Cloud listings, preserve the external-RSVP/no-walk-in rule, and do not infer a price. |
+| [AI Safety Awareness Group San Diego](https://www.meetup.com/ai-safety-awareness-group-san-diego/) | Public workshops on AI risk, loss of control, and governance | Favor occurrences with demonstrations or exercises over general discussion, and state when the program is designed for a nontechnical audience. |
 
 ## Professional chapter watchlist
 
@@ -104,10 +107,12 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [Alliance for SoCal Innovation community events](https://alliancesocal.org/socal-community-events/) | Useful regional innovation index | Check for founder, technical, university, and ecosystem events across Southern California. The page mixes events with application deadlines and can retain past listings, so follow each candidate to the canonical organizer page and verify the current date, location, program, and registration state. |
 | [dev.events North America](https://dev.events/NA) | Useful for conferences; no in-window pilot picks | Check for larger developer conferences and events needing early registration. |
 | [infosecmap](https://infosecmap.com/) | Suggested by Alok; not yet proven in the pilot | Evaluate for local security events, then promote it in this registry only if it yields verified high-quality picks. |
+| [Tech:OC](https://techoc.co/) | Useful Orange County roundup | Use its weekly event list for discovery only. Follow every lead to the organizer page because price, capacity, exact venue, and registration state can change after the roundup is published. |
+| [UC Riverside SBIR/STTR Resource Center](https://sbir.ucr.edu/) | Useful nearby source for Inland Empire innovation-funding and commercialization programs | Consider high-signal in-person programs for “Worth the drive.” Annual summit details may live on a separate EventsCloud page, so verify the agenda, current registration choices, and venue directly. |
 
 ## Maintenance
 
-September 14, 2026 source caveats: the old OWASP OC and Product.ai routes returned 404, Data Con LA's events route remained unavailable, and the SensAI calendar returned 400. SoCalCyber and Ticket 500's index exposed little usable event text. Several individual Ticket 500 Luma links returned 404. Infosecmap, Alliance, USC Viterbi, and parts of IEEE blocked direct requests; Eventship detail access varied by retrieval method. A Dream AI Hackathon listed in an LA feed was actually in San Francisco on the organizer page. Do not turn a discovery listing into verification.
+September 21, 2026 source caveats: SoCalCyber's embedded list still contained only stale May–August events, Infosecmap returned 403, and Eventship's rendered pages hit a Cloudflare challenge. Eventbrite search and some detail routes returned 429, while canonical schema or first-party organizer pages remained readable. Luma discovery pages omitted dates, and several IEEE pages exposed malformed structured ranges; individual canonical pages, registration forms, ICS data, and organizer corroboration resolved shortlisted details. Do not turn a discovery listing into verification.
 
 Price-verification note: rendered Meetup RSVP panels explicitly expose “Free” even when static text omits it. Eventbrite can return 429 to a text fetch while its public browser page and ticket selector remain readable. For the AI Masterclass the selector confirms free general admission and a $0 total; for ISSA it distinguishes member, nonmember, and student/faculty totals. Do not infer admission price from null structured fields alone.
 
