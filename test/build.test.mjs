@@ -16,8 +16,8 @@ const issue = loadIssue(findLatestIssuePath(root));
 
 test('latest issue contains the complete curated edition', () => {
   assert.equal(issue.featured.length, 3);
-  assert.equal(issue.events.length, 27);
-  assert.deepEqual(issue.counts, { OC: 7, LA: 10, SD: 10, Later: 0 });
+  assert.equal(issue.events.length, 33);
+  assert.deepEqual(issue.counts, { Drive: 1, OC: 10, LA: 12, SD: 10, Later: 0 });
   assert.equal(issue.webUrl, 'https://socaltech.live/');
   assert.equal(issue.archiveUrl, `https://socaltech.live/issues/${issue.slug}/`);
 });
@@ -51,6 +51,16 @@ test('email omits empty regional sections', () => {
   assert.doesNotMatch(html, />Later on the radar</);
   assert.doesNotMatch(html, /LATER(?:&nbsp;|\s)*0/);
   assert.doesNotMatch(text, /LATER ON THE RADAR/);
+});
+
+test('worth-the-drive events render as their own region', () => {
+  const driveEvents = issue.events.filter((event) => event.region === 'Drive');
+  assert.equal(driveEvents.length, 1);
+
+  const html = renderEmailHtml(issue, { postalAddress: 'Test address' });
+  const text = renderEmailText(issue, { postalAddress: 'Test address' });
+  assert.match(html, />Worth the drive</);
+  assert.match(text, /WORTH THE DRIVE/);
 });
 
 test('website template omits the issue synthesis band', () => {

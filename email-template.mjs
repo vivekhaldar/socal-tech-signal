@@ -13,6 +13,7 @@ const COLORS = {
 };
 
 const REGION_COLORS = {
+  Drive: COLORS.purple,
   OC: COLORS.vermilion,
   LA: COLORS.cobalt,
   SD: COLORS.green,
