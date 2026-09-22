@@ -1,5 +1,5 @@
 SOCAL TECH SIGNAL — September 21, 2026
-Monday, September 21 through Tuesday, September 29
+Tuesday, September 22 through Tuesday, September 29
 
 View this issue on the web: https://socaltech.live/
 
@@ -27,12 +27,7 @@ Wednesday, September 23 · 8:30 a.m.–5:00 p.m.; Thursday, September 24 · 9:00
 UC Riverside and the Inland Empire APEX Accelerator connect technical small businesses with SBIR/STTR program managers, government buyers, defense partners, and commercialization experts at March Field Air Museum. The two-day agenda moves from competitive proposals and customer discovery to procurement, buyer matchmaking, and a Navy small-business keynote; registration includes meals.
 https://na.eventscloud.com/website/97621/
 
-ORANGE COUNTY (11)
-
-OC AI Builders: Beyond Frontier Models
-Monday, September 21 · 5:00–8:00 p.m. · Irvine · Free · Registration open
-Builders will show applications powered by open-weight, small, and specialized models, then explain why they chose them, where they failed, and what they would change. Bring a laptop to EvoNexus if you want to share or explore work in a candid implementation discussion rather than polished product theater.
-https://luma.com/8xf62qle
+ORANGE COUNTY (10)
 
 Building an AI Operating System for Medtech Companies
 Tuesday, September 22 · 6:00–8:00 p.m. · Newport Beach · Free · Registration open
@@ -84,12 +79,7 @@ Monday, September 28 · 5:00–7:00 p.m. · Irvine · No admission charge · Reg
 IEEE Orange County will build a framework-free Python agent live while covering memory, tools, orchestration, governance, observability, and failure recovery. Attend in person at UCI Beall Applied Innovation if you want to see the control surfaces around an autonomous system rather than another prompt demonstration.
 https://events.vtools.ieee.org/m/575018
 
-LOS ANGELES (13)
-
-Broken Data Club LA – September
-Monday, September 21 · 6:00–8:00 p.m. · Santa Monica · Free · Approval required · Near capacity
-Bring a real data-quality failure or unresolved governance problem to Expert DOJO. The operator discussion focuses on what must be cleaned, connected, and governed before AI can use enterprise data reliably, including entity resolution, MDM, and conflicting customer records.
-https://luma.com/020r9ocy
+LOS ANGELES (12)
 
 OWASP San Fernando Valley: First Chapter Meeting
 Tuesday, September 22 · 5:30–9:00 p.m. · Woodland Hills · Free · Registration open · Exact address pending
@@ -151,12 +141,7 @@ Tuesday, September 29 · Noon–8:00 p.m. · El Segundo · Industry ticket $20 �
 THE BR-DGE connects commercial founders and investors with senior national-security leaders for an extended program on moving technology into mission use. Read the access rules before applying: government attendance is identity-restricted, every registration is reviewed, and the venue does not accept Apple Pay for parking.
 https://luma.com/3g1gn0ua
 
-SAN DIEGO (11)
-
-IEEE Consultants’ Network: Use and Deployment of AI Specialists
-Monday, September 21 · 5:30–7:30 p.m. · San Diego · Free; buy your own food and drinks · Registration closed
-Matthew Zimmer discusses when an organization needs an AI specialist, what non-specialists can do themselves, and how to collaborate productively across the gap. The meeting at Leucadia Pizza UTC is still scheduled, but IEEE registration has closed.
-https://events.vtools.ieee.org/m/573819
+SAN DIEGO (10)
 
 Open Source, On-Premises AI: A Practical Implementation Guide
 Tuesday, September 22 · 5:30–7:30 p.m. · San Diego · Free · Registration open
