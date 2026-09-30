@@ -1,0 +1,162 @@
+SOCAL TECH SIGNAL — September 29, 2026
+Wednesday, September 30 through Tuesday, October 6
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: REALIZE Accelerator Demo Day
+Wednesday, September 30 · 5:00–8:00 p.m. · Irvine · Free · Registration open · Limited capacity
+Nine medical-device, diagnostic, and digital-health startups complete a 12-week accelerator with live pitches, expert judging, and a showcase at UCI Beall Applied Innovation’s Cove. Go to inspect how teams translate a technical or clinical insight into a company and compare their commercialization choices.
+https://luma.com/ulpteam-0m9e
+
+EDITOR'S PICK 02: AI Tinkerers LA: AI Builder Meetup and Live Demos
+Thursday, October 1 · 6:00–8:00 p.m. · Venice · Free · Apply to attend · Technical profile required
+This screened, 50-builder room prioritizes working code, architecture, agentic workflows, debugging, and candid implementation details over pitches. Bring a project or a technical profile; the page lists The KINN at 150 Horizon Avenue, while the organizer also says venue details follow acceptance.
+https://luma.com/AIBuilderMeetupandLiveDemos
+
+EDITOR'S PICK 03: OWASP LA: When AI Writes Code, Who Secures It?
+Monday, October 5 · 5:30–8:30 p.m. · Santa Monica · Free · Registration open · Bring a laptop
+Milan Williams and Jason Kinsfather lead a hands-on session using an intentionally vulnerable application, a coding agent, and security feedback during development. Meet at BLANKSPACES, 929 Colorado Avenue, to see where AI-assisted coding needs a security control that acts before deployment.
+https://luma.com/inxrnb92
+
+ORANGE COUNTY (3)
+
+★ REALIZE Accelerator Demo Day
+Wednesday, September 30 · 5:00–8:00 p.m. · Irvine · Free · Registration open · Limited capacity
+Nine medical-device, diagnostic, and digital-health startups complete a 12-week accelerator with live pitches, expert judging, and a showcase at UCI Beall Applied Innovation’s Cove. Go to inspect how teams translate a technical or clinical insight into a company and compare their commercialization choices.
+https://luma.com/ulpteam-0m9e
+
+Orange County AI Office Hours
+Sunday, October 4 · 3:00–5:00 p.m. · Newport Beach · Price not published · Check the current RSVP options
+Bring a personal AI project, a question, or something you want peer feedback on to HanaHaus, 3366 Via Lido. This is an informal collaboration session with no fixed agenda, best for finding help or comparing experiments rather than attending a prepared technical talk.
+https://www.meetup.com/orange-county-ai/events/316392260/
+
+Claude Community for Marketers
+Monday, October 5 · 6:00–8:00 p.m. · Irvine · Free · Approval required · Address after acceptance · Free on-site parking
+Bethany Joy Clark facilitates a practitioner discussion about where AI is helping marketing work and where it is failing. Participants will select a real problem for a follow-on Impact Lab; the format is shared work and problem selection rather than a keynote.
+https://luma.com/claude-mo0t
+
+LOS ANGELES (9)
+
+IIE Opportunities & Resources and CSU Demo Day
+Wednesday, September 30 · 9:00 a.m.–6:00 p.m. · Long Beach · Free · Registration open · Choose panels, demo day, or both · Exact venue after registration
+The morning moves through non-dilutive funding, equity funding, and concierge mentoring; CSU startups pitch from 1:30–4:00 p.m., followed by a reception. Technical founders can choose the funding discussions, the venture showcase, or the full day instead of committing to a generic networking program.
+https://luma.com/bhtm2dnq
+
+Machine Cinema: AI Filmmaking Open Mic
+Wednesday, September 30 · 6:00 p.m. start; header ends 9:00 p.m., program says 9:30 p.m. · Los Angeles · $11 · Sold out; waitlist open · Exact address after admission
+Creators share unfinished AI films, tools, and experiments for live feedback at Chain Reaction in Westchester. The open-mic format favors work in progress and practical creative techniques; joining the waitlist does not guarantee a seat, and the organizer charges only if you are admitted.
+https://luma.com/machine-tclv
+
+BSE Codex Workshop: Build Your Personal Website
+Wednesday, September 30 · 6:30–8:00 p.m. · Los Angeles · Free · Full; waitlist open · Address after admission
+Bruin Software Engineers introduces web development through building a personal website with Codex. Bring a laptop for the hands-on session; credits and snacks are included, but a waitlist request is not confirmed attendance.
+https://luma.com/g9tcfwke
+
+AI Cafe: Building AI That Works in Production
+Thursday, October 1 · 8:45–10:30 a.m. · Venice · Free standard admission · Registration open
+Chris Grayson of Blink Build Studios shares principles for taking AI into production, with a talk, demonstration, and questions starting at 9:30 a.m. Coffee begins earlier at The KINN, 150 Horizon Avenue; select the standard ticket rather than the separate member tier if you are not a KINN member.
+https://luma.com/AICafeOct1
+
+Long Beach Accelerator Summit
+Thursday, October 1 · 11:00 a.m.–5:30 p.m. · Long Beach · $150 full-day ticket · Tickets available
+At Hyatt Regency Long Beach, founders and investors compare company building across logistics, aerospace, energy, and health technology. The afternoon includes former SpaceWERX director Walter McMillan and Gumshoe’s Joshua Lee, with founder awards and a reception; the detailed agenda ends at 5:30 p.m., although other schedule copy says 6:00.
+https://luma.com/9udcb3u3
+
+★ AI Tinkerers LA: AI Builder Meetup and Live Demos
+Thursday, October 1 · 6:00–8:00 p.m. · Venice · Free · Apply to attend · Technical profile required
+This screened, 50-builder room prioritizes working code, architecture, agentic workflows, debugging, and candid implementation details over pitches. Bring a project or a technical profile; the page lists The KINN at 150 Horizon Avenue, while the organizer also says venue details follow acceptance.
+https://luma.com/AIBuilderMeetupandLiveDemos
+
+Caging Claude: Hacker’s Guide to Vibecoding Safely
+Friday, October 2 · 7:00–10:00 p.m. · Burbank · $63.79 total ($60 plus $3.79 fees) · Tickets available · Bring a laptop
+Null Space Labs examines hallucinated dependencies, prompt injection, secret handling, access control, and vulnerability review while building with an AI agent. The workshop at 2522 North Ontario Street includes agent access and exercises around authentication and secrets, with an emphasis on deciding where human oversight belongs.
+https://www.universe.com/events/caging-claude-hackers-guide-to-vibecoding-safely-tickets-VPBF4K
+
+AI LA: A New Way to Work
+Saturday, October 3 · 12:30 p.m. start; header ends 4:00 p.m., agenda 4:30 p.m. · Santa Monica · $150 general admission; $75 eligible AI LA+ members with approval · Tickets available · Laptop and Claude account required
+Adobe principal AI product manager Jason Baer teaches practical workflows, skills, apps, and automations using Claude at BLANKSPACES, 929 Colorado Avenue. Bring a real administrative task to improve; no coding background is required, and the organizer explicitly excludes developer-focused Claude Code from this workshop.
+https://luma.com/a-new-way-to-work
+
+★ OWASP LA: When AI Writes Code, Who Secures It?
+Monday, October 5 · 5:30–8:30 p.m. · Santa Monica · Free · Registration open · Bring a laptop
+Milan Williams and Jason Kinsfather lead a hands-on session using an intentionally vulnerable application, a coding agent, and security feedback during development. Meet at BLANKSPACES, 929 Colorado Avenue, to see where AI-assisted coding needs a security control that acts before deployment.
+https://luma.com/inxrnb92
+
+SAN DIEGO (10)
+
+San Diego Cyber Group: September Meetup
+Wednesday, September 30 · 6:00–8:00 p.m. · San Diego · Price not published · Cybersecurity professionals and students only · Check the current RSVP options
+David Spark of the CISO Series hosts guided cyber discussion and community games at Novo Brazil Brewing in Mission Valley, 1640 Camino Del Rio North, Suite 341. Food and drink are offered to the first 80 arrivals. Treat this as a practitioner community gathering rather than a formal technical lecture.
+https://www.meetup.com/san-diego-cyber-meetup/events/316105065/
+
+I2SL: Alvarado Water Quality Laboratory
+Thursday, October 1 · 11:00 a.m.–1:00 p.m. · San Diego · Free · Approval required · Address after acceptance · Parking not validated
+Architects, engineers, builders, and project stakeholders examine the laboratory’s design-build process, energy systems, phased delivery, budget constraints, and resilience. The program offers one AIA LU/HSW credit and is a useful engineering complement to the week’s software-heavy sessions.
+https://luma.com/f8r4hedl
+
+Applied AI Hackathon
+Friday, October 2 · 8:00 a.m.–7:30 p.m. · San Diego · $10 deposit refunded at check-in · Sold out; waitlist and approval required · Venue details after acceptance
+Sixty builders work on real operational challenges from a personal-injury law firm, with morning and afternoon coding blocks, pitches, and final demos. The Swans-hosted build day offers a $5,000 prize; join the waitlist only if you can commit to the full program, and do not treat the refundable deposit as a confirmed seat.
+https://luma.com/wv1l2wb3
+
+UC San Diego Clean Energy Innovation
+Friday, October 2 · 11:00 a.m.–1:00 p.m. · Solana Beach · Free · Approval required · Limited capacity
+Researchers from Scripps, Jacobs, and Rady connect climate science, bioengineering, clean-energy technology, and commercialization at 215 South Highway 101, Suite 205. The named program includes Jamin Greenbaum, Daniel Wangpraseurt, Adam Feist, and David Victor, making this a research-led alternative to a general climate networking event.
+https://luma.com/5m1g51q7
+
+Solar Geoengineering: Research and Governance
+Friday, October 2 · 11:30 a.m.–1:30 p.m. · La Jolla · Free · Registration open · UC San Diego visitor parking $4.50/hour
+Scripps and the Alliance for Just Deliberation on Solar Geoengineering bring local researchers and practitioners together to discuss solar geoengineering questions, risks, and governance at UC San Diego’s Climate Action Lab. A light vegetarian lunch is included, with time for questions about the research and its global implications.
+https://luma.com/y4e7ssgg
+
+North County AI Coffee Chat
+Saturday, October 3 · 8:30–10:30 a.m. · Oceanside · Free · Registration open
+Local AI builders compare projects and questions at Pannikin, 322 North Cleveland Street, Suite B. This is an informal peer conversation without an announced technical talk, useful for getting unstuck or finding collaborators in North County.
+https://luma.com/qajtiiz0
+
+Finetuning LLMs: AI Engineering Book Club
+Saturday, October 3 · Noon–1:30 p.m. · San Diego · Price not published · Check the current RSVP options · In-person and online
+San Diego Machine Learning studies chapter seven of Chip Huyen’s AI Engineering, with presentation and discussion through 1:15 p.m. and additional questions as time permits. Meet at Aquillius, 10918 Technology Place in Rancho Bernardo; the online option separately requires a Zoom login and a meeting password requested through the group’s Slack.
+https://www.meetup.com/san-diego-machine-learning/events/316739064/
+
+AGI and AI Safety: Public Workshop
+Saturday, October 3 · 3:30–5:30 p.m. · San Diego · Free · Registration open · No technical background required
+Demonstrations and exercises explore AGI, the changing role of human work, and AI risks at 9005 Aero Drive. The interactive format is designed for a public audience, so choose it for an accessible introduction and discussion rather than model engineering.
+https://luma.com/aisap-x127
+
+Sustainable AI and Climate
+Monday, October 5 · 6:00–9:00 p.m. · La Jolla · $10 standard admission; free early-bird tier sold out · Tickets available
+AI Mastermind and Optimist Circuit combine a short presentation, discussion, and breakouts on the energy and resource costs of AI and responsible deployment. Hosts Mariel Vargas and Ellen Spooner convene the session at 5661 La Jolla Boulevard; the free tier shown on the page is no longer available.
+https://luma.com/n7ffoj6m
+
+San Diego AI Showcase #9
+Tuesday, October 6 · 6:00–8:30 p.m. · San Diego · Free invitee tier; $5 student; $10 founder · Tickets available · Temporary new location: 11988 El Camino Real
+Demian Borba hosts short demos and questions on working local projects. The current roster includes Ben Dalziel’s CLIP-based aisle scanning for Trash Panda and Ahmet Basar’s MindMap AI use case, alongside investment and business discussions. Choose the ticket tier you qualify for; paid tickets are nonrefundable, and the venue has changed for this edition.
+https://eventship.com/event/san-diego-ai-showcase-9-north-county-october-2026-main-theme-sales
+
+LATER ON THE RADAR (3)
+
+Product.ai Golden Hour 008: Show Your Work
+Wednesday, October 7 · 5:00–8:00 p.m. · Los Angeles · Free · Registration open · Choose two discussion topics when registering
+Eight-person groups compare context engineering, agents and tools, hallucinations, voice, and automation decisions at Product.ai’s West LA office, 12100 Wilshire Boulevard, Suite 950. Amanda Lasnik follows with a walkthrough of AI-assisted research informing a design decision. Room discussions are recorded by default; request the unrecorded room on arrival if needed.
+https://luma.com/0g3jxg0f
+
+Inclusive Coding Festival 2026
+Saturday, October 10 · 9:00 a.m.–5:00 p.m. · Irvine · $10 in-person admission · Tickets available · Schedule tentative
+AI-and-accessibility projects from college and K–12 students share the program with keynotes and an inclusive-technology panel at UCI Division of Continuing Education, 510 East Peltason Drive. The announced speakers include UCI’s Stacy Branham and Microsoft’s Neil Barnett, whose keynote is virtual; the event itself has an in-person program.
+https://luma.com/9bhegzkw
+
+DEVx Weekend Function: Game Jam
+Saturday, October 17 · Noon–4:00 p.m. · San Diego · Free · Registration open · Bring a laptop
+Brandon Jack demonstrates his game-making workflow for an hour, then participants build solo or in teams of up to three before final judging. Meet at 1495 Pacific Highway, Suite 300; building-entry instructions are posted if no organizer is at the door.
+https://luma.com/devx-weekend-function-oct-17-2026
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/

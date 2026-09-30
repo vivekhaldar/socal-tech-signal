@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-09-21
+Last updated: 2026-09-29
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -36,18 +36,20 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [Orange County eXperience Design](https://www.meetup.com/orangecountyxd/) | AI product experience, agent interfaces, and practical design challenges | Prefer sessions with a defined discussion and exercise. Meetup may omit prices; do not infer free admission. |
 | [HanaHaus events](https://www.hanahaus.com/events) | Applied-AI demonstrations, founder programs, and practitioner workshops in Newport Beach | Use the first-party event detail, then check the linked ticket page. Eventbrite can rate-limit inventory reads even when the venue page is readable. |
 | [Vibe Coding Orange County](https://www.meetup.com/vibe-coding-orange-county/) | Peer demos, project collaboration, and AI coding discussion | The September meetup is free in the rendered Meetup RSVP panel; Codazen provides the venue. |
+| [University Lab Partners](https://luma.com/universitylabpartners) | Medtech, diagnostics, digital health, accelerator demos, and research commercialization | REALIZE’s September 30 demo day yielded nine accelerator startups. Verify capacity and the actual venue for each program. |
+| [Inclusive Coding Festival](https://luma.com/Inclusive-Coding-Festival) | AI, accessibility, inclusive computing, and student project demonstrations in Irvine | Classify each occurrence by its actual venue. The October 10 UCI program costs $10 in person and has a tentative agenda. |
 
 ## Proven Los Angeles organizers and communities
 
 | Source | What it is good for | Notes |
 | --- | --- | --- |
-| [SensAI Hackademy calendar](https://luma.com/sensaihack) | Spatial AI, world models, 3D GenAI, VFX, and hackathons | High-signal hands-on programs; check related workshops separately because they may be useful without the main hackathon. |
+| [SensAI Hackademy calendar](https://luma.com/sensaihack) | Spatial AI, world models, 3D GenAI, VFX, and hackathons | Previously yielded hands-on programs; calendar suspended as of September 29. Recheck its status before using it, and verify related workshops independently. |
 | AI LA / AI LA Events | Broad responsible-AI community and sector meetups | Useful recurring source; distinguish casual happy hours from technical programs. Find current canonical listings through Luma or `joinai.la`. |
 | Postman Developer Events | APIs, context-aware agents, engineering workflows, and live demos | High technical specificity. Search the organizer name on Luma for the current LA event. |
 | THE BR-DGE | Space, defense, cyber, and dual-use programs in El Segundo | Strong government/industry access; call out approval, eligibility, and parking costs. |
 | Pacific Foundry | Space, defense, investor, operator, and government briefings | Very high signal but often invite-only. Do not imply that a reader can apply when the listing says otherwise. |
 | Broken Data Club LA | Enterprise data, MDM, governance, analytics, and AI platforms | Small curated operator rooms; verify approval status and exact time from Luma structured data when the visible page omits it. |
-| [Product.ai events](https://luma.com/productai) | Product demos, builder showcases, and applied AI conversations | The recurring Golden Hour format can surface live work in small rooms; verify the announced program and guest because details vary by edition. |
+| [Product.ai events](https://luma.com/product.ai) | Product demos, builder showcases, and applied AI conversations | The recurring Golden Hour format can surface live work in small rooms; verify the announced program and guest because details vary by edition. The former productai route returned 404 on September 29; the event’s organizer link resolves to product.ai. Check recording consent and any unrecorded-room option. |
 | [SoCal Python](https://www.socalpython.com/) | Python developer meetups across the LA basin | Check both the community site and its current Luma/Meetup listing. |
 | Claude Community Events | Claude Code and hands-on builder meetups | Search Luma and `claude.com/community`; verify the local host, date, and venue. |
 | [AWS Builders Los Angeles](https://www.meetup.com/aws-builders-los-angeles/) | AWS architecture, applied AI, developer platforms, and community-built systems | Prefer occurrences with named technical sessions. Call out building-access requirements, government ID, laptop, and RSVP conditions. |
@@ -63,6 +65,8 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | Curious Refuge Events | Community-led AI filmmaking discussions | Verify the local host and format; the Burbank meetup welcomes nonmembers and is led by community participants. |
 | AI Agents Happy Hour / City of Agents | Recurring peer gathering for LA agent builders | The Venice edition is free, with no presentations or pitch program. Locate the current occurrence on Luma. |
 | [Glendale Tech Week](https://www.glendaletechweek.com/) | Annual open-source, AI, cybersecurity, civic-tech, founder, and demo programming in Glendale | Treat the week as a discovery index. Verify each independently hosted occurrence on its canonical page, including waitlists, addresses, and audience rules. |
+| [The KINN events](https://luma.com/KINNevents) | AI Cafe practitioner talks and screened AI Tinkerers demos in Venice | Evaluate each program separately; ticket tiers differ in approval and membership requirements. Corporate sponsors alone do not invalidate a code-first community session. |
+| [Machine Cinema](https://luma.com/machinecinema) | Creator demonstrations, AI filmmaking, tools, and work-in-progress feedback | Preserve waitlist status and compare the event header with the body; the September 30 salon had conflicting ending times. |
 
 ## Proven San Diego communities
 
@@ -112,7 +116,9 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 
 ## Maintenance
 
-September 21, 2026 source caveats: SoCalCyber's embedded list still contained only stale May–August events, Infosecmap returned 403, and Eventship's rendered pages hit a Cloudflare challenge. Eventbrite search and some detail routes returned 429, while canonical schema or first-party organizer pages remained readable. Luma discovery pages omitted dates, and several IEEE pages exposed malformed structured ranges; individual canonical pages, registration forms, ICS data, and organizer corroboration resolved shortlisted details. Do not turn a discovery listing into verification.
+September 29, 2026 source caveats: SensAI’s calendar was suspended; Data Con LA’s events route and AICamp’s event index returned 404; Infosecmap returned 403. Eventship returned 403 to a direct fetch, but its rendered AI Showcase page and ticket controls were readable and resolved the temporary venue and three ticket tiers. Ticket 500’s rendered calendar exposed no current event cards, and an indexed October 1 OCAI vibe-coding route returned 404. SoCalCyber’s embedded feed is dynamic; an indexed October 2 Claude occurrence was not corroborated by the organizer’s current group page and was excluded. Luma discovery still requires event-level date checks. UCLA HackNation’s header and body disagreed on the event dates; it was excluded. Preserve smaller ending-time discrepancies explicitly rather than silently selecting one version. See [the dated sweep record](docs/sweeps/2026-09-29.md).
+
+Historical September 21 caveats: SoCalCyber’s embedded list showed May–August events, Eventship hit a rendered Cloudflare challenge, and some Eventbrite routes returned 429. Those observations describe that run, not permanent source status.
 
 Price-verification note: rendered Meetup RSVP panels explicitly expose “Free” even when static text omits it. Eventbrite can return 429 to a text fetch while its public browser page and ticket selector remain readable. For the AI Masterclass the selector confirms free general admission and a $0 total; for ISSA it distinguishes member, nonmember, and student/faculty totals. Do not infer admission price from null structured fields alone.
 
