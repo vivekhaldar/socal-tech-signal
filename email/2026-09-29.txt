@@ -20,17 +20,42 @@ Monday, October 5 · 5:30–8:30 p.m. · Santa Monica · Free · Registration op
 Milan Williams and Jason Kinsfather lead a hands-on session using an intentionally vulnerable application, a coding agent, and security feedback during development. Meet at BLANKSPACES, 929 Colorado Avenue, to see where AI-assisted coding needs a security control that acts before deployment.
 https://luma.com/inxrnb92
 
-ORANGE COUNTY (3)
+ORANGE COUNTY (8)
 
 ★ REALIZE Accelerator Demo Day
 Wednesday, September 30 · 5:00–8:00 p.m. · Irvine · Free · Registration open · Limited capacity
 Nine medical-device, diagnostic, and digital-health startups complete a 12-week accelerator with live pitches, expert judging, and a showcase at UCI Beall Applied Innovation’s Cove. Go to inspect how teams translate a technical or clinical insight into a company and compare their commercialization choices.
 https://luma.com/ulpteam-0m9e
 
+OC Indies Monthly: Project Demos and Feedback
+Wednesday, September 30 · 7:30–9:30 p.m. · Santa Ana · Price not published · Check the current RSVP options · Presenter signup separate
+OC Indie Developers shares projects in development at MASA TVGB, 1666 North Main Street. Play, watch, and exchange feedback on work in progress; use the organizer’s separate form if you want to present. This is a developer demo community, with the evening shaped by participants’ projects.
+https://www.meetup.com/oc-indie-developers-meetup/events/312354831/
+
+EcoVG Irvine Investment Summit
+Thursday, October 1 · Noon–6:00 p.m. · Irvine · Free active-investor registration · Founder pitch application separate, due September 30; acceptance not guaranteed · In-person and online
+Vetted companies raising capital present in two afternoon blocks at The Cove at UCI, Room The Beach, 5270 California Avenue, Suite 100. A family-office panel and reception frame the company discussions. The free attendee ticket is explicitly for active investors; the earlier founder/investor speed-dating session is private-invite only.
+https://events.ecovg.com/events/ecovg-irvine-investment-summit-hybrid
+
+UCI: Minimax Exponents of Sparse Submatrix Detection and Beyond
+Thursday, October 1 · 4:00–5:00 p.m. · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 6011
+Harvard’s Rajarshi Mukherjee connects statistical detection theory with Lean 4 and Statlib, an open-source library for verifiable mathematical statistics. The research talk covers computational gaps, formal verification, and the promises and limits of AI-assisted formalization; it suits a mathematically technical audience.
+https://ics.uci.edu/event/minimax-exponents-of-sparse-submatrix-detection-and-beyond/
+
+UCI: AI Alignment for the Many Worlds We Live and Act In
+Friday, October 2 · 11:00 a.m.–Noon · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 6011
+NVIDIA researcher Liwei Jiang examines AI’s understanding of lived experience, safety when models act in the physical world, and alignment methods that preserve model expressivity. The UCI computer-science seminar connects education, healthcare, and robotics through concrete research questions about whose values and circumstances an AI system can understand.
+https://ics.uci.edu/event/ai-alignment-for-the-many-worlds-we-live-and-act-in/
+
 Orange County AI Office Hours
 Sunday, October 4 · 3:00–5:00 p.m. · Newport Beach · Price not published · Check the current RSVP options
 Bring a personal AI project, a question, or something you want peer feedback on to HanaHaus, 3366 Via Lido. This is an informal collaboration session with no fixed agenda, best for finding help or comparing experiments rather than attending a prepared technical talk.
 https://www.meetup.com/orange-county-ai/events/316392260/
+
+UCI: Understanding and Improving the Use of LLMs for Education
+Monday, October 5 · 11:00 a.m.–Noon · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 4011
+University of Sydney’s Jonathan Kummerfeld presents metrics for how students use LLMs, ways to extend active teaching, and techniques that still drive models off-topic. The AI/ML seminar also examines evaluation limits, resilient interfaces, code hallucinations, visualization benchmarks, and human-AI collaboration in clinical coding.
+https://ics.uci.edu/event/understanding-and-improving-the-use-of-llms-for-education/
 
 Claude Community for Marketers
 Monday, October 5 · 6:00–8:00 p.m. · Irvine · Free · Approval required · Address after acceptance · Free on-site parking
