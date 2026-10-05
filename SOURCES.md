@@ -4,7 +4,7 @@ Last updated: 2026-10-05
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
-Editorial direction for the September 14 revision: target 10–15 listings each for LA and San Diego, prefer free AI-focused community learning, and exclude vendor product pushes. Judge the program rather than treating every corporate venue or sponsor as disqualifying. Confirm prices in rendered ticket controls before marking them unknown.
+Editorial direction for the September 14 revision: target 10–15 listings each for LA and San Diego, prefer free AI-focused community learning, and exclude vendor product pushes. Judge the program rather than treating every corporate venue or sponsor as disqualifying. Confirm prices in rendered ticket controls before marking them unknown. October 5 editorial review: omit the “price and public attendance terms not published” boilerplate from reader copy when those details cannot be verified; retain the uncertainty in research notes and never infer free or unrestricted attendance.
 
 ## Proven high-yield indexes
 

@@ -6,7 +6,7 @@ View this issue on the web: https://socaltech.live/
 THREE TO CIRCLE
 
 EDITOR'S PICK 01: UCI: Training Virtual Security Verification Engineers for System-on-Chip Security Assurance
-Friday, October 9 · 11:00 a.m.–Noon · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 6011
+Friday, October 9 · 11:00 a.m.–Noon · Irvine · Donald Bren Hall, Room 6011
 University of Florida’s Farimah Farahmandi presents AI agents that divide hardware-security verification tasks and coordinate simulators and formal verification tools. The research spans threat modeling, security properties, test development, retrieval, and tool use. Go to examine a concrete multi-agent engineering system and the evidence behind its verification claims.
 https://ics.uci.edu/event/training-virtual-security-verification-engineers-for-system-on-chip-security-assurance/
 
@@ -28,7 +28,7 @@ The OpenAI Student Collective and Product Association teach product prototyping 
 https://luma.com/8tqbgujy
 
 UCI: From Data to Formulas — Statistical Learning for Scalable Symbolic Discovery
-Thursday, October 8 · 4:00–5:00 p.m. · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 6011
+Thursday, October 8 · 4:00–5:00 p.m. · Irvine · Donald Bren Hall, Room 6011
 Rice University’s Meng Li examines how statistical learning can discover interpretable mathematical expressions from large scientific datasets. The talk moves from materials descriptors to Bayesian tree ensembles and probability distributions, with an emphasis on making symbolic regression computationally practical. This is a research seminar for a mathematically technical audience.
 https://ics.uci.edu/event/from-data-to-formulas-statistical-learning-for-scalable-symbolic-discovery/
 
@@ -38,7 +38,7 @@ The OC Arduino and Raspberry Pi community helps participants install M5Launcher 
 https://www.meetup.com/earthmake/events/315407530/
 
 ★ UCI: Training Virtual Security Verification Engineers for System-on-Chip Security Assurance
-Friday, October 9 · 11:00 a.m.–Noon · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 6011
+Friday, October 9 · 11:00 a.m.–Noon · Irvine · Donald Bren Hall, Room 6011
 University of Florida’s Farimah Farahmandi presents AI agents that divide hardware-security verification tasks and coordinate simulators and formal verification tools. The research spans threat modeling, security properties, test development, retrieval, and tool use. Go to examine a concrete multi-agent engineering system and the evidence behind its verification claims.
 https://ics.uci.edu/event/training-virtual-security-verification-engineers-for-system-on-chip-security-assurance/
 
@@ -174,7 +174,7 @@ Local builders bring firsthand DevDay recaps, selected clips, questions, and pro
 https://luma.com/2jlr36m1
 
 UCI: Towards Self-Improving Machine Perception
-Thursday, October 15 · 11:00 a.m.–Noon · Irvine · Price and public attendance terms not published · Donald Bren Hall, Room 4011
+Thursday, October 15 · 11:00 a.m.–Noon · Irvine · Donald Bren Hall, Room 4011
 Caltech’s Georgia Gkioxari examines visual systems that improve through feedback loops over their own training data. Recent work on 3D and video generation connects to world models, reliable perception, and learning where labeled examples are scarce. This is an AI/ML research seminar rather than an introductory workshop.
 https://ics.uci.edu/event/towards-self-improving-machine-perception/
 
