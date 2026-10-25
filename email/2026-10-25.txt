@@ -1,0 +1,224 @@
+SOCAL TECH SIGNAL — October 25, 2026
+Wednesday, October 28 through Tuesday, November 3
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: UCI Research Forum: The New Software Frontier
+Friday, October 30 · 1:00–5:00 p.m.; reception 5:00–6:00 p.m. · Irvine · Registration required · Campus parking $16
+Researchers and industry practitioners compare emerging developer tools, AI-assisted development, and changes to software-engineering practice. The program features Neel Sundaresan, Peter Colligan, Lin Tan, Satish Chandra, Joontae Park, and Christian Bird, with backgrounds at IBM, SAP, Purdue, Meta, eBay, and Microsoft. Meet in Donald Bren Hall 6011. The RSVP form welcomes students, researchers, alumni, and industry practitioners; guests parking on campus need a permit for the Anteater Parking Structure.
+https://ics.uci.edu/event/uc-irvine-research-forum-fall-2026-the-new-software-frontier/
+
+EDITOR'S PICK 02: OWASP LA: Building an Autonomous AI Pentester
+Wednesday, October 28 · 5:30–8:30 p.m. · Santa Monica · Free · Registration open
+Bugcrowd's Ari Schorr and Hemang Thakkar examine the infrastructure separating a pentesting-agent demo from a system trusted with production access: runtime safety, kill switches, practitioner-validated skills, audit logging, and feedback from offensive-security specialists. Meet at 929 Colorado Avenue. The announced talk uses Savant Pathseeker's development to explore build-versus-buy tradeoffs and practical evaluation questions. OWASP welcomes everyone; membership is not required.
+https://luma.com/h1y9e5l2
+
+EDITOR'S PICK 03: San Diego Data Foundations: Knowledge Graphs and Cassandra
+Monday, November 2 · 4:30–8:00 p.m. PST · San Diego · Free · Registration open
+Harsha Srinivasan derives knowledge graphs from existing schemas, Jon Haddad examines Cassandra tail latency through garbage collection, direct I/O, and compaction, and Johnny Miller demonstrates AI-assisted Cassandra operations with a discussion of failure risks. Meet at Intuit, 7535 Torrey Santa Fe Road. Food and drinks are provided; choose it for production data infrastructure and the context AI agents need.
+https://luma.com/uucxq14i
+
+WORTH THE DRIVE (1)
+
+UCR: 3D Feature Maps for Robot Navigation and Manipulation
+Friday, October 30 · 11:00–11:50 a.m. · Riverside · Free · Student-focused colloquium
+UC San Diego’s Nikolay Atanasov presents explicit 3D maps that combine geometry, vision, and language for robot navigation and manipulation. The talk covers signed distance functions for motion planning and safety, then map tokens that extend the context of vision-language-action models. Meet in UC Riverside’s Student Success Center, Room 329. Choose it for a focused robotics research talk; visitors should confirm campus access before traveling.
+https://www1.cs.ucr.edu/event-list/2026/10/30/colloquium-nikolay-atanasov-multi-modal-feature-mapping-autonomous-robot
+
+ORANGE COUNTY (11)
+
+UCI: Genome-Scale AI for Precision Medicine
+Wednesday, October 28 · 11:00 a.m.–Noon · Irvine · Gross Hall, Room 4001, Thorp Conference Center
+UC Davis researcher Gerald Quon presents “Towards Precision Medicine with 100 Samples: From Genetic Variation to Phenotype with Genome-Scale AI.” The Biological Chemistry seminar offers a focused research perspective on connecting genetic variation to phenotype when sample counts are small. Choose it for the intersection of machine learning, genomics, and scientific inference.
+https://medschool.uci.edu/events/biological-chemistry-seminar-series-gerald-quon-phd
+
+CSA OC: Trusting AI Agents at Scale
+Wednesday, October 28 · 5:30–7:30 p.m. · Irvine · Free · RSVP open
+Eleanor Hayes Meritt joins Shannon Demoisey for “The New Identity Problem: Trusting AI Agents at Scale,” hosted by Cloud Security Alliance Orange County with returning sponsor Arcon. Meet at 5271 California Avenue. The chapter warns of limited capacity; cancel by 1:00 p.m. on event day if plans change so another practitioner can attend.
+https://www.meetup.com/cloud-security-alliance-csa-orange-county/events/316859285/
+
+David Perry: Building, Scaling, and Exiting Tech Companies
+Wednesday, October 28 · 7:00–9:00 p.m. · Irvine · Registration open · UCI School of Business 2, Room 122
+Manifest at UCI hosts a fireside conversation with David Perry, cofounder of Gaikai and Carro. The announced discussion covers recognizing opportunities, navigating acquisitions, and starting again after an exit, drawing on work across game development, cloud streaming, and ecommerce. Meet at the Paul Merage School of Business Building 2, 221 Social Court. Choose it for technical-founder experience and company-building decisions.
+https://luma.com/shduvfxs
+
+OC Indies: Project Demos and Playtesting
+Wednesday, October 28 · 7:30–9:30 p.m. · Santa Ana · Free · RSVP open
+Bring an indie project to MASA TVGB, 1666 North Main Street, for participant updates, playtesting, and feedback. The group welcomes works in progress and provides a separate presenter-signup form. Ring the bell at the double-glass doors on the corner of 17th and Main. Go for peer critique and demonstrations rather than a prepared technical lecture.
+https://www.meetup.com/oc-indie-developers-meetup/events/312354832/
+
+UCI: Bayesian Feature Selection in High Dimensions
+Thursday, October 29 · 4:00–5:00 p.m. · Irvine · Donald Bren Hall, Room 6011
+Illinois statistics professor Feng Liang presents Variational Automatic Relevance Determination, a method that decides whether each feature contributes zero, linear, or nonlinear behavior to a sparse additive model. The talk includes coordinate-descent implementation and comparisons on simulated and real data. Choose it for statistical learning, interpretable feature selection, and efficient inference.
+https://ics.uci.edu/event/bayesian-smoothing-and-feature-selection-via-variational-automatic-relevance-determination-2026/
+
+Irvine AI: Shipping Real Products with Claude
+Thursday, October 29 · 5:30–7:30 p.m.; check-in 5:00–5:30 p.m. · Irvine · Free · RSVP open; limited seats
+PlanetDDS’s Team Artemis examines testing an AI voice agent and why generating individual components does not solve platform architecture. The technical program runs 5:30–6:30 p.m., followed by food, beer, and conversation until 7:30. Meet at iQ Smart Center, 17872 Gillette, Suite 120. Bring questions and real experiences with Claude Code and AI-assisted software development.
+https://www.meetup.com/irvine-ai/events/316964505/
+
+From Pixels to Pedals: How AI Learns to Drive
+Thursday, October 29 · 7:00–8:00 p.m.; doors at 6:00 p.m. · Anaheim · $35 guest ticket · Registration open · Address after registration
+AI engineer Arnav Malawade examines autonomous driving, context-aware vehicle perception, and safety-critical AI: how a vehicle perceives, predicts, and responds to a complex environment. The Social Study’s one-hour expert lecture welcomes all ages. Pick it for an accessible practitioner account of AI in the physical world; the exact Anaheim location is shared after booking.
+https://the-social-study.eventship.com/event/from-pixels-to-pedals-how-ai-learns-to-drive
+
+UCI: Security Services for the Quantum and AI Era
+Friday, October 30 · 11:00 a.m.–Noon · Irvine · Calit2 Auditorium
+Rosario Cammarota outlines the Confidential Intelligence Lab’s approach to secure communication, authentication, and encrypted computation across software and hardware. Three open-source efforts connect post-quantum cryptography and continuous assurance with computing on encrypted information and orchestrating security services. Choose it for cryptography, computer architecture, and the engineering path from research to trusted deployment.
+https://ics.uci.edu/event/building-the-foundations-exploring-the-frontiers-security-services-for-the-quantum-and-ai-era-a-brave-new-world/
+
+★ UCI Research Forum: The New Software Frontier
+Friday, October 30 · 1:00–5:00 p.m.; reception 5:00–6:00 p.m. · Irvine · Registration required · Campus parking $16
+Researchers and industry practitioners compare emerging developer tools, AI-assisted development, and changes to software-engineering practice. The program features Neel Sundaresan, Peter Colligan, Lin Tan, Satish Chandra, Joontae Park, and Christian Bird, with backgrounds at IBM, SAP, Purdue, Meta, eBay, and Microsoft. Meet in Donald Bren Hall 6011. The RSVP form welcomes students, researchers, alumni, and industry practitioners; guests parking on campus need a permit for the Anteater Parking Structure.
+https://ics.uci.edu/event/uc-irvine-research-forum-fall-2026-the-new-software-frontier/
+
+Orange County AI: Project Office Hours
+Sunday, November 1 · 3:00–5:00 p.m. PST · Newport Beach · Free · RSVP open · HanaHaus, 3366 Via Lido
+Bring an AI project, a problem to work through, or a recent discovery to this open-format collaboration session. Work independently or compare approaches with fellow builders and curious newcomers. There is no prepared agenda or promised talk; choose it for informal help, project progress, and peer discussion.
+https://www.meetup.com/orange-county-ai/events/316954084/
+
+UCI: Record Linkage for Streaming Data
+Tuesday, November 3 · 4:00–5:00 p.m. PST · Irvine · Donald Bren Hall, Room 2011
+Colorado State’s Andee Kaplan presents a Bayesian approach to matching duplicate records across messy data sources as new files arrive. Recursive updates and a Markov chain Monte Carlo sampler aim to retain the inference quality of batch methods at much lower compute cost. Pick it for data engineering, entity resolution, and statistical methods for evolving datasets.
+https://ics.uci.edu/event/record-linkage-for-streaming-data/
+
+LOS ANGELES (12)
+
+Claude for Founders & Fractionals
+Wednesday, October 28 · 5:00–7:00 p.m. · Playa Vista · Free · Approval required
+Founders and fractional leaders compare real Claude workflows through a panel and short live demos at the Verizon LA Innovation Lab, The Reserve, 13031 West Jefferson Boulevard, Building 500. Kat Rucker moderates with Jasmeet Kaur and Greta Petruska. The program starts at 5:30, with demos at 6:00; no technical background is required. Street parking is free nearby; onsite parking costs $23.
+https://luma.com/claude-la-fractionals
+
+★ OWASP LA: Building an Autonomous AI Pentester
+Wednesday, October 28 · 5:30–8:30 p.m. · Santa Monica · Free · Registration open
+Bugcrowd's Ari Schorr and Hemang Thakkar examine the infrastructure separating a pentesting-agent demo from a system trusted with production access: runtime safety, kill switches, practitioner-validated skills, audit logging, and feedback from offensive-security specialists. Meet at 929 Colorado Avenue. The announced talk uses Savant Pathseeker's development to explore build-versus-buy tradeoffs and practical evaluation questions. OWASP welcomes everyone; membership is not required.
+https://luma.com/h1y9e5l2
+
+Pasadena Claude Users Group: Roundtable and Project Sharing
+Wednesday, October 28 · 6:30–8:30 p.m. · Pasadena · Free · Registration open
+Alex J Vasquez hosts a peer roundtable on day-to-day use of Claude Code, Cowork, and related workflows at FoundrSpace Coworking. Bring questions or work to discuss; the host is seeking short participant talks and demos, so specific presentations remain unconfirmed. Product pitches are prohibited. The map lists 87 North Raymond Avenue, while the host's arrival note says 85 North Raymond; follow the venue instructions on the event page.
+https://luma.com/5nmpi6cw
+
+Caltech First Light: The Brave New Space Age
+Wednesday, October 28 · 7:30–9:00 p.m.; demonstrations from 5:30 p.m. · Pasadena · Advance registration full · Standby line available
+Lindy Elkins-Tanton, Jared Isaacman, and Eric Schmidt discuss the engineering, investment, and wider implications of the emerging space economy, moderated by Jo Ling Kent at Beckman Auditorium. Caltech and JPL researchers host interactive science and engineering displays before the panel. Unticketed guests should reach the standby line by 6:50 p.m.; admission to the panel is not guaranteed.
+https://www.caltech.edu/campus-life-events/calendar/the-brave-new-space-age-1
+
+UCLA CS: Lightweight Diagramming by Spatial Specification
+Thursday, October 29 · Noon–1:45 p.m. · Westwood · Boelter Hall, Room 3400
+Brown's Siddhartha Prasad presents a diagramming language that bridges unhelpful default visualizers and expensive custom implementations. The research combines cognitive principles, spatial semantics, Python/Rust/Pyret embeddings, and counterfactual debugging to help people explore formal models and data structures. Meet at UCLA, 420 Westwood Plaza. Choose it for programming-language and formal-methods research with a concrete human-understanding problem.
+https://www.cs.ucla.edu/upcoming-events/cs-201-siddhartha-prasad-brown-university/
+
+ComfyUI Developer Platform: Generative-Media Build Night
+Thursday, October 29 · 3:00–10:00 p.m. · Culver City · Free · Approval required · Bring a laptop · Address after registration
+Rebuild a generative-media app with on-site Comfy developer support, then compare implementations in an evening demo session. Building runs 3:00–7:00 p.m., presentations 7:00–7:30, and demos 7:30–8:30. ComfyUI experience helps but is not required. The related competition accepts entries until October 30 at 9:00 a.m. Pacific. Parts of the venue may require stairs; contact the host about accommodations.
+https://luma.com/73q6c0ln
+
+USC PRAXIS: Neural Network Models of Depression
+Thursday, October 29 · 4:00–5:00 p.m. · Los Angeles · Free · Registration open
+USC psychologist Stephen Read presents computational models of how traits and neural mechanisms interact to produce depressive symptoms, and how those models compare with real data. The PRAXIS speaker-series session meets at Taper Hall, 3501 Trousdale Parkway, Room 309K on the third floor. Pick it for an applied computational-modeling discussion at the intersection of psychology and neural networks.
+https://luma.com/zxl3tv59
+
+USC ETHOS LIVE: Privacy in the Age of Agentic AI
+Thursday, October 29 · 6:00–8:00 p.m.; doors at 5:30 p.m. · Los Angeles · Free · Registration open · Paid parking
+Norman Sadeh, Olivia Smith, and John Hawthorne examine privacy, trust, human agency, and accountability when AI systems access personal information and act on someone's behalf. Stephanie Elam moderates at USC Ginsburg Hall Auditorium, 1031 Downey Way. The conversation brings computer-science, journalism, and philosophy perspectives to decisions facing people who build or use agent systems. The event will be photographed and filmed.
+https://www.eventbrite.com/e/ethos-live-privacy-in-the-age-of-agentic-ai-tickets-2003096048202
+
+LA DevOps: Agent Context and Modern Voice Coding
+Thursday, October 29 · 6:00–9:00 p.m.; talks 6:45–8:00 p.m. · Santa Monica · Free · Registration open
+Rich Horace discusses search, retrieval, and observability for data-driven agents using Elasticsearch Agent Builder. Trillium Smith follows with a demonstration of voice-based software development: speech-to-text, steering coding agents, voice-to-voice systems, and local inference. The monthly community meetup takes place on O'Briens Irish Pub's covered patio, 2226 Wilshire Boulevard. Bring a jacket for the evening; conversation follows the talks.
+https://luma.com/bdx7w5hg
+
+Caltech World Model Club: Simulated-User Evaluation
+Friday, October 30 · 5:30–6:30 p.m. · Pasadena · Free · Registration open · Open to the LA community
+MatrAIx founding engineer Haixin Wang explains how persona cohorts can evaluate surveys, chatbots, websites, and apps, including checks that simulated users behave as specified. The talk describes the company's population of 8.3 billion persona agents, its shared 1,290-attribute schema, and evaluations across more than 1,000 tasks. Caltech World Model Club and Caltech C host in Annenberg 105, 330 South Chester Avenue. Food is provided.
+https://luma.com/cy07656f
+
+Glendale AI Builders: Live App Review and Show Your Work
+Sunday, November 1 · 7:00–8:00 p.m. PST · Glendale · Free · Full; waitlist open · Bring a laptop
+At this group's first meeting, Aram Oganyan walks through a directory app built end-to-end with Claude and invites frank feedback on its UX and what breaks in an LLM-assisted build. Participants can share their own Claude, Cursor, or Windsurf projects. Meet at Barnes & Noble at the Americana, 210 Americana Way, and look for the group's table card. Beginners are welcome.
+https://www.meetup.com/claude-developers-glendale/events/316705259/
+
+Deep-Tech Fundraising: What Gets a Lead Investor to Say Yes?
+Monday, November 2 · 5:00–7:00 p.m. PST; workshop 5:00–6:00 p.m. · Santa Monica · Free · Approval required · Deep-tech founders
+Niki Pezeshki draws on more than a decade at Felicis Ventures to explain how prospective lead investors assess a round and defend it to their partnership. The workshop covers market timing, founder fit, product differentiation, evidence of progress, and the milestones new capital unlocks. First Citizens Innovation Banking hosts at 1540 2nd Street for founders in deep tech, defense, robotics, and industrial technology; food and conversation follow.
+https://luma.com/zhd9wabt
+
+SAN DIEGO (12)
+
+VibeCraft: AI Over Breakfast
+Wednesday, October 28 · 7:45–8:45 a.m. · San Diego · First-time attendance free; $10 with breakfast; $20 with breakfast and coworking · Registration open · Bring a laptop
+Compare current AI tools and research, examine a business scenario, and try a rough solution on your own machine at Ansir Innovation Center, 7670 Opportunity Road, Suite 255. Each week stands alone and beginners are welcome. The free tier is specifically for first-time attendees; paid tiers add breakfast, with a coworking day at the $20 level.
+https://eventship.com/event/ai-over-breakfast-work-through-real-ai-problems
+
+Claude for Legal: Skills, Connectors, and Practice Workflows
+Wednesday, October 28 · 5:00–7:00 p.m. · San Diego · Free · Approval required · Priority for legal professionals · Address after registration
+Max Krueger and attorney/software developer Julian Bryant demonstrate contract review, NDA triage, drafting, firm playbooks, and connections to email, calendars, and documents. Then work through a task from your own practice while discussing confidentiality, privilege, and human review. Bring a laptop and a practical task; the workshop is designed for lawyers, paralegals, and other legal professionals.
+https://luma.com/claude-404z
+
+Qualcomm at Miramar: AI and Machine Learning Fundamentals
+Thursday, October 29 · Noon–2:00 p.m. · San Diego · Registration open · Student ID required
+Learn the foundations of AI and machine learning and how they connect to running models on devices. Qualcomm and Miramar College host this student-focused second session of a three-part series in Room L-207, 10440 Black Mountain Road. This occurrence covers fundamentals; the separate RUBIK Pi hands-on workshop is November 10.
+https://events-outreach.sdmiramar.edu/event/sdmiramar.events.1985969
+
+AICamp × Google Cloud: LLM Inference at Scale
+Thursday, October 29 · 5:00–7:00 p.m. · San Diego · External RSVP required · No walk-ins or plus-ones
+Saniya Jaswani, Senior Data Scientist at Acquia, presents the hidden costs of LLM inference at Google, 6420 Sequence Drive. Check-in and food begin at 5:00 p.m., followed by community updates and technical talks/Q&A from 5:40–7:00. Register through AICamp rather than Meetup; the confirmation email supplies arrival details. One duplicate Meetup listing ends at 8:00 p.m.; the Google Cloud listing and announced agenda end at 7:00.
+https://www.aicamp.ai/event/eventdetails/W2026102917
+
+AI Tinkerers San Diego: GTM Engineering
+Thursday, October 29 · 6:00–8:00 p.m.; demos from 6:20 p.m. · San Diego · Approval required · Address after approval
+Active builders show working AI systems for account research, enrichment, CRM integration, buying signals, and sales intelligence. Five-to-seven-minute demos expose code, data flows, evaluations, debugging, and tradeoffs, with technical questions after each. The curated room is for people building systems; apply with evidence of work through GitHub, LinkedIn, or a project portfolio.
+https://san-diego.aitinkerers.org/p/ai-tinkerers-san-diego-gtm-engineering-meetup
+
+From Science to Scale: Financing and University Licensing
+Monday, November 2 · 10:30 a.m.–Noon PST · San Diego · Free · Registration open
+Attorneys Tyler Hastings and Gavin Liu work through venture financing, university technology licensing, governance, and strategic transactions for biotech, medtech, and healthcare technology companies. The discussion emphasizes deal structure, investor concerns, and mistakes that can complicate commercialization. Meet at Kiln Rancho Bernardo, 17190 Bernardo Center Drive, Suite 200; best for founders approaching financing, licensing, or partnership milestones.
+https://eventship.com/event/from-science-to-scale-financing-licensing-strategic-growth-in-life-sciences
+
+Human-Centered AI: From Experiments to Customer Impact
+Monday, November 2 · 3:00–5:00 p.m. PST · San Diego · $31.14 early bird; $41.77 general, including fees · Registration open; limited space
+Bring an AI product or workflow challenge to a small-group design exercise at Kiln Rancho Bernardo, 17190 Bernardo Center Drive, Suite 200. WE ARE IN AI guides participants through identifying the people affected, what they need, and a concrete change to what gets built next. This is a customer-discovery and product-design workshop rather than a coding session; share only public business information. The early-bird tier expires soon.
+https://eventship.com/event/from-ai-experiments-to-real-customer-impact-human-centered-ai-is-the-new-way-to-build-businesses-that-last
+
+IEEE: Sustainable RF Electronics and Phased-Array Antennas
+Monday, November 2 · 4:00–6:30 p.m. PST; lectures from 4:30 p.m. · San Diego · Free · RSVP by 10:00 a.m. November 2
+Mahmoud Wagih examines lifecycle-driven electronics design, reusable RF chips, biodegradable packages, and sensing. Satish Sharma follows with flat-panel antennas, silicon beamforming chips, PCB fabrication, 3D printing, and throughput tests, including a balloon payload above 100,000 feet. Meet at Qualcomm Building Q Auditorium, 6455 Lusk Boulevard, for two detailed engineering lectures with questions.
+https://events.vtools.ieee.org/m/588093
+
+★ San Diego Data Foundations: Knowledge Graphs and Cassandra
+Monday, November 2 · 4:30–8:00 p.m. PST · San Diego · Free · Registration open
+Harsha Srinivasan derives knowledge graphs from existing schemas, Jon Haddad examines Cassandra tail latency through garbage collection, direct I/O, and compaction, and Johnny Miller demonstrates AI-assisted Cassandra operations with a discussion of failure risks. Meet at Intuit, 7535 Torrey Santa Fe Road. Food and drinks are provided; choose it for production data infrastructure and the context AI agents need.
+https://luma.com/uucxq14i
+
+San Diego Robotics Forum: Mechanisms, Compute, and AI
+Tuesday, November 3 · 8:00 a.m.–5:30 p.m. PST · La Jolla · Free · Registration required and open · Paid campus parking
+UC San Diego's annual forum brings together embedded computing, soft robotics, humanoids, and safe foundation models at Atkinson Hall. The program includes Ryan Kastner on embedded compute, Tania Morimoto and Mike Tolley on soft robotics, HumanoidAI's engineering leaders, and Nikolay Atanasov and Sicun Gao on model safety, followed by entrepreneurship discussions and a lab open house. The published program is still being finalized; take the Blue Line trolley or use paid visitor parking at Hopkins.
+https://contextualrobotics.ucsd.edu/forum
+
+Use AI Like a Scientist
+Tuesday, November 3 · 6:00–7:30 p.m. PST; doors at 5:30 p.m. · San Diego · $10 · Registration open · Address after registration
+Matthew Zimmer discusses forming hypotheses, running small tests, and comparing AI capabilities across tasks. The Convoy-area talk focuses on practical evaluation habits for AI-assisted work; attendees receive credits for VibeCraft Laboratory. Pick it for a beginner-friendly experimental approach, with an associated host platform rather than a deep model-engineering lecture.
+https://eventship.com/event/use-a-i-like-a-scientist-an-experimental-approach-to-getting-the-most-of-ai
+
+San Diego AI Showcase: Agents, Sensors, and Proof of Work
+Tuesday, November 3 · 6:00–8:30 p.m. PST; demos from 6:30 p.m. · San Diego · Free Invitee option; $10.95 Founder ticket including fee · Registration open
+Watch local founders share working prototypes and lessons: collaborative human/agent workflows, action-sports AI, industrial spectral sensors, and live checks of whether an agent's completed task is actually delivered and tested. Each short demo gets questions and feedback at 11988 El Camino Real. The organizer explicitly offers the free Invitee ticket to anyone who prefers it; the paid tier supports food and drinks.
+https://eventship.com/event/san-diego-ai-showcase-10-north-county-november-2026-san-diego-startup-week
+
+LATER ON THE RADAR (1)
+
+Caltech Watson Lecture: Katie Bouman on Physics and AI Imaging
+Wednesday, November 4 · 7:30–8:30 p.m. PST; activities from 6:00 p.m. · Pasadena · Free · Advance registration full · Standby line available
+Katie Bouman explains how physics and machine learning reconstruct images from incomplete measurements, from black holes to everyday imaging systems. The public Watson Lecture takes place at Beckman Auditorium, with her lab available before the talk. Unticketed guests may attend the preshow and should reach the standby line by 6:50 p.m. for a chance at a seat; entry to the talk is not guaranteed.
+https://www.caltech.edu/campus-life-events/calendar/watson-lecture-katie-bouman
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
