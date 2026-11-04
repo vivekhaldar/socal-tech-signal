@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+# Resume can also be invoked directly from a shell that predates setup.
+source "$HOME/.config/socal-tech-signal/orb-env.sh"
+expected="v$(cat "$repo_root/.node-version")"
+actual="$(node --version)"
+if [[ "$actual" != "$expected" ]]; then
+  echo "Expected Node $expected, found $actual. Run .agents/setup, then start a new login shell." >&2
+  exit 1
+fi
+echo "Orb ready: Node $actual; no authentication or services to reconnect"

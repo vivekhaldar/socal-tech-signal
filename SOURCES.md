@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-10-25
+Last updated: 2026-11-03
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -80,6 +80,9 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [Jewel City Hacks](https://jewelcityhacks.com/) | Community invention education and hands-on AI/software workshops in Glendale | The October 7 GCC Hack Night yielded a concrete interface-building curriculum. Verify each Luma occurrence, campus room, and approval requirement. |
 | [GDG Los Angeles](https://gdg.community.dev/gdg-los-angeles/) | Guided AI, cloud, and full-stack codelabs with developer mentors | Use the GDG event page and registration controls; a Meetup listing can direct attendees to RSVP elsewhere. Convert displayed UTC dates to Pacific before treating a session as overnight. |
 | [AIAA Los Angeles events program](https://www.aiaa-lalv.org/events/2026-events-program) | Aerospace research, engineering seminars, and technical site visits | The October 14 Paul Ronney seminar includes an in-person AI/robotics tour at Faraday Future. Meetup can reproduce the complete organizer program when Constant Contact registration is blocked; that does not verify ticket prices or availability. |
+| [AI Alignment Foundation](https://www.aialignmentfoundation.org/) and [Apart Research sprints](https://apartresearch.com/sprints) | AI safety experiments, multi-agent systems, evaluation, and research hackathons | The November 6–8 sprint has an in-person AE Studio hub with seat confirmation by email. Distinguish the local opening hours and video deadline from online talks and the global AoE report deadline. A foundation footer address is not confirmation of the event venue. |
+| [Caltech World Model Club](https://luma.com/caltechwm) | World models, scientific AI, and research talks open to the wider LA community | The November 6 molecular-modeling talk has an in-person audience but a remote speaker. Preserve that distinction and verify the room for every occurrence. |
+| [Innovate Pasadena](https://luma.com/innovatepasadena) | Founder experience, applied-AI evaluation, and hard-science commercialization | The November 6 healthcare-AI talk has a named expert and practical predeployment questions. Check accessibility and accommodation deadlines; FoundrSpace has no elevator. |
 
 ## Proven San Diego communities
 
@@ -138,6 +141,12 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [UC Riverside Computer Science and Engineering events](https://www1.cs.ucr.edu/events) | Robotics, AI, systems, and computer-science colloquia for “Worth the drive” | The October 30 robotics colloquium has a concrete technical abstract, room, hours, free admission, and a student target audience. Read the individual detail page: text-extraction snapshots of the index can lag the live site. A free university seminar does not establish unrestricted visitor access. |
 
 ## Maintenance
+
+November 3, 2026 SD checks: VibeCraft has first-time-free, $10 breakfast and $20 bundle/coworking tiers; AgTech presales ended and current participant admission is $26.06 including fees. Lawyers and Language Models is now explicitly free, overriding stale $21 discovery copy. The 0111 CTO conference has a substantive agenda but closed registration. Miramar's November 10 workshop is L-104, requires student CSID and earlier information-session attendance, and is not a public drop-in. Italian Biotech Demo Day remains on hold for a PST/MST conflict between canonical listings. See [the SD research record](docs/sweeps/2026-11-03-sd-research.md).
+
+November 3, 2026 OC checks: the CML seminar series explicitly welcomes the public, unlike other university listings that only publish rooms. Claude Impact Lab requires approval and showed one remaining place. OC AI Demo Day's attendee tier is open, but reserved demo space requires approval and first-come signup guarantees no table. TCA's $38 founder tickets are distinct from restricted free tiers. The JATN/Weizmann event withholds its exact Irvine venue until registration. UCI Engineering's old calendar routes return 404; use its current rendered calendar. SoCalCyber returned inconsistent current versus stale feeds, so verify chapter pages directly. See [the OC research record](docs/sweeps/2026-11-03-oc-research.md).
+
+November 3, 2026 source caveats: THE BR-DGE's November 4–5 Novel Sensing workshop is sold out with no registrations, despite “register today” in its description. Caltech's November 4 Watson Lecture now says advance registration closed but still offers standby. KINN AI Cafe's standard tier is free and public; the later office hours are members-only. No Code Girl's $15 early bird and $30 standard tiers both require approval. SensAI's calendar is readable again but exposed older July/SIGGRAPH programs. Pacific Foundry's manufacturing briefing now consistently names November 12, outside this week's window. All current coverage uses PST. See [the dated sweep record](docs/sweeps/2026-11-03.md).
 
 October 25, 2026 source caveats: Grace Hopper Celebration's current organizer notice cancels the Anaheim conference despite stale promotional pages. NSF Cybersecurity Summit registration is closed, with an October 9 deadline. The November 4 MedTech listing is closed and merged into an October 21 event. KubeCon's canonical page places it November 9–12 in Salt Lake City, overriding stale LA discovery cards. Pacific Foundry's event header moved to November 12 while its body retains October 29, so it was excluded. Glendale AI Builders is full with an open waitlist after Meetup hydration. Miramar's October 29 room is L-207 and registration requires a student ID. UCI's quantum/AI security seminar now specifies Calit2 Auditorium, overriding an older cached room. IEEE SD's November 2 event has a separate registration deadline of 10:00 a.m. PST. Times after the November 1 clock change use PST. See [the dated sweep record](docs/sweeps/2026-10-25.md).
 
