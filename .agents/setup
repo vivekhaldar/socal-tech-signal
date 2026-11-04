@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+node_version="$(cat "$repo_root/.node-version")"
+case "$(uname -m)" in
+  x86_64) node_arch=x64 ;;
+  aarch64) node_arch=arm64 ;;
+  *) echo 'Unsupported Node architecture' >&2; exit 1 ;;
+esac
+node_name="node-v${node_version}-linux-${node_arch}"
+node_root="$HOME/.local/share/socal-tech-signal/$node_name"
+
+echo "Preparing Node $node_version"
+started=$SECONDS
+if [[ ! -x "$node_root/bin/node" ]] || [[ "$("$node_root/bin/node" --version)" != "v$node_version" ]]; then
+  missing=()
+  for package in ca-certificates curl xz-utils; do
+    if ! dpkg-query -W -f='${Status}' "$package" 2>/dev/null | grep -qx 'install ok installed'; then
+      missing+=("$package")
+    fi
+  done
+  if (( ${#missing[@]} )); then
+    sudo apt-get update
+    sudo env DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends "${missing[@]}"
+  fi
+
+  mkdir -p "$(dirname "$node_root")"
+  temporary="$(mktemp -d "$(dirname "$node_root")/.install.XXXXXX")"
+  trap 'rm -rf -- "$temporary"' EXIT
+  base_url="https://nodejs.org/dist/v$node_version"
+  curl --fail --silent --show-error --location --retry 2 --max-time 90 \
+    "$base_url/$node_name.tar.xz" -o "$temporary/$node_name.tar.xz"
+  curl --fail --silent --show-error --location --retry 2 --max-time 30 \
+    "$base_url/SHASUMS256.txt" -o "$temporary/SHASUMS256.txt"
+  (cd "$temporary"; grep "  $node_name.tar.xz$" SHASUMS256.txt | sha256sum --check --strict -)
+  tar -xJf "$temporary/$node_name.tar.xz" -C "$temporary"
+  "$temporary/$node_name/bin/node" --version
+  # Replace only this version's managed installation, after checksum verification.
+  rm -rf -- "$node_root"
+  mv "$temporary/$node_name" "$node_root"
+else
+  echo 'Using cached toolchain; no downloads'
+fi
+echo "Toolchain ready in $((SECONDS - started))s"
+
+# Login shells used by Amp and supervised services must see the same toolchain.
+# Keep the hook scoped to this checkout and its subdirectories.
+mkdir -p "$HOME/.config/socal-tech-signal"
+environment_file="$HOME/.config/socal-tech-signal/orb-env.sh"
+{
+  printf 'case "$PWD/" in\n  %q/*)\n' "$repo_root"
+  printf '    case ":$PATH:" in\n      *:%q:*) ;;\n' "$node_root/bin"
+  printf '      *) export PATH=%q:"$PATH" ;;\n    esac\n    ;;\nesac\n' "$node_root/bin"
+} > "$environment_file"
+profile_line='. "$HOME/.config/socal-tech-signal/orb-env.sh"'
+if ! grep -Fqx "$profile_line" "$HOME/.bash_profile" 2>/dev/null; then
+  printf '\n%s\n' "$profile_line" >> "$HOME/.bash_profile"
+fi
+
+echo 'No npm dependencies, database, credentials, or build artifacts to install'
+echo "Orb setup finished in ${SECONDS}s"

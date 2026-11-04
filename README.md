@@ -37,6 +37,24 @@ failed tests, mismatched artifacts, or a stale website prevent Broadcast
 creation. A private GitHub secret named `SOCAL_SIGNAL_POSTAL_ADDRESS` must hold
 the reviewed mailing address used in every newsletter footer.
 
+## Amp orb environment
+
+`.agents/setup` installs the Node version in `.node-version` (Node 22, matching
+CI's major version) from the official checksum-verified distribution. It reuses
+the installed version on warm snapshots without downloading or reinstalling it.
+A checkout-scoped login-shell hook puts that Node and its bundled npm on `PATH`
+for Amp and supervised services. Run setup again after changing the version pin,
+then start a new login shell.
+
+There are no npm dependencies, lockfiles, databases, or required development
+secrets: `npm test` and `npm run build` work without `npm install`.
+`.agents/resume` activates and checks the toolchain; it never installs, authenticates,
+builds, publishes, or sends email. Wrangler is optional deployment tooling and
+is not installed by setup. No long-lived service is needed for builds or tests.
+
+These lifecycle files take effect for new project orbs after reaching the
+default branch. Amp can reuse the prepared toolchain through project snapshots.
+
 ## Design documents
 
 - [Email newsletter design and implementation](docs/email-newsletter-design.md)
