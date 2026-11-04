@@ -21,7 +21,9 @@ remain permanent archives after the following issue replaces the homepage.
 
 ## Review-gated automation
 
-A local Codex automation runs every Monday at 8:00 p.m. America/Los_Angeles. It prepares the upcoming Wednesday-through-Tuesday issue, checks the proven organizers in `SOURCES.md`, performs fresh discovery, verifies every shortlisted event, generates the new dated issue and `index.html`, and opens a pull request against `main`.
+An Amp schedule runs every Sunday at 8:00 p.m. America/Los_Angeles, beginning November 8, 2026. It covers the immediately following Monday through Sunday, checks the proven organizers in `SOURCES.md`, performs fresh discovery, verifies shortlisted events, generates the website and email editions, and opens a pull request against `main` with a reviewed preview. The November 8 run covers November 9–15. The preparation date remains the edition slug.
+
+The schedule is managed in [the Amp research thread](https://ampcode.com/threads/T-01a1a4d1-fbae-773b-a3b4-3d280ddccbbf), not GitHub Actions. It checks existing editions and PRs to avoid duplicates. The previously documented Monday-night local Codex job is not managed by this schedule; if still enabled, disable it separately to avoid overlapping automation. The November 3 catch-up edition retains its November 4–10 coverage.
 
 The automation never merges its own pull request and never pushes directly to
 `main`. Merging the reviewed pull request publishes the homepage and archive.
