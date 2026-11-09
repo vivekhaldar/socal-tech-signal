@@ -1,0 +1,205 @@
+SOCAL TECH SIGNAL — November 8, 2026
+Monday, November 9 through Sunday, November 15
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: The Model Will Change. Will Your Application Survive?
+Tuesday, November 10 · 6:00–7:00 p.m. PST · Laguna Niguel · Free · RSVP open
+Discuss how to keep applications working when their underlying models change. John Carnahan's Southern California Generative AI group covers replaceable models, use-case evaluation harnesses, tracing, production feedback, regression detection, and safe model switching. Meet at OC Local Taproom, 30100 Town Center Drive. Choose this for an engineering conversation about controlling model upgrades rather than chasing the latest model release.
+https://www.meetup.com/southern-california-genai-meetup/events/317104902/
+
+EDITOR'S PICK 02: Jewel City Hacks 6.0
+Saturday, November 14 · 8:00 a.m.–8:00 p.m. PST · Glendale · Free · Approval and signed consent required
+Prototype technology for local communities at Glendale Community College, 1500 North Verdugo Road. The day includes AI/software, hardware/robotics, and XR workshops, mentor help, and a demo expo after the 6:00 p.m. submission deadline. General admission welcomes participants beyond Glendale; apply for an on-site place and check in at the San Gabriel courtyard. Ages 14 and up; under-18s need guardian consent and accompanied check-in/out. Meals are included.
+https://luma.com/jewelcityhacks6
+
+EDITOR'S PICK 03: San Diego AI Studio Sharathon #3
+Sunday, November 15 · 4:30–8:30 p.m. PST · La Mesa · Free · Registration open
+Eight builders open up working agents, memory and RAG systems, automations, and software factories in seven-minute demos followed by questions. Brew Coffee Spot hosts at 6101 Lake Murray Boulevard; demo rounds start at 5:30 and around 6:35, with peer show-and-tell afterward. Watching is welcome and laptops are optional. Apply for a stage slot by November 11; presenters hear back November 13. Audience registration does not reserve a demo slot. Food and parking are free.
+https://luma.com/5y5ju7ud
+
+ORANGE COUNTY (13)
+
+Harness and Loop Engineering Workshop
+Monday, November 9 · 5:30–8:00 p.m. PST · Irvine · Free · Full: waitlist only · Approval required
+FairMind's Alexio Cassani covers agent context, tools, permissions, checks, and self-checking execution loops for end-to-end software development. The organizer names UCI's ISEB Auditorium, building 419, despite the hidden location widget; Anteater Parking Structure is recommended. Bring a laptop if admitted. Registration is full, but an active waitlist remains available. Join it only if you can wait for explicit approval; do not treat it as permission to attend.
+https://luma.com/claude-oc-builders
+
+Weizmann Institute: From Research to Real-World Innovation
+Monday, November 9 · 5:30–8:30 p.m. PST · Irvine · Complimentary · Full: waitlist only · Approval required
+Dr. Sharon Fireman, head of Weizmann's BINA unit, discusses technology transfer, licensing, industry partnerships, and turning research into startups. Dinner is included. This JATN program has filled since the previous edition and now offers a waitlist, not available admission. The exact Irvine venue is withheld until registration; wait for approval and directions before making travel plans.
+https://luma.com/tsqggwua
+
+Face to Face with Investors: TCA Venture Group
+Tuesday, November 10 · 4:00–8:00 p.m. PST · Aliso Viejo · $38 founder tickets · Selected categories still available
+Seed-to-pre-Series-A founders with traction can hear AI/VC and persist-versus-pivot panels, then join sector roundtables at Soka University's Black Box Theatre, 1 University Drive. Panels begin at 5:10 p.m.; roundtables run 6:15–7:45. AI Applications and Software/B2B tickets are sold out, while General Discussion and some other categories remain selectable. Restricted free investor, sponsor, and Soka-student tiers are not general admission; the $38 student-startup tier requires approval and a university email.
+https://luma.com/gka6864i
+
+★ The Model Will Change. Will Your Application Survive?
+Tuesday, November 10 · 6:00–7:00 p.m. PST · Laguna Niguel · Free · RSVP open
+Discuss how to keep applications working when their underlying models change. John Carnahan's Southern California Generative AI group covers replaceable models, use-case evaluation harnesses, tracing, production feedback, regression detection, and safe model switching. Meet at OC Local Taproom, 30100 Town Center Drive. Choose this for an engineering conversation about controlling model upgrades rather than chasing the latest model release.
+https://www.meetup.com/southern-california-genai-meetup/events/317104902/
+
+Orange County AI Demo Day
+Tuesday, November 10 · 6:00–8:00 p.m. PST · Newport Beach · Free · Registration open
+Try working software, hardware, agents, and research prototypes at The Ticket 500, 2807 Villa Way. The format has no stage, slide decks, or pitch competition: inspect projects and question their builders directly. The attendee tier remains open without approval. Assigned demo space requires an application and approval; the separate first-come demo signup does not guarantee a table. Choose the ticket that matches how you want to participate.
+https://luma.com/orange-sao3
+
+TCVN: AI-Powered Teams, Leadership and Operations
+Wednesday, November 11 · 6:30–8:00 p.m. PST; networking until 8:30 · Irvine · Free for specified local audiences
+Scott Bogdan, Miguel Caballero Pinto, and Walied Keshk teach AI team building, operational metrics, financial analysis, and operational agents. EvoNexus hosts at 101 Academy Way, Suite 110, with dinner and course materials included. The free ticket is specifically for Irvine residents, Irvine-based businesses and employees, and local college students. Check that you qualify before registering; this is not an unrestricted free-admission offer.
+https://luma.com/workshopsession2
+
+UCI: Prediction, Confidence and Calibration in Deep Learning
+Thursday, November 12 · 11:00 a.m.–Noon PST · Irvine · Donald Bren Hall 4011 · Seminar series welcomes the public
+Padhraic Smyth examines uncertainty quantification and calibration in classifiers, large language models, and time-series foundation models. The talk connects confidence estimates with agents and human–AI interaction: when a model sounds certain, what evidence supports trusting it? UCI's Center for Machine Learning explicitly welcomes the public to its seminar series. Choose this for research on measuring uncertainty rather than treating fluent output as calibrated confidence.
+https://ics.uci.edu/event/prediction-confidence-and-calibration-in-the-age-of-deep-learning/
+
+UCI: Statistical Attribute Alignment for Black-Box Generative AI
+Thursday, November 12 · 4:00–5:00 p.m. PST · Irvine · Donald Bren Hall 6011
+Princeton's Jason Klusowski studies how to align synthetic-data attributes when a generative model is available only through queries. The research uses batch sampling and examines asymptotically optimal model-query costs. This is a statistics and learning-theory session about controlling generated distributions without access to model internals, not a fine-tuning tutorial. Meet at UCI's Donald Bren Hall, Room 6011.
+https://ics.uci.edu/event/statistical-attribute-alignment-for-black-box-generative-ai/
+
+Healthcare CTO: SaaS and AI Integration in Hospitals
+Thursday, November 12 · 5:00–7:00 p.m. PST · Irvine · $125 · Ticket and approval required
+Rady Children's Health CTO Adam Gold discusses evaluating, integrating, and governing SaaS and AI in hospital environments. The moderated conversation starts at 5:30 p.m., with audience questions at 6:15. University Lab Partners hosts at 5270 California Avenue, Suite 300, above UCI Cove. Parking is free. Apply for admission; a ticket request alone does not establish entry. Attendance includes the organizer's photography and recording consent.
+https://luma.com/ctogold
+
+Friends of Figma: Fall UX Case Study Showcase
+Thursday, November 12 · 6:00–9:00 p.m. PST · Irvine · Free · RSVP open
+Nico Arce of PACSUN compares fintech and commerce UX; Shane Matthews of Turion Space examines design in engineering decisions; Gabriel Guevara of City National Bank discusses institutional constraints. Presentations start at 6:35 p.m., with shared questions at 8:05. Meet at Irvine Ranch Water District, 15600 Sand Canyon Avenue, in the meeting room next to MemorialCare Breast Center. The focus is concrete project decisions, not a generic design mixer.
+https://www.meetup.com/friends-of-figma-irvine-ux-design-group/events/317013797/
+
+UCI: 3D-Printed Ion Traps for Quantum Information Processing
+Friday, November 13 · 9:00–10:20 a.m. PST · Irvine · McDonnell Douglas Engineering Auditorium
+Berkeley's Hartmut Häffner presents micro ion traps made through two-photon-polymerization fabrication. The research covers calcium-ion confinement and coherent optical-qubit operations after Doppler cooling, connecting fabrication methods with scalable quantum information processing and precision measurement. Choose this for a hardware-oriented quantum research seminar. The physical meeting is at UCI's McDonnell Douglas Engineering Auditorium.
+https://engineering.uci.edu/news/events/index.php#event-details/8786b4ab-d307-408b-a70d-c6a5acc17e90
+
+UCI: Avi Wigderson on the Value of Errors in Proofs
+Friday, November 13 · 11:00 a.m.–Noon PST · Irvine · Calit2 Auditorium
+Avi Wigderson traces classical and modern definitions of proof, showing how interaction, randomness, and errors lead to surprising computational power. The journey connects Turing's work to the 2020 MIP*=RE breakthrough and its consequences for complexity theory, mathematics, and physics. UCI's announcement explicitly says no special mathematical background is required. Choose this for foundational computer science explained through the changing notion of a proof.
+https://ics.uci.edu/event/the-value-of-errors-in-proofs-a-fascinating-journey-from-turings-1936-r-re-to-the-2020-breakthrough-of-mip-re/
+
+How Do You Get Funded? Fundraising Q&A Town Hall
+Friday, November 13 · 6:00–8:00 p.m. PST · Newport Beach · Free · Registration open
+Brandon Kim of Marginal Ventures, Nathan Biles of KYE Ventures, Woody Butler of VC Lab, and Don DiCostanzo answer fundraising questions at The Ticket 500, 2807 Villa Way. Curated opening questions lead into audience-submitted and upvoted questions. Bring a concrete financing question rather than expecting an individual investor pitch slot. The standard ticket is free and does not require approval.
+https://luma.com/ticket500-828q
+
+LOS ANGELES (10)
+
+Caltech: The Quest for Representational Universals
+Tuesday, November 10 · 4:00–5:00 p.m. PST · Pasadena · Caltech, Annenberg 105
+MIT's Phillip Isola examines common structures that emerge in learned representations. One result aligns vision and language embeddings up to rotation without paired data; another finds nearby solutions to downstream tasks in the weight neighborhoods of large models. The research asks whether increasingly large neural networks converge on simpler, more universal geometries. Choose this for a technical account of representation learning rather than an introduction to AI tools.
+https://www.caltech.edu/campus-life-events/calendar/caltech-ai-colloquium-3
+
+UCLA: AI Agents for Recruiting Workflows
+Tuesday, November 10 · 7:00–8:00 p.m. PST · Westwood · Free · Registration open · Bring a laptop
+Build AI-assisted workflows for organizing job applications and preparing for interviews with UCLA's Claude Builder Club, UBS, and UPE. The student-oriented workshop requires no coding or AI background and includes Anthropic API credits and temporary Pro access. Meet in the Mong Learning Center, Engineering VI, 404 Westwood Plaza. Campus visitors should confirm access. This upcoming occurrence has been rechecked since its inclusion in the previous edition.
+https://luma.com/57bk5206
+
+Beyond the Hype: AI in the Real World
+Wednesday, November 11 · 6:30–9:30 p.m. PST · Glendale · Free · Approval required
+Diana Agdashian moderates practitioners using AI in clinical trials, design, filmmaking, and legal operations. Speakers include Garen Karaguezian, Gregory Beylerian, Armen Karaoghlanian, Mike Dermendjian, and Mariam Harutyunyan. The cross-industry discussion focuses on adoption in actual work rather than model announcements. Hero House @ HyeRise hosts at 326 Mira Loma Avenue. Request admission before traveling; the host must approve your registration.
+https://luma.com/lzo53vee
+
+LA TechConnect: AI-Native Product and Engineering
+Thursday, November 12 · From 8:15 a.m. PST · Westwood · $199 · Director level and above · Approval required
+Dan Gill, Cassie Campbell, and other leaders discuss AI-native teams, software delivery, and organizational change, followed by a hands-on workshop whose topic attendees choose. UCLA Faculty Club hosts at 480 Charles E. Young Drive East; breakfast and lunch are included, parking is $16 separately. Register with title and company, and bring a laptop. The ticket header ends at 4:30 p.m.; the logistics text says 5:00 p.m. Confirm your departure plan with the host.
+https://luma.com/c2o7manz
+
+AI Cafe: IP Ownership and Diligence for AI Founders
+Thursday, November 12 · 8:45–10:30 a.m. PST; talk at 9:30 · Venice · Free standard ticket · Registration open
+Nuzayra Haque-Shah explains intellectual-property ownership, data privacy, trade secrets, and contract risks for companies building with AI. Expect practical questions to ask about vendor agreements, customer commitments, and investor diligence. The KINN hosts at 150 Horizon Avenue. The standard event ticket is public; the space closes to the public at 11:00 a.m. Separate office hours starting at 11:15 are members-only, not included with public attendance.
+https://luma.com/AICafeNov12
+
+UCLA: Networks for AI and the Sacred Cows of the Internet
+Thursday, November 12 · 4:15–5:15 p.m. PST · Westwood · RSVP requested · Limited first-come walk-in possibility
+Nick McKeown questions the protocol layers and assumptions that make networks fragile and difficult to manage, then considers clean-slate designs as networking becomes an AI bottleneck. Meet at UCLA's Connection Lab, Room 3440 Boelter Hall, 420 Westwood Plaza. The RSVP form requires Google sign-in. If reservations are full, the organizer says some walk-in seats may be available: line up outside the lab and ask at check-in. Entry is not guaranteed.
+https://www.cs.ucla.edu/upcoming-events/rohit-bhat-ucla-marconi-society-distinguished-lecture-nick-mckeown-stanford-university/
+
+Claude SMB Workshop: Build a Working Business Workflow
+Thursday, November 12 · 5:00–8:00 p.m. PST; workshop 5:30–7:30 · Manhattan Beach · Free · Approval required
+Looper Systems helps business owners connect Claude to existing tools and work through real tasks such as lead follow-up, proposals, invoices, or a weekly operations brief. Bring a laptop, charger, and one task to build with help in the room. No engineering background is required. Unità hosts at 516 North Sepulveda Boulevard. Apply with your business email; the session includes practical AI limitations and checks, not just tool demonstrations.
+https://luma.com/di7497ft
+
+★ Jewel City Hacks 6.0
+Saturday, November 14 · 8:00 a.m.–8:00 p.m. PST · Glendale · Free · Approval and signed consent required
+Prototype technology for local communities at Glendale Community College, 1500 North Verdugo Road. The day includes AI/software, hardware/robotics, and XR workshops, mentor help, and a demo expo after the 6:00 p.m. submission deadline. General admission welcomes participants beyond Glendale; apply for an on-site place and check in at the San Gabriel courtyard. Ages 14 and up; under-18s need guardian consent and accompanied check-in/out. Meals are included.
+https://luma.com/jewelcityhacks6
+
+Build Day with Live Models
+Saturday, November 14 · 10:00 a.m.–7:00 p.m. PST · Los Angeles · Free · Approval required · Address after registration
+Visko, Google, and Reactor host a working build day with access to live-model APIs, developer support, and project prizes. Bring a project or use the day to explore what an application can do with the supplied models and tools. The program is in person, but the exact address is withheld until registration. Apply first and wait for confirmed admission and directions rather than heading to a presumed Google office.
+https://luma.com/odbli7ir
+
+Life Summit: Clinical AI from Evaluation to Deployment
+Saturday, November 14 · 10:00 a.m.–7:00 p.m. PST; check-in at 9:00 · Culver City · General admission $100 through November 13
+AI LA brings clinical AI evaluation, patient-facing systems, implementation, and safety to BioscienceLA, 4130 Overland Avenue. Speakers include Thomas Kingsley, Noura Daadaa, Polina Durneva, and David Feinberg. Talks run until 5:00 p.m., followed by a reception. General admission rises to $125 on the day; the $25 student/teacher and $50 member tiers require eligibility and approval. The earlier $60 general-admission offer has expired.
+https://luma.com/lifesummit26
+
+SAN DIEGO (11)
+
+Autonomous Vehicle RC: DonkeyCar Builders
+Monday, November 9 · 6:00–8:00 p.m. PST · San Diego · Free · RSVP open
+Build and troubleshoot open-source autonomous RC cars using DonkeyCar and convolutional neural networks, with experienced builders helping attendees' kits and projects. Meet at Coronado Brewing's tasting room, 1205 Knoxville Street, and bring your kit or parts if you want hands-on help. Beginners are welcome. This is the same gathering cross-listed by Fab Lab, not a second event; its active attendance option was rechecked for this edition.
+https://www.meetup.com/roboticsclub/events/315445822/
+
+Cheers Oceaneers: Ocean Energy to Embodied Intelligence
+Wednesday, November 11 · From 5:30 p.m. PST; presentation at 6:20 · San Diego · No admission charge · RSVP appreciated
+Rowdy Malchow II connects compact wave-energy converters with human-demonstration training for humanoid robots, including a live humanoid demonstration. Quantum Brewing hosts at 5375 Kearny Villa Road, Suite 116. Everyone is welcome and no ticket is required; the hosts ask attendees to buy a drink. IEEE lists an 8:30 p.m. finish, while Meetup says 7:30; IEEE's agenda puts open mic around 7:00 and social time from 7:30.
+https://events.vtools.ieee.org/m/591401
+
+USD Cyber Law and Risk Symposium
+Thursday, November 12 · 8:00 a.m.–6:30 p.m. PST · San Diego · Public registration $195
+Explore AI product liability and vulnerabilities, quantum-era data exposure, critical infrastructure, insurance, regulation, and crisis response, including a California Privacy Protection Agency conversation. USD hosts at the Joan B. Kroc Institute for Peace and Justice Theatre, 5998 Alcalá Park. The public registration form is active at $195 and offers up to seven MCLE hours. A $45 student/alumni/.edu rate is advertised, but confirm eligibility and redemption rather than assuming the discount applies.
+https://www.sandiego.edu/newscenter/97359
+
+Co-Packaged Optics with Silicon Photonics
+Thursday, November 12 · 4:00–6:00 p.m. PST · San Diego · No admission charge · Register by November 10 at 3:00 p.m.
+John Lau covers photonic/electronic integration, optical transceivers, co-packaged optics, and packaging choices that affect data-center power, latency, and performance. The lecture runs 4:30–6:00 p.m. at Qualcomm Building Q Auditorium, 6455 Lusk Boulevard. Register through IEEE vTools before Tuesday's deadline; its account and guest-registration routes are distinct from simply adding the event to your calendar. This is a technical hardware talk, not a product launch.
+https://events.vtools.ieee.org/m/580003
+
+AICamp and Google: Agentic AI Builder Lab
+Thursday, November 12 · From 5:30 p.m. PST · San Diego · Free · AICamp account and RSVP required
+Logan Hennessy and Annie Wang guide a Cloud Shell build of asynchronous agents with tool calls, persistent state, multi-step orchestration, and recovery from failures. Google hosts at 6420 Sequence Drive. Bring a charged laptop and basic coding skills; the lab runs 6:30–8:00 p.m. The calendar ends at 8:00, while the agenda continues demos until 8:30. Final availability is visible only after AICamp login; a disabled Meetup RSVP is not a reservation or proof of sellout.
+https://www.aicamp.ai/event/eventdetails/W2026111217
+
+ISC2 San Diego: Computer and Network Security
+Thursday, November 12 · 6:00–8:00 p.m. PST · San Diego · Free · Everyone welcome · In-person meeting
+Joe Bermudez discusses unified asset inventory and continuous visibility into exposures and cyber risk, drawing on architecture and cybersecurity-engineering work supporting DISA. Meet at USD's Belanich Engineering Center, Room BEC-318, 4998 Alcalá Park. The chapter welcomes everyone to its no-fee meetings. Its linked attendance form is for CPE credit and asks for a phrase announced at the end; it is not an advance-admission requirement. A remote option is separate.
+https://isc2-san-diego-chapter.org/
+
+San Diego Rust: Back in Person
+Thursday, November 12 · 7:00–9:00 p.m. PST · San Diego · Free · Registration open
+Join a Rust-focused project and learning roundtable, language updates, beginner help, and questions at Ansir, 7670 Opportunity Road, Suite 255. All experience levels are welcome. Formal talks are still to be announced, so choose this for peer engineering discussion rather than a promised speaker session. Park in the back row and scan the venue's QR code for three-hour parking validation.
+https://eventship.com/event/san-diego-rust-november-meetup-back-in-person
+
+San Diego CyberCon: AI Security and Secure Development
+Friday, November 13 · 8:00 a.m.–6:00 p.m. PST · San Diego · General tickets $150–$195 · Government ID required
+The Deep Tech track includes Faan Rossouw's 10:00 a.m. security-agent lab and Jim Manico's 1:30 p.m. session on secure Claude Code/Codex development, permissions, sandboxing, hooks, and independent review. Marriott Marquis hosts at 333 West Harbor Drive. General tickets are $150 single-track without lunch, $175 with lunch, or $195 full access with lunch. Lower student/military tiers require proof. Admission is a nonrefundable donation; the conference offers up to nine CPE hours.
+https://sdcybercon.org/
+
+UC San Diego Horizon Open House
+Friday, November 13 · From 10:00 a.m. PST · La Jolla · Free Community ticket · Registration open
+Meet university commercialization staff and advisors covering open source, research-to-market strategy, startup support, and legal questions. Named participants include Karla Padilla, Rupak Doshi, Stephen Flynn, Jeff Schmidt, and Jim Krenn. The university publishes DIB Room 208, 9510 Innovation Lane, despite Luma's hidden address. Luma ends at 2:00 p.m.; the university says 1:00. Office-hour booking links go to registrants, but an event ticket does not book a consultation. Session times may change.
+https://luma.com/bdhlbw4r
+
+From Build to Buy-In: Presenting Your AI Project
+Saturday, November 14 · 10:00 a.m.–Noon PST; workshop at 10:30 · San Diego · $31.14 including fee · Registration open
+Matthew Zimmer and communication coach Autumn Garrett help builders explain an AI project's problem, system, constraints, and business value. Paired practice, feedback, and live coaching develop a three-minute pitch for decision-makers. Bring your own project or use the provided samples at Ansir, 7670 Opportunity Road, Suite 255. Students and professionals are welcome. The current ticket is $29 plus a $2.14 fee, nonrefundable; the $19 early bird has ended.
+https://eventship.com/event/from-build-to-buy-in-presenting-your-ai-project-to-decision-makers
+
+★ San Diego AI Studio Sharathon #3
+Sunday, November 15 · 4:30–8:30 p.m. PST · La Mesa · Free · Registration open
+Eight builders open up working agents, memory and RAG systems, automations, and software factories in seven-minute demos followed by questions. Brew Coffee Spot hosts at 6101 Lake Murray Boulevard; demo rounds start at 5:30 and around 6:35, with peer show-and-tell afterward. Watching is welcome and laptops are optional. Apply for a stage slot by November 11; presenters hear back November 13. Audience registration does not reserve a demo slot. Food and parking are free.
+https://luma.com/5y5ju7ud
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
