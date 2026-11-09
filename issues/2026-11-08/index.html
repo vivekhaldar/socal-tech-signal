@@ -1,0 +1,794 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#dfff35">
+  <meta name="description" content="A weekly field guide to the best in-person AI, engineering, security, and founder events across Southern California.">
+  <link rel="canonical" href="https://socaltech.live/issues/2026-11-08/">
+  <title>SoCal Tech Signal — Weekly field guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&family=Unbounded:wght@400;550;700;850&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: oklch(97% 0.008 104);
+      --paper-deep: oklch(92% 0.02 106);
+      --ink: oklch(20% 0.035 275);
+      --ink-soft: oklch(40% 0.035 273);
+      --line: oklch(76% 0.025 105);
+      --signal: oklch(88% 0.21 116);
+      --signal-deep: oklch(74% 0.2 117);
+      --cobalt: oklch(51% 0.25 274);
+      --vermilion: oklch(64% 0.23 32);
+      --oc: oklch(64% 0.23 32);
+      --la: oklch(51% 0.25 274);
+      --sd: oklch(61% 0.16 158);
+      --drive: oklch(53% 0.15 326);
+      --later: oklch(53% 0.15 326);
+      --featured: var(--signal);
+      --font-display: "Unbounded", "Arial Black", sans-serif;
+      --font-ui: "Instrument Sans", "Arial Narrow", sans-serif;
+      --step--1: 0.8125rem;
+      --step-0: 1rem;
+      --step-1: clamp(1.15rem, 1.05rem + 0.45vw, 1.42rem);
+      --step-2: clamp(1.5rem, 1.2rem + 1vw, 2.15rem);
+      --step-3: clamp(2.25rem, 1.65rem + 2.8vw, 4.4rem);
+      --step-4: clamp(3.5rem, 2.25rem + 6vw, 7.8rem);
+      --space-1: 0.25rem;
+      --space-2: 0.5rem;
+      --space-3: 0.75rem;
+      --space-4: 1rem;
+      --space-6: 1.5rem;
+      --space-8: 2rem;
+      --space-12: 3rem;
+      --space-16: 4rem;
+      --space-24: 6rem;
+      --max: 78rem;
+      --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-width: 20rem;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: var(--font-ui);
+      font-size: var(--step-0);
+      line-height: 1.5;
+      font-kerning: normal;
+      padding-left: env(safe-area-inset-left);
+      padding-right: env(safe-area-inset-right);
+    }
+
+    a { color: inherit; }
+    button, select { font: inherit; }
+    button { color: inherit; }
+    .skip-link {
+      position: fixed;
+      left: 1rem;
+      top: -5rem;
+      z-index: 100;
+      padding: 0.75rem 1rem;
+      background: var(--ink);
+      color: var(--paper);
+    }
+    .skip-link:focus { top: 1rem; }
+    .visually-hidden {
+      position: absolute !important;
+      width: 1px !important;
+      height: 1px !important;
+      padding: 0 !important;
+      margin: -1px !important;
+      overflow: hidden !important;
+      clip: rect(0, 0, 0, 0) !important;
+      white-space: nowrap !important;
+      border: 0 !important;
+    }
+    :focus-visible { outline: 3px solid var(--signal); outline-offset: 3px; }
+
+    .shell {
+      width: min(calc(100% - 2rem), var(--max));
+      margin-inline: auto;
+    }
+
+    .masthead {
+      min-height: 4.5rem;
+      border-bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-4);
+      padding-block: var(--space-3);
+    }
+    .brand {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0.55rem;
+      text-decoration: none;
+      letter-spacing: -0.04em;
+      font-weight: 700;
+      font-size: 1.08rem;
+    }
+    .brand-slash { color: var(--vermilion); font-weight: 400; }
+    .masthead-note {
+      margin: 0;
+      color: var(--ink);
+      font-size: var(--step--1);
+      text-align: right;
+      line-height: 1.25;
+      max-width: 17rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .hero {
+      position: relative;
+      overflow: clip;
+      padding-block: clamp(4rem, 9vw, 8rem) clamp(4rem, 8vw, 7rem);
+      border-block: 1px solid var(--ink);
+      background: var(--signal);
+    }
+    .hero-grid {
+      display: grid;
+      gap: var(--space-12);
+      align-items: end;
+    }
+    .issue-kicker, .eyebrow {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      margin: 0 0 var(--space-6);
+      font-size: var(--step--1);
+      font-weight: 750;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .issue-kicker::before {
+      content: "";
+      width: 2.5rem;
+      height: 0.45rem;
+      background: var(--vermilion);
+    }
+    h1 {
+      max-width: 13ch;
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-4);
+      font-weight: 850;
+      line-height: 0.94;
+      letter-spacing: -0.055em;
+      text-wrap: balance;
+    }
+    .hero-copy {
+      display: grid;
+      gap: var(--space-6);
+      max-width: 38rem;
+    }
+    .dek {
+      margin: 0;
+      font-family: var(--font-ui);
+      font-size: var(--step-2);
+      font-weight: 560;
+      line-height: 1.08;
+      letter-spacing: -0.035em;
+    }
+    .audience { margin: 0; max-width: 55ch; color: var(--ink-soft); }
+    .issue-meta {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: var(--space-2) var(--space-4);
+      padding-top: var(--space-6);
+      border-top: 1px solid var(--line);
+      font-size: var(--step--1);
+    }
+    .issue-meta dt { font-weight: 750; text-transform: uppercase; letter-spacing: 0.08em; }
+    .issue-meta dd { margin: 0; }
+
+    .route-map {
+      position: absolute;
+      right: -4rem;
+      top: 1.25rem;
+      width: min(50vw, 40rem);
+      color: var(--ink);
+      opacity: 0.14;
+      pointer-events: none;
+    }
+
+    .subscribe {
+      background: var(--ink);
+      color: var(--paper);
+      border-bottom: 1px solid var(--ink);
+      padding-block: clamp(2.5rem, 6vw, 4.5rem);
+    }
+    .subscribe-grid {
+      display: grid;
+      gap: var(--space-8);
+      align-items: end;
+    }
+    .subscribe-copy { max-width: 47rem; }
+    .subscribe-kicker {
+      margin: 0 0 var(--space-4);
+      color: var(--signal);
+      font-size: var(--step--1);
+      font-weight: 750;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .subscribe h2 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: clamp(1.65rem, 1.25rem + 1.8vw, 3rem);
+      font-weight: 700;
+      line-height: 1.03;
+      letter-spacing: -0.05em;
+    }
+    .subscribe-note {
+      max-width: 50ch;
+      margin: var(--space-4) 0 0;
+      color: color-mix(in oklch, var(--paper) 78%, var(--ink));
+    }
+    .subscribe-form { min-width: 0; }
+    .subscribe-fields {
+      display: grid;
+      gap: var(--space-2);
+    }
+    .subscribe-input,
+    .subscribe-button {
+      min-width: 0;
+      min-height: 3.35rem;
+      border: 2px solid var(--paper);
+      border-radius: 0;
+      font: inherit;
+      font-weight: 700;
+    }
+    .subscribe-input {
+      width: 100%;
+      background: var(--paper);
+      color: var(--ink);
+      padding: 0.8rem 1rem;
+      font-size: 1rem;
+    }
+    .subscribe-input::placeholder { color: var(--ink-soft); opacity: 1; }
+    .subscribe-input[aria-invalid="true"] { border-color: var(--vermilion); outline-color: var(--vermilion); }
+    .subscribe-button {
+      background: var(--signal);
+      color: var(--ink);
+      border-color: var(--signal);
+      padding: 0.8rem 1.15rem;
+      cursor: pointer;
+      transition: transform 100ms var(--ease-out), background 120ms linear;
+    }
+    .subscribe-button:active { transform: scale(0.98); }
+    .subscribe-button:disabled { cursor: wait; opacity: 0.72; }
+    .subscribe-meta,
+    .subscribe-status {
+      margin: var(--space-3) 0 0;
+      font-size: var(--step--1);
+    }
+    .subscribe-meta { color: color-mix(in oklch, var(--paper) 70%, var(--ink)); }
+    .subscribe-meta a { text-underline-offset: 0.2em; }
+    .subscribe-status { min-height: 1.25rem; color: var(--signal); font-weight: 700; }
+    .subscribe-status[data-state="error"] { color: oklch(79% 0.16 34); }
+    .subscribe-status[data-state="success"] { color: var(--signal); }
+    .subscribe-honeypot {
+      position: absolute;
+      left: -10000px;
+      width: 1px;
+      height: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .section { padding-block: clamp(3.5rem, 7vw, 6rem); }
+    .section-head {
+      display: grid;
+      gap: var(--space-4);
+      margin-bottom: var(--space-12);
+      align-items: end;
+    }
+    .section-title {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-3);
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -0.055em;
+    }
+    .section-note { margin: 0; max-width: 42ch; color: var(--ink-soft); }
+
+    .features {
+      display: grid;
+      gap: var(--space-8);
+    }
+    .feature {
+      position: relative;
+      min-height: 20rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: var(--space-12);
+      padding: clamp(1.5rem, 4vw, 3rem);
+      color: var(--paper);
+      background: var(--ink);
+      overflow: hidden;
+      text-decoration: none;
+      transition: transform 220ms var(--ease-out), color 120ms linear;
+      animation: reveal 650ms var(--ease-out) both;
+      animation-delay: calc(var(--i, 0) * 70ms);
+    }
+    .feature::after {
+      content: attr(data-number);
+      position: absolute;
+      right: -0.05em;
+      bottom: -0.27em;
+      color: oklch(32% 0.04 247);
+      font-family: var(--font-display);
+      font-size: clamp(9rem, 22vw, 18rem);
+      line-height: 1;
+      z-index: 0;
+    }
+    .feature > * { position: relative; z-index: 1; }
+    .feature:nth-child(2) { background: var(--cobalt); }
+    .feature:nth-child(3) { background: var(--vermilion); color: var(--ink); }
+    .feature:nth-child(3)::after { color: color-mix(in oklch, var(--vermilion) 85%, var(--paper)); }
+    .feature h3 {
+      margin: 0;
+      max-width: 14ch;
+      font-family: var(--font-display);
+      font-size: var(--step-2);
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -0.035em;
+    }
+    .feature-meta { margin: var(--space-4) 0 0; max-width: 40ch; font-size: var(--step--1); }
+    .feature-foot { display: flex; justify-content: space-between; align-items: end; gap: var(--space-4); }
+    .feature-description { margin: 0; max-width: 45ch; font-size: 0.92rem; }
+    .feature-arrow { font-size: 1.6rem; line-height: 1; }
+
+    .filter-dock {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: color-mix(in oklch, var(--paper) 94%, transparent);
+      border-block: 1px solid var(--ink);
+      padding-top: var(--space-2);
+      padding-bottom: var(--space-2);
+    }
+    .filter-scroll {
+      display: flex;
+      align-items: center;
+      gap: var(--space-2);
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding-inline: max(1rem, env(safe-area-inset-left)) max(1rem, env(safe-area-inset-right));
+    }
+    .filter-scroll::-webkit-scrollbar { display: none; }
+    .filter-label { flex: 0 0 auto; margin-right: var(--space-2); font-size: var(--step--1); font-weight: 750; text-transform: uppercase; letter-spacing: 0.08em; }
+    .filter {
+      flex: 0 0 auto;
+      min-height: 2.75rem;
+      border: 1px solid var(--ink);
+      border-radius: 999px;
+      background: transparent;
+      padding: 0.55rem 0.95rem;
+      cursor: pointer;
+      font-size: var(--step--1);
+      font-weight: 700;
+      transition: transform 100ms var(--ease-out), background 120ms linear, color 120ms linear;
+    }
+    .filter[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+    .filter:active { transform: scale(0.97); }
+
+    .directory { padding-block: clamp(3.5rem, 7vw, 7rem); }
+    .directory-head {
+      display: grid;
+      gap: var(--space-4);
+      margin-bottom: var(--space-12);
+    }
+    .directory-count { margin: 0; color: var(--ink-soft); }
+    .region-group { margin-bottom: var(--space-24); }
+    .region-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: var(--space-4);
+      padding-bottom: var(--space-3);
+      border-bottom: 3px solid var(--region-color);
+      margin-bottom: var(--space-2);
+    }
+    .region-head h3 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-2);
+      font-weight: 700;
+      letter-spacing: -0.035em;
+    }
+    .region-count { font-size: var(--step--1); font-weight: 750; }
+    .region-group[data-region="Drive"] { --region-color: var(--drive); }
+    .region-group[data-region="OC"] { --region-color: var(--oc); }
+    .region-group[data-region="LA"] { --region-color: var(--la); }
+    .region-group[data-region="SD"] { --region-color: var(--sd); }
+    .region-group[data-region="Later"] { --region-color: var(--later); }
+
+    .event-list { list-style: none; margin: 0; padding: 0; }
+    .event {
+      container-type: inline-size;
+      border-bottom: 1px solid var(--line);
+    }
+    .event-link {
+      display: grid;
+      gap: var(--space-4);
+      padding-block: var(--space-6);
+      text-decoration: none;
+      transition: color 120ms linear;
+    }
+    .event-meta {
+      margin: 0 0 var(--space-3);
+      color: var(--ink-soft);
+      font-size: var(--step--1);
+      font-weight: 650;
+      font-variant-numeric: tabular-nums;
+    }
+    .event h4 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: var(--step-1);
+      font-weight: 550;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-wrap: balance;
+    }
+    .event-description { margin: var(--space-3) 0 0; max-width: 70ch; color: var(--ink-soft); font-size: 0.94rem; }
+    .event-side { display: flex; align-items: end; justify-content: space-between; gap: var(--space-4); }
+    .tags { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+    .tag {
+      border: 1px solid var(--line);
+      padding: 0.23rem 0.5rem;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .event-arrow { color: var(--region-color); font-size: 1.3rem; line-height: 1; }
+    .empty { display: none; padding-block: var(--space-16); text-align: center; color: var(--ink-soft); }
+
+    .about {
+      padding-block: var(--space-16) var(--space-24);
+      background: var(--signal);
+      border-top: 1px solid var(--ink);
+    }
+    .about-grid { display: grid; gap: var(--space-8); }
+    .about h2 { margin: 0; font-family: var(--font-display); font-size: var(--step-2); font-weight: 700; letter-spacing: -0.04em; }
+    .about p { margin: 0; max-width: 68ch; }
+    .footer-line {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: var(--space-4);
+      margin-top: var(--space-12);
+      padding-top: var(--space-4);
+      border-top: 1px solid var(--ink);
+      font-size: var(--step--1);
+      font-weight: 700;
+    }
+    .maker-link {
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.22em;
+    }
+    .maker-link:hover { text-decoration-color: var(--vermilion); }
+    .maker-heart { color: var(--vermilion); }
+
+    @container (min-width: 42rem) {
+      .event-link { grid-template-columns: minmax(0, 1fr) 14rem; align-items: end; gap: var(--space-8); }
+    }
+
+    @media (min-width: 48rem) {
+      .shell { width: min(calc(100% - 4rem), var(--max)); }
+      .hero-grid { grid-template-columns: minmax(0, 1.15fr) minmax(18rem, 0.65fr); }
+      .subscribe-grid { grid-template-columns: minmax(0, 0.9fr) minmax(24rem, 0.7fr); gap: var(--space-12); }
+      .subscribe-fields { grid-template-columns: minmax(0, 1fr) auto; }
+      .section-head { grid-template-columns: 1fr 22rem; }
+      .features { grid-template-columns: 1.2fr 0.8fr; grid-template-rows: 1fr 1fr; }
+      .feature:first-child { grid-row: 1 / 3; min-height: 42rem; }
+      .feature:not(:first-child) { min-height: 20rem; }
+      .directory-head { grid-template-columns: 1fr auto; align-items: end; }
+      .about-grid { grid-template-columns: minmax(12rem, 0.45fr) minmax(0, 1fr); }
+    }
+
+    @media (min-width: 72rem) {
+      .masthead { min-height: 5.25rem; }
+      .event-link { padding-block: var(--space-8); }
+      .event h4 { max-width: 30ch; }
+    }
+
+    @media (hover: hover) {
+      .feature:hover { transform: translateY(-0.35rem); }
+      .event-link:hover h4 { color: var(--region-color); }
+      .filter:hover { background: var(--paper-deep); }
+      .filter[aria-pressed="true"]:hover { background: var(--ink); }
+      .subscribe-button:hover { background: var(--paper); border-color: var(--paper); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+    }
+
+    @media print {
+      body { background: var(--paper); }
+      .filter-dock, .subscribe { display: none; }
+      .feature, .event { break-inside: avoid; }
+      a { text-decoration: none; }
+    }
+
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(1.2rem); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <!-- Cloudflare Web Analytics -->
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "147476885ede4939b262ff1b3c6e16be"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to events</a>
+
+  <header class="shell masthead">
+    <a class="brand" href="#top" aria-label="SoCal Tech Signal home">
+      <span>SoCal</span><span class="brand-slash">/</span><span>Signal</span>
+    </a>
+    <p class="masthead-note" id="cadence"></p>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <svg class="route-map" viewBox="0 0 620 520" aria-hidden="true">
+        <path d="M122 70C228 112 300 135 348 214C399 296 438 343 524 450" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="9 13"/>
+        <path d="M125 70C189 113 228 159 242 216C266 313 370 392 524 450" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <circle cx="122" cy="70" r="14" fill="currentColor"/><circle cx="348" cy="214" r="14" fill="currentColor"/><circle cx="524" cy="450" r="14" fill="currentColor"/>
+        <text x="79" y="45" fill="currentColor" font-family="sans-serif" font-size="22">LA</text>
+        <text x="371" y="210" fill="currentColor" font-family="sans-serif" font-size="22">OC</text>
+        <text x="543" y="478" fill="currentColor" font-family="sans-serif" font-size="22">SD</text>
+      </svg>
+      <div class="shell hero-grid">
+        <div>
+          <p class="issue-kicker">Curated in-person</p>
+          <h1>SoCal AI + Tech Events</h1>
+        </div>
+        <div class="hero-copy">
+          <p class="dek" id="dek"></p>
+          <p class="audience" id="audience"></p>
+          <dl class="issue-meta">
+            <dt>Edition</dt><dd id="issue-date"></dd>
+            <dt>Window</dt><dd id="coverage"></dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <section class="subscribe" id="subscribe" aria-labelledby="subscribe-title">
+      <div class="shell subscribe-grid">
+        <div class="subscribe-copy">
+          <p class="subscribe-kicker">The weekly send</p>
+          <h2 id="subscribe-title">Want next week’s signal in your inbox?</h2>
+          <p class="subscribe-note">One useful email a week. The complete SoCal AI + tech event list, before the week fills up.</p>
+        </div>
+        <form class="subscribe-form" id="subscribe-form" novalidate>
+          <label class="visually-hidden" for="subscribe-email">Email address</label>
+          <div class="subscribe-fields">
+            <input class="subscribe-input" id="subscribe-email" name="email" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com" maxlength="254" required aria-describedby="subscribe-meta subscribe-status">
+            <button class="subscribe-button" id="subscribe-button" type="submit">Send me the signal</button>
+          </div>
+          <label class="subscribe-honeypot" aria-hidden="true">Leave this field empty<input name="website" tabindex="-1" autocomplete="off"></label>
+          <p class="subscribe-meta" id="subscribe-meta">No spam. Unsubscribe anytime. <a href="/privacy.html">Privacy.</a></p>
+          <p class="subscribe-status" id="subscribe-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <section class="section shell" aria-labelledby="featured-title">
+      <div class="section-head">
+        <h2 class="section-title" id="featured-title">Three to circle.</h2>
+        <p class="section-note">The strongest reasons to rearrange the week—selected for program quality, specificity, and the room they’re likely to attract.</p>
+      </div>
+      <div class="features" id="features"></div>
+    </section>
+
+    <nav class="filter-dock" aria-label="Filter events by region">
+      <div class="filter-scroll">
+        <span class="filter-label">Show</span>
+        <button class="filter" type="button" data-filter="All" aria-pressed="true">All</button>
+        <button class="filter" type="button" data-filter="Drive" aria-pressed="false">Worth the drive</button>
+        <button class="filter" type="button" data-filter="OC" aria-pressed="false">Orange County</button>
+        <button class="filter" type="button" data-filter="LA" aria-pressed="false">Los Angeles</button>
+        <button class="filter" type="button" data-filter="SD" aria-pressed="false">San Diego</button>
+        <button class="filter" type="button" data-filter="Later" aria-pressed="false">Later</button>
+      </div>
+    </nav>
+
+    <section class="directory shell" aria-labelledby="directory-title">
+      <div class="directory-head">
+        <h2 class="section-title" id="directory-title">The full field guide.</h2>
+        <p class="directory-count" id="directory-count" aria-live="polite"></p>
+      </div>
+      <div id="directory"></div>
+      <p class="empty" id="empty">No events match this view.</p>
+    </section>
+
+    <section class="about" id="about">
+      <div class="shell about-grid">
+        <h2>What this is.</h2>
+        <div>
+          <p id="about-copy"></p>
+        </div>
+      </div>
+      <div class="shell footer-line">
+        <span>SoCal Tech Signal</span>
+        <span>Orange County · Los Angeles · San Diego</span>
+        <span id="footer-date"></span>
+        <a href="#subscribe">Get the weekly email</a>
+        <a class="maker-link" href="https://vivekhaldar.com/" target="_blank" rel="me noopener noreferrer" aria-label="Made with love by Vivek Haldar">Made with <span class="maker-heart" aria-hidden="true">♥</span> by Vivek Haldar</a>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const issue = {"publication":"SoCal Tech Signal","slug":"2026-11-08","issueDate":"November 8, 2026","coverage":"Monday, November 9 through Sunday, November 15","dek":"The in-person AI, engineering, security, and founder events worth leaving the house for.","intro":"From neural representations and AI networking to working prototypes, this week rewards getting into the details. Bring a project to a demo floor, build with mentors, or hear researchers explain the assumptions behind the systems we use. The edition now follows a Monday–Sunday week, prepared Sunday evening.","audience":"For technical founders, builders, engineering and security leaders, and hands-on operators across Southern California.","cadence":"Updated weekly","webUrl":"https://socaltech.live/","archiveUrl":"https://socaltech.live/issues/2026-11-08/","featured":[{"title":"The Model Will Change. Will Your Application Survive?","url":"https://www.meetup.com/southern-california-genai-meetup/events/317104902/","meta":"Tuesday, November 10 · 6:00–7:00 p.m. PST · Laguna Niguel · Free · RSVP open","description":"Discuss how to keep applications working when their underlying models change. John Carnahan's Southern California Generative AI group covers replaceable models, use-case evaluation harnesses, tracing, production feedback, regression detection, and safe model switching. Meet at OC Local Taproom, 30100 Town Center Drive. Choose this for an engineering conversation about controlling model upgrades rather than chasing the latest model release.","region":"Featured","starred":false,"tags":["AI builders","Research"]},{"title":"Jewel City Hacks 6.0","url":"https://luma.com/jewelcityhacks6","meta":"Saturday, November 14 · 8:00 a.m.–8:00 p.m. PST · Glendale · Free · Approval and signed consent required","description":"Prototype technology for local communities at Glendale Community College, 1500 North Verdugo Road. The day includes AI/software, hardware/robotics, and XR workshops, mentor help, and a demo expo after the 6:00 p.m. submission deadline. General admission welcomes participants beyond Glendale; apply for an on-site place and check in at the San Gabriel courtyard. Ages 14 and up; under-18s need guardian consent and accompanied check-in/out. Meals are included.","region":"Featured","starred":false,"tags":["AI builders","Hands-on"]},{"title":"San Diego AI Studio Sharathon #3","url":"https://luma.com/5y5ju7ud","meta":"Sunday, November 15 · 4:30–8:30 p.m. PST · La Mesa · Free · Registration open","description":"Eight builders open up working agents, memory and RAG systems, automations, and software factories in seven-minute demos followed by questions. Brew Coffee Spot hosts at 6101 Lake Murray Boulevard; demo rounds start at 5:30 and around 6:35, with peer show-and-tell afterward. Watching is welcome and laptops are optional. Apply for a stage slot by November 11; presenters hear back November 13. Audience registration does not reserve a demo slot. Food and parking are free.","region":"Featured","starred":false,"tags":["AI builders","Hands-on"]}],"events":[{"title":"Harness and Loop Engineering Workshop","url":"https://luma.com/claude-oc-builders","meta":"Monday, November 9 · 5:30–8:00 p.m. PST · Irvine · Free · Full: waitlist only · Approval required","description":"FairMind's Alexio Cassani covers agent context, tools, permissions, checks, and self-checking execution loops for end-to-end software development. The organizer names UCI's ISEB Auditorium, building 419, despite the hidden location widget; Anteater Parking Structure is recommended. Bring a laptop if admitted. Registration is full, but an active waitlist remains available. Join it only if you can wait for explicit approval; do not treat it as permission to attend.","region":"OC","starred":false,"tags":["AI builders","Hands-on"]},{"title":"Weizmann Institute: From Research to Real-World Innovation","url":"https://luma.com/tsqggwua","meta":"Monday, November 9 · 5:30–8:30 p.m. PST · Irvine · Complimentary · Full: waitlist only · Approval required","description":"Dr. Sharon Fireman, head of Weizmann's BINA unit, discusses technology transfer, licensing, industry partnerships, and turning research into startups. Dinner is included. This JATN program has filled since the previous edition and now offers a waitlist, not available admission. The exact Irvine venue is withheld until registration; wait for approval and directions before making travel plans.","region":"OC","starred":false,"tags":["AI builders","Founders"]},{"title":"Face to Face with Investors: TCA Venture Group","url":"https://luma.com/gka6864i","meta":"Tuesday, November 10 · 4:00–8:00 p.m. PST · Aliso Viejo · $38 founder tickets · Selected categories still available","description":"Seed-to-pre-Series-A founders with traction can hear AI/VC and persist-versus-pivot panels, then join sector roundtables at Soka University's Black Box Theatre, 1 University Drive. Panels begin at 5:10 p.m.; roundtables run 6:15–7:45. AI Applications and Software/B2B tickets are sold out, while General Discussion and some other categories remain selectable. Restricted free investor, sponsor, and Soka-student tiers are not general admission; the $38 student-startup tier requires approval and a university email.","region":"OC","starred":false,"tags":["AI builders","Founders"]},{"title":"The Model Will Change. Will Your Application Survive?","url":"https://www.meetup.com/southern-california-genai-meetup/events/317104902/","meta":"Tuesday, November 10 · 6:00–7:00 p.m. PST · Laguna Niguel · Free · RSVP open","description":"Discuss how to keep applications working when their underlying models change. John Carnahan's Southern California Generative AI group covers replaceable models, use-case evaluation harnesses, tracing, production feedback, regression detection, and safe model switching. Meet at OC Local Taproom, 30100 Town Center Drive. Choose this for an engineering conversation about controlling model upgrades rather than chasing the latest model release.","region":"OC","starred":true,"tags":["AI builders","Research"]},{"title":"Orange County AI Demo Day","url":"https://luma.com/orange-sao3","meta":"Tuesday, November 10 · 6:00–8:00 p.m. PST · Newport Beach · Free · Registration open","description":"Try working software, hardware, agents, and research prototypes at The Ticket 500, 2807 Villa Way. The format has no stage, slide decks, or pitch competition: inspect projects and question their builders directly. The attendee tier remains open without approval. Assigned demo space requires an application and approval; the separate first-come demo signup does not guarantee a table. Choose the ticket that matches how you want to participate.","region":"OC","starred":false,"tags":["AI builders","Hands-on"]},{"title":"TCVN: AI-Powered Teams, Leadership and Operations","url":"https://luma.com/workshopsession2","meta":"Wednesday, November 11 · 6:30–8:00 p.m. PST; networking until 8:30 · Irvine · Free for specified local audiences","description":"Scott Bogdan, Miguel Caballero Pinto, and Walied Keshk teach AI team building, operational metrics, financial analysis, and operational agents. EvoNexus hosts at 101 Academy Way, Suite 110, with dinner and course materials included. The free ticket is specifically for Irvine residents, Irvine-based businesses and employees, and local college students. Check that you qualify before registering; this is not an unrestricted free-admission offer.","region":"OC","starred":false,"tags":["AI builders","Founders"]},{"title":"UCI: Prediction, Confidence and Calibration in Deep Learning","url":"https://ics.uci.edu/event/prediction-confidence-and-calibration-in-the-age-of-deep-learning/","meta":"Thursday, November 12 · 11:00 a.m.–Noon PST · Irvine · Donald Bren Hall 4011 · Seminar series welcomes the public","description":"Padhraic Smyth examines uncertainty quantification and calibration in classifiers, large language models, and time-series foundation models. The talk connects confidence estimates with agents and human–AI interaction: when a model sounds certain, what evidence supports trusting it? UCI's Center for Machine Learning explicitly welcomes the public to its seminar series. Choose this for research on measuring uncertainty rather than treating fluent output as calibrated confidence.","region":"OC","starred":false,"tags":["AI builders","Research"]},{"title":"UCI: Statistical Attribute Alignment for Black-Box Generative AI","url":"https://ics.uci.edu/event/statistical-attribute-alignment-for-black-box-generative-ai/","meta":"Thursday, November 12 · 4:00–5:00 p.m. PST · Irvine · Donald Bren Hall 6011","description":"Princeton's Jason Klusowski studies how to align synthetic-data attributes when a generative model is available only through queries. The research uses batch sampling and examines asymptotically optimal model-query costs. This is a statistics and learning-theory session about controlling generated distributions without access to model internals, not a fine-tuning tutorial. Meet at UCI's Donald Bren Hall, Room 6011.","region":"OC","starred":false,"tags":["AI builders","Research"]},{"title":"Healthcare CTO: SaaS and AI Integration in Hospitals","url":"https://luma.com/ctogold","meta":"Thursday, November 12 · 5:00–7:00 p.m. PST · Irvine · $125 · Ticket and approval required","description":"Rady Children's Health CTO Adam Gold discusses evaluating, integrating, and governing SaaS and AI in hospital environments. The moderated conversation starts at 5:30 p.m., with audience questions at 6:15. University Lab Partners hosts at 5270 California Avenue, Suite 300, above UCI Cove. Parking is free. Apply for admission; a ticket request alone does not establish entry. Attendance includes the organizer's photography and recording consent.","region":"OC","starred":false,"tags":["AI builders"]},{"title":"Friends of Figma: Fall UX Case Study Showcase","url":"https://www.meetup.com/friends-of-figma-irvine-ux-design-group/events/317013797/","meta":"Thursday, November 12 · 6:00–9:00 p.m. PST · Irvine · Free · RSVP open","description":"Nico Arce of PACSUN compares fintech and commerce UX; Shane Matthews of Turion Space examines design in engineering decisions; Gabriel Guevara of City National Bank discusses institutional constraints. Presentations start at 6:35 p.m., with shared questions at 8:05. Meet at Irvine Ranch Water District, 15600 Sand Canyon Avenue, in the meeting room next to MemorialCare Breast Center. The focus is concrete project decisions, not a generic design mixer.","region":"OC","starred":false,"tags":["AI builders"]},{"title":"UCI: 3D-Printed Ion Traps for Quantum Information Processing","url":"https://engineering.uci.edu/news/events/index.php#event-details/8786b4ab-d307-408b-a70d-c6a5acc17e90","meta":"Friday, November 13 · 9:00–10:20 a.m. PST · Irvine · McDonnell Douglas Engineering Auditorium","description":"Berkeley's Hartmut Häffner presents micro ion traps made through two-photon-polymerization fabrication. The research covers calcium-ion confinement and coherent optical-qubit operations after Doppler cooling, connecting fabrication methods with scalable quantum information processing and precision measurement. Choose this for a hardware-oriented quantum research seminar. The physical meeting is at UCI's McDonnell Douglas Engineering Auditorium.","region":"OC","starred":false,"tags":["Research"]},{"title":"UCI: Avi Wigderson on the Value of Errors in Proofs","url":"https://ics.uci.edu/event/the-value-of-errors-in-proofs-a-fascinating-journey-from-turings-1936-r-re-to-the-2020-breakthrough-of-mip-re/","meta":"Friday, November 13 · 11:00 a.m.–Noon PST · Irvine · Calit2 Auditorium","description":"Avi Wigderson traces classical and modern definitions of proof, showing how interaction, randomness, and errors lead to surprising computational power. The journey connects Turing's work to the 2020 MIP*=RE breakthrough and its consequences for complexity theory, mathematics, and physics. UCI's announcement explicitly says no special mathematical background is required. Choose this for foundational computer science explained through the changing notion of a proof.","region":"OC","starred":false,"tags":["AI builders"]},{"title":"How Do You Get Funded? Fundraising Q&A Town Hall","url":"https://luma.com/ticket500-828q","meta":"Friday, November 13 · 6:00–8:00 p.m. PST · Newport Beach · Free · Registration open","description":"Brandon Kim of Marginal Ventures, Nathan Biles of KYE Ventures, Woody Butler of VC Lab, and Don DiCostanzo answer fundraising questions at The Ticket 500, 2807 Villa Way. Curated opening questions lead into audience-submitted and upvoted questions. Bring a concrete financing question rather than expecting an individual investor pitch slot. The standard ticket is free and does not require approval.","region":"OC","starred":false,"tags":["AI builders"]},{"title":"Caltech: The Quest for Representational Universals","url":"https://www.caltech.edu/campus-life-events/calendar/caltech-ai-colloquium-3","meta":"Tuesday, November 10 · 4:00–5:00 p.m. PST · Pasadena · Caltech, Annenberg 105","description":"MIT's Phillip Isola examines common structures that emerge in learned representations. One result aligns vision and language embeddings up to rotation without paired data; another finds nearby solutions to downstream tasks in the weight neighborhoods of large models. The research asks whether increasingly large neural networks converge on simpler, more universal geometries. Choose this for a technical account of representation learning rather than an introduction to AI tools.","region":"LA","starred":false,"tags":["AI builders","Research"]},{"title":"UCLA: AI Agents for Recruiting Workflows","url":"https://luma.com/57bk5206","meta":"Tuesday, November 10 · 7:00–8:00 p.m. PST · Westwood · Free · Registration open · Bring a laptop","description":"Build AI-assisted workflows for organizing job applications and preparing for interviews with UCLA's Claude Builder Club, UBS, and UPE. The student-oriented workshop requires no coding or AI background and includes Anthropic API credits and temporary Pro access. Meet in the Mong Learning Center, Engineering VI, 404 Westwood Plaza. Campus visitors should confirm access. This upcoming occurrence has been rechecked since its inclusion in the previous edition.","region":"LA","starred":false,"tags":["AI builders","Hands-on"]},{"title":"Beyond the Hype: AI in the Real World","url":"https://luma.com/lzo53vee","meta":"Wednesday, November 11 · 6:30–9:30 p.m. PST · Glendale · Free · Approval required","description":"Diana Agdashian moderates practitioners using AI in clinical trials, design, filmmaking, and legal operations. Speakers include Garen Karaguezian, Gregory Beylerian, Armen Karaoghlanian, Mike Dermendjian, and Mariam Harutyunyan. The cross-industry discussion focuses on adoption in actual work rather than model announcements. Hero House @ HyeRise hosts at 326 Mira Loma Avenue. Request admission before traveling; the host must approve your registration.","region":"LA","starred":false,"tags":["AI builders","Hands-on"]},{"title":"LA TechConnect: AI-Native Product and Engineering","url":"https://luma.com/c2o7manz","meta":"Thursday, November 12 · From 8:15 a.m. PST · Westwood · $199 · Director level and above · Approval required","description":"Dan Gill, Cassie Campbell, and other leaders discuss AI-native teams, software delivery, and organizational change, followed by a hands-on workshop whose topic attendees choose. UCLA Faculty Club hosts at 480 Charles E. Young Drive East; breakfast and lunch are included, parking is $16 separately. Register with title and company, and bring a laptop. The ticket header ends at 4:30 p.m.; the logistics text says 5:00 p.m. Confirm your departure plan with the host.","region":"LA","starred":false,"tags":["AI builders","Hands-on"]},{"title":"AI Cafe: IP Ownership and Diligence for AI Founders","url":"https://luma.com/AICafeNov12","meta":"Thursday, November 12 · 8:45–10:30 a.m. PST; talk at 9:30 · Venice · Free standard ticket · Registration open","description":"Nuzayra Haque-Shah explains intellectual-property ownership, data privacy, trade secrets, and contract risks for companies building with AI. Expect practical questions to ask about vendor agreements, customer commitments, and investor diligence. The KINN hosts at 150 Horizon Avenue. The standard event ticket is public; the space closes to the public at 11:00 a.m. Separate office hours starting at 11:15 are members-only, not included with public attendance.","region":"LA","starred":false,"tags":["AI builders","Founders"]},{"title":"UCLA: Networks for AI and the Sacred Cows of the Internet","url":"https://www.cs.ucla.edu/upcoming-events/rohit-bhat-ucla-marconi-society-distinguished-lecture-nick-mckeown-stanford-university/","meta":"Thursday, November 12 · 4:15–5:15 p.m. PST · Westwood · RSVP requested · Limited first-come walk-in possibility","description":"Nick McKeown questions the protocol layers and assumptions that make networks fragile and difficult to manage, then considers clean-slate designs as networking becomes an AI bottleneck. Meet at UCLA's Connection Lab, Room 3440 Boelter Hall, 420 Westwood Plaza. The RSVP form requires Google sign-in. If reservations are full, the organizer says some walk-in seats may be available: line up outside the lab and ask at check-in. Entry is not guaranteed.","region":"LA","starred":false,"tags":["AI builders"]},{"title":"Claude SMB Workshop: Build a Working Business Workflow","url":"https://luma.com/di7497ft","meta":"Thursday, November 12 · 5:00–8:00 p.m. PST; workshop 5:30–7:30 · Manhattan Beach · Free · Approval required","description":"Looper Systems helps business owners connect Claude to existing tools and work through real tasks such as lead follow-up, proposals, invoices, or a weekly operations brief. Bring a laptop, charger, and one task to build with help in the room. No engineering background is required. Unità hosts at 516 North Sepulveda Boulevard. Apply with your business email; the session includes practical AI limitations and checks, not just tool demonstrations.","region":"LA","starred":false,"tags":["AI builders","Founders"]},{"title":"Jewel City Hacks 6.0","url":"https://luma.com/jewelcityhacks6","meta":"Saturday, November 14 · 8:00 a.m.–8:00 p.m. PST · Glendale · Free · Approval and signed consent required","description":"Prototype technology for local communities at Glendale Community College, 1500 North Verdugo Road. The day includes AI/software, hardware/robotics, and XR workshops, mentor help, and a demo expo after the 6:00 p.m. submission deadline. General admission welcomes participants beyond Glendale; apply for an on-site place and check in at the San Gabriel courtyard. Ages 14 and up; under-18s need guardian consent and accompanied check-in/out. Meals are included.","region":"LA","starred":true,"tags":["AI builders","Hands-on"]},{"title":"Build Day with Live Models","url":"https://luma.com/odbli7ir","meta":"Saturday, November 14 · 10:00 a.m.–7:00 p.m. PST · Los Angeles · Free · Approval required · Address after registration","description":"Visko, Google, and Reactor host a working build day with access to live-model APIs, developer support, and project prizes. Bring a project or use the day to explore what an application can do with the supplied models and tools. The program is in person, but the exact address is withheld until registration. Apply first and wait for confirmed admission and directions rather than heading to a presumed Google office.","region":"LA","starred":false,"tags":["AI builders","Hands-on"]},{"title":"Life Summit: Clinical AI from Evaluation to Deployment","url":"https://luma.com/lifesummit26","meta":"Saturday, November 14 · 10:00 a.m.–7:00 p.m. PST; check-in at 9:00 · Culver City · General admission $100 through November 13","description":"AI LA brings clinical AI evaluation, patient-facing systems, implementation, and safety to BioscienceLA, 4130 Overland Avenue. Speakers include Thomas Kingsley, Noura Daadaa, Polina Durneva, and David Feinberg. Talks run until 5:00 p.m., followed by a reception. General admission rises to $125 on the day; the $25 student/teacher and $50 member tiers require eligibility and approval. The earlier $60 general-admission offer has expired.","region":"LA","starred":false,"tags":["AI builders","Hands-on"]},{"title":"Autonomous Vehicle RC: DonkeyCar Builders","url":"https://www.meetup.com/roboticsclub/events/315445822/","meta":"Monday, November 9 · 6:00–8:00 p.m. PST · San Diego · Free · RSVP open","description":"Build and troubleshoot open-source autonomous RC cars using DonkeyCar and convolutional neural networks, with experienced builders helping attendees' kits and projects. Meet at Coronado Brewing's tasting room, 1205 Knoxville Street, and bring your kit or parts if you want hands-on help. Beginners are welcome. This is the same gathering cross-listed by Fab Lab, not a second event; its active attendance option was rechecked for this edition.","region":"SD","starred":false,"tags":["Hands-on"]},{"title":"Cheers Oceaneers: Ocean Energy to Embodied Intelligence","url":"https://events.vtools.ieee.org/m/591401","meta":"Wednesday, November 11 · From 5:30 p.m. PST; presentation at 6:20 · San Diego · No admission charge · RSVP appreciated","description":"Rowdy Malchow II connects compact wave-energy converters with human-demonstration training for humanoid robots, including a live humanoid demonstration. Quantum Brewing hosts at 5375 Kearny Villa Road, Suite 116. Everyone is welcome and no ticket is required; the hosts ask attendees to buy a drink. IEEE lists an 8:30 p.m. finish, while Meetup says 7:30; IEEE's agenda puts open mic around 7:00 and social time from 7:30.","region":"SD","starred":false,"tags":["AI builders","Hands-on"]},{"title":"USD Cyber Law and Risk Symposium","url":"https://www.sandiego.edu/newscenter/97359","meta":"Thursday, November 12 · 8:00 a.m.–6:30 p.m. PST · San Diego · Public registration $195","description":"Explore AI product liability and vulnerabilities, quantum-era data exposure, critical infrastructure, insurance, regulation, and crisis response, including a California Privacy Protection Agency conversation. USD hosts at the Joan B. Kroc Institute for Peace and Justice Theatre, 5998 Alcalá Park. The public registration form is active at $195 and offers up to seven MCLE hours. A $45 student/alumni/.edu rate is advertised, but confirm eligibility and redemption rather than assuming the discount applies.","region":"SD","starred":false,"tags":["AI builders","Security"]},{"title":"Co-Packaged Optics with Silicon Photonics","url":"https://events.vtools.ieee.org/m/580003","meta":"Thursday, November 12 · 4:00–6:00 p.m. PST · San Diego · No admission charge · Register by November 10 at 3:00 p.m.","description":"John Lau covers photonic/electronic integration, optical transceivers, co-packaged optics, and packaging choices that affect data-center power, latency, and performance. The lecture runs 4:30–6:00 p.m. at Qualcomm Building Q Auditorium, 6455 Lusk Boulevard. Register through IEEE vTools before Tuesday's deadline; its account and guest-registration routes are distinct from simply adding the event to your calendar. This is a technical hardware talk, not a product launch.","region":"SD","starred":false,"tags":["Hands-on","Research"]},{"title":"AICamp and Google: Agentic AI Builder Lab","url":"https://www.aicamp.ai/event/eventdetails/W2026111217","meta":"Thursday, November 12 · From 5:30 p.m. PST · San Diego · Free · AICamp account and RSVP required","description":"Logan Hennessy and Annie Wang guide a Cloud Shell build of asynchronous agents with tool calls, persistent state, multi-step orchestration, and recovery from failures. Google hosts at 6420 Sequence Drive. Bring a charged laptop and basic coding skills; the lab runs 6:30–8:00 p.m. The calendar ends at 8:00, while the agenda continues demos until 8:30. Final availability is visible only after AICamp login; a disabled Meetup RSVP is not a reservation or proof of sellout.","region":"SD","starred":false,"tags":["AI builders","Hands-on"]},{"title":"ISC2 San Diego: Computer and Network Security","url":"https://isc2-san-diego-chapter.org/","meta":"Thursday, November 12 · 6:00–8:00 p.m. PST · San Diego · Free · Everyone welcome · In-person meeting","description":"Joe Bermudez discusses unified asset inventory and continuous visibility into exposures and cyber risk, drawing on architecture and cybersecurity-engineering work supporting DISA. Meet at USD's Belanich Engineering Center, Room BEC-318, 4998 Alcalá Park. The chapter welcomes everyone to its no-fee meetings. Its linked attendance form is for CPE credit and asks for a phrase announced at the end; it is not an advance-admission requirement. A remote option is separate.","region":"SD","starred":false,"tags":["Security"]},{"title":"San Diego Rust: Back in Person","url":"https://eventship.com/event/san-diego-rust-november-meetup-back-in-person","meta":"Thursday, November 12 · 7:00–9:00 p.m. PST · San Diego · Free · Registration open","description":"Join a Rust-focused project and learning roundtable, language updates, beginner help, and questions at Ansir, 7670 Opportunity Road, Suite 255. All experience levels are welcome. Formal talks are still to be announced, so choose this for peer engineering discussion rather than a promised speaker session. Park in the back row and scan the venue's QR code for three-hour parking validation.","region":"SD","starred":false,"tags":[]},{"title":"San Diego CyberCon: AI Security and Secure Development","url":"https://sdcybercon.org/","meta":"Friday, November 13 · 8:00 a.m.–6:00 p.m. PST · San Diego · General tickets $150–$195 · Government ID required","description":"The Deep Tech track includes Faan Rossouw's 10:00 a.m. security-agent lab and Jim Manico's 1:30 p.m. session on secure Claude Code/Codex development, permissions, sandboxing, hooks, and independent review. Marriott Marquis hosts at 333 West Harbor Drive. General tickets are $150 single-track without lunch, $175 with lunch, or $195 full access with lunch. Lower student/military tiers require proof. Admission is a nonrefundable donation; the conference offers up to nine CPE hours.","region":"SD","starred":false,"tags":["AI builders","Security"]},{"title":"UC San Diego Horizon Open House","url":"https://luma.com/bdhlbw4r","meta":"Friday, November 13 · From 10:00 a.m. PST · La Jolla · Free Community ticket · Registration open","description":"Meet university commercialization staff and advisors covering open source, research-to-market strategy, startup support, and legal questions. Named participants include Karla Padilla, Rupak Doshi, Stephen Flynn, Jeff Schmidt, and Jim Krenn. The university publishes DIB Room 208, 9510 Innovation Lane, despite Luma's hidden address. Luma ends at 2:00 p.m.; the university says 1:00. Office-hour booking links go to registrants, but an event ticket does not book a consultation. Session times may change.","region":"SD","starred":false,"tags":["Founders","Research"]},{"title":"From Build to Buy-In: Presenting Your AI Project","url":"https://eventship.com/event/from-build-to-buy-in-presenting-your-ai-project-to-decision-makers","meta":"Saturday, November 14 · 10:00 a.m.–Noon PST; workshop at 10:30 · San Diego · $31.14 including fee · Registration open","description":"Matthew Zimmer and communication coach Autumn Garrett help builders explain an AI project's problem, system, constraints, and business value. Paired practice, feedback, and live coaching develop a three-minute pitch for decision-makers. Bring your own project or use the provided samples at Ansir, 7670 Opportunity Road, Suite 255. Students and professionals are welcome. The current ticket is $29 plus a $2.14 fee, nonrefundable; the $19 early bird has ended.","region":"SD","starred":false,"tags":["AI builders","Founders"]},{"title":"San Diego AI Studio Sharathon #3","url":"https://luma.com/5y5ju7ud","meta":"Sunday, November 15 · 4:30–8:30 p.m. PST · La Mesa · Free · Registration open","description":"Eight builders open up working agents, memory and RAG systems, automations, and software factories in seven-minute demos followed by questions. Brew Coffee Spot hosts at 6101 Lake Murray Boulevard; demo rounds start at 5:30 and around 6:35, with peer show-and-tell afterward. Watching is welcome and laptops are optional. Apply for a stage slot by November 11; presenters hear back November 13. Audience registration does not reserve a demo slot. Food and parking are free.","region":"SD","starred":true,"tags":["AI builders","Hands-on"]}],"counts":{"Drive":0,"OC":13,"LA":10,"SD":11,"Later":0},"signup":{"mode":"live","endpoint":"https://socal-tech-signal-signup.vivekhaldar-02231129.workers.dev/subscribe"}};
+    const regionNames = { Drive: 'Worth the drive', OC: 'Orange County', LA: 'Los Angeles', SD: 'San Diego', Later: 'Later on the radar' };
+    const regionOrder = ['Drive', 'OC', 'LA', 'SD', 'Later'];
+    let activeFilter = 'All';
+
+    const escapeHtml = (value = '') => value.replace(/[&<>"]/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[character]);
+
+    document.getElementById('cadence').textContent = issue.cadence;
+    document.getElementById('dek').textContent = issue.dek;
+    document.getElementById('audience').textContent = issue.audience;
+    document.getElementById('issue-date').textContent = issue.issueDate;
+    document.getElementById('coverage').textContent = issue.coverage;
+    document.getElementById('about-copy').textContent = `${issue.publication} is an independent weekly edit of in-person AI, engineering, security, and founder events for people building and operating technology across Southern California.`;
+    document.getElementById('footer-date').textContent = issue.issueDate;
+
+    const subscribeForm = document.getElementById('subscribe-form');
+    const subscribeEmail = document.getElementById('subscribe-email');
+    const subscribeButton = document.getElementById('subscribe-button');
+    const subscribeStatus = document.getElementById('subscribe-status');
+    const signupMode = issue.signup?.mode || 'disabled';
+    const signupEndpoint = issue.signup?.endpoint || '';
+
+    const setSubscribeStatus = (message, state = '') => {
+      subscribeStatus.textContent = message;
+      subscribeStatus.dataset.state = state;
+    };
+
+    const subscribeRequest = async (payload) => {
+      if (signupMode === 'mock') {
+        await new Promise((resolve) => window.setTimeout(resolve, 550));
+        return { ok: true };
+      }
+      if (signupMode !== 'live' || !signupEndpoint) {
+        return { ok: false, status: 503, message: 'Email signup is opening soon.' };
+      }
+
+      const controller = new AbortController();
+      const timeout = window.setTimeout(() => controller.abort(), 10000);
+      try {
+        const response = await fetch(signupEndpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+          signal: controller.signal,
+        });
+        const body = await response.json().catch(() => ({}));
+        return { ok: response.ok, status: response.status, message: body.message };
+      } catch (error) {
+        return {
+          ok: false,
+          status: 0,
+          message: error.name === 'AbortError'
+            ? 'The request timed out. Try again.'
+            : 'Couldn’t start your signup. Try again in a moment.',
+        };
+      } finally {
+        window.clearTimeout(timeout);
+      }
+    };
+
+    subscribeForm.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      subscribeEmail.setAttribute('aria-invalid', 'false');
+      setSubscribeStatus('');
+
+      if (!subscribeEmail.validity.valid) {
+        subscribeEmail.setAttribute('aria-invalid', 'true');
+        setSubscribeStatus('Enter a valid email address.', 'error');
+        subscribeEmail.focus();
+        return;
+      }
+
+      subscribeButton.disabled = true;
+      subscribeButton.textContent = 'Sending…';
+      const result = await subscribeRequest({
+        email: subscribeEmail.value.trim(),
+        website: subscribeForm.elements.website.value,
+      });
+
+      if (result.ok) {
+        subscribeForm.reset();
+        setSubscribeStatus('Check your inbox to confirm.', 'success');
+      } else {
+        const message = result.status === 429
+          ? 'Too many attempts. Try again in a few minutes.'
+          : result.message || 'Couldn’t start your signup. Try again in a moment.';
+        setSubscribeStatus(message, 'error');
+      }
+
+      subscribeButton.disabled = false;
+      subscribeButton.textContent = 'Send me the signal';
+    });
+
+    document.getElementById('features').innerHTML = issue.featured.map((event, index) => `
+      <a class="feature" style="--i:${index}" data-number="0${index + 1}" href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">
+        <div>
+          <p class="eyebrow">Editor’s pick 0${index + 1}</p>
+          <h3>${escapeHtml(event.title)}</h3>
+          <p class="feature-meta">${escapeHtml(event.meta)}</p>
+        </div>
+        <div class="feature-foot">
+          <p class="feature-description">${escapeHtml(event.description)}</p>
+          <span class="feature-arrow" aria-hidden="true">↗</span>
+        </div>
+      </a>
+    `).join('');
+
+    function renderDirectory() {
+      const visibleRegions = activeFilter === 'All' ? regionOrder : [activeFilter];
+      const visibleEvents = issue.events.filter((event) => activeFilter === 'All' || event.region === activeFilter);
+      document.getElementById('directory-count').textContent = `${visibleEvents.length} ${visibleEvents.length === 1 ? 'event' : 'events'} in this view`;
+      document.getElementById('empty').style.display = visibleEvents.length ? 'none' : 'block';
+      document.getElementById('directory').innerHTML = visibleRegions.map((region) => {
+        const events = issue.events.filter((event) => event.region === region);
+        if (!events.length) return '';
+        return `
+          <section class="region-group" data-region="${region}" aria-labelledby="region-${region}">
+            <div class="region-head">
+              <h3 id="region-${region}">${regionNames[region]}</h3>
+              <span class="region-count">${events.length}</span>
+            </div>
+            <ol class="event-list">
+              ${events.map((event) => `
+                <li class="event">
+                  <a class="event-link" href="${escapeHtml(event.url)}" target="_blank" rel="noopener noreferrer">
+                    <div>
+                      <p class="event-meta">${escapeHtml(event.meta)}</p>
+                      <h4>${event.starred ? '<span aria-label="Editor’s pick">★ </span>' : ''}${escapeHtml(event.title)}</h4>
+                      <p class="event-description">${escapeHtml(event.description)}</p>
+                    </div>
+                    <div class="event-side">
+                      <div class="tags">${event.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div>
+                      <span class="event-arrow" aria-hidden="true">↗</span>
+                    </div>
+                  </a>
+                </li>
+              `).join('')}
+            </ol>
+          </section>
+        `;
+      }).join('');
+    }
+
+    document.querySelectorAll('.filter').forEach((button) => {
+      button.addEventListener('click', () => {
+        activeFilter = button.dataset.filter;
+        document.querySelectorAll('.filter').forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+        renderDirectory();
+        document.getElementById('directory-title').scrollIntoView({ block: 'start', behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+      });
+    });
+
+    renderDirectory();
+  </script>
+</body>
+</html>
