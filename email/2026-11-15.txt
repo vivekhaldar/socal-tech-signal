@@ -1,0 +1,205 @@
+SOCAL TECH SIGNAL — November 15, 2026
+Monday, November 16 through Sunday, November 22
+
+View this issue on the web: https://socaltech.live/
+
+THREE TO CIRCLE
+
+EDITOR'S PICK 01: Irvine AI: Self-Correcting Code Agents and X-Ray Models
+Thursday, November 19 · 5:30–7:30 p.m. PST; check-in from 5:00 · Irvine · Free · RSVP open
+Team Artemis, PlanetDDS's AI-first innovation group, presents AI-assisted software development, agents that fix their own code, and a model that judges dental X-ray quality. Rahul Khot and Marcus Hobbs host at iQ Smart Center, 17872 Gillette, Suite 120. Technical sessions run 5:30–6:30, followed by food, beer, and conversation. Bring questions about actual engineering workflows; curious software engineers and technical leads are welcome.
+https://www.meetup.com/irvine-ai/events/317400653/
+
+EDITOR'S PICK 02: LA DevOps: LLM Inference and Multi-Avatar Agents
+Thursday, November 19 · 6:00–9:00 p.m. PST · Santa Monica · Free · Registration open
+Hrittik Roy digs into prefill/decode, KV caches, batching, GPU scheduling, and disaggregated inference with vLLM and NVIDIA Dynamo at 6:45 p.m. At 7:15, Arsen Yeremin demonstrates multi-avatar agents and Gaussian-splat characters running on a five-GPU Kubernetes cluster. O'Brien's Irish Pub hosts at 2226 Wilshire Boulevard. Technical talks finish around 8:00, followed by conversation. Choose this for implementation details and live systems rather than agent slideware.
+https://luma.com/lf7nprdm
+
+EDITOR'S PICK 03: DEVx Paper Club: Weight-Space Programming
+Thursday, November 19 · 7:00–9:00 p.m. PST · San Diego · Free · Registration open
+Matthew Love discusses MIT research on using LLMs to read, repair, and write neural-network weights directly, without gradient descent. The paper club welcomes questions and participants of all backgrounds; the focus is understanding the research, not a product demonstration. Meet at 11988 El Camino Real in the seminar space immediately off the lobby. Choose this for a technical discussion of what it would mean to program a model through its weights.
+https://luma.com/devx-paper-club-nov-19-2026
+
+ORANGE COUNTY (11)
+
+Semi-Ready OC: Semiconductor Workforce Working Session
+Tuesday, November 17 · 8:00–10:00 a.m. PST · Orange · Free · Registration open
+Semiconductor and advanced-manufacturing employers meet university, community-college, and workforce partners to identify hiring needs and coordinate training, internships, and apprenticeships. RSCC Training Institute representatives explain Employment Training Panel funding for upskilling. Meet at 407 East Chapman Avenue; parking is available behind Orange Library or at City Hall across the street. This is an industry workforce working session, not a chip-design lecture.
+https://luma.com/7lv3xfzc
+
+Grand Rounds Pitch Championship
+Wednesday, November 18 · 1:30–4:30 p.m. PST; program at 2:00 · Newport Beach · Free · Register by 1:00 p.m. that day
+Five medical-innovation finalists compete for $40,000 after a ten-week LaunchPad SBDC accelerator covering investor readiness, regulatory narratives, fundraising materials, and go-to-market work. Watch their pitches at Regal Edwards Big Newport, 300 Newport Center Drive. General-admission tickets are for the audience, not applications to compete. Ticket sales close before the 1:30 p.m. doors, so reserve your place before traveling.
+https://www.eventbrite.com/e/grand-rounds-pitch-championship-tickets-2002481834071
+
+Ticket 500: Pitch Practice Night
+Wednesday, November 18 · 6:00–8:00 p.m. PST · Newport Beach · Free audience admission · Registration open
+Practice the story, ask, and delivery of a founder pitch with practical audience feedback at Ticket 500, 2807 Villa Way. This is a low-stakes rehearsal, explicitly not an investor night. Audience registration is open; pitching requires the separate application linked by the organizer, and nonmembers may apply. A practice slot does not automatically qualify a founder for the group's member-only investor nights.
+https://luma.com/ticket500-bmsa
+
+OC ACM: The LLM Paradigm Shift
+Wednesday, November 18 · 6:30–8:30 p.m. PST; talk at 7:00 · Irvine · Free · Group join-request approval required
+Johnny Lin, Principal AI Scientist and Architect at Constellation Energy, traces the move from symbolic AI through word vectors and sequence models to Transformer attention, GPU scaling, instruction tuning, and tool execution. Meet at Knobbe Martens, 2040 Main Street, 14th floor. IEEE OC chapters co-sponsor the program. Parking-validation passes are distributed in the meeting room; request group membership in advance rather than treating the listing as an instant RSVP.
+https://www.meetup.com/acm-oc/events/316362954/
+
+UCI: Building Proactive Agents That Augment Human Work
+Thursday, November 19 · 11:00 a.m.–Noon PST · Irvine · Donald Bren Hall 4011 · Seminar series welcomes the public
+Stanford's Diyi Yang connects a workforce audit and analysis of nearly 250,000 human–AI conversations with proactive assistance. General User Models infer knowledge, preferences, and context from computer interactions, while Next Action Prediction reasons over multimodal histories. UCI's Center for Machine Learning explicitly welcomes the public to its seminars. Choose this for research on when and how agents should intervene in human work.
+https://cml.ics.uci.edu/seminars/2026-11-19-diyi-yang/
+
+UCI: Polymer Microstructure and Nucleic-Acid Delivery
+Thursday, November 19 · 2:00–3:00 p.m. PST · Irvine · McDonnell Douglas Engineering Auditorium
+Explore how gradient-copolymer microstructure affects binding, stability, delivery, and editing efficiency for plasmid DNA and CRISPR/Cas9 ribonucleoproteins. A second portion examines asymmetric flow field-flow fractionation as an analytical and preparative technique. This specialist materials and bioengineering seminar links molecular design to delivery performance. Meet at UCI's McDonnell Douglas Engineering Auditorium.
+https://engineering.uci.edu/news/events/index.php#event-details/ec387aa6-10e7-4424-a473-74838a1e8784
+
+UCI: Rating Games with Strength-Dependent Tie Probabilities
+Thursday, November 19 · 4:00–5:00 p.m. PST · Irvine · Donald Bren Hall 6011
+Harvard statistician Mark Glickman models a draw as a third outcome whose probability depends on competitor strength, rather than treating it as half a win and half a loss. The talk covers Bayesian dynamic models, approximate Newton–Raphson posterior updates, and evaluation on correspondence-chess data. Choose this for statistical ideas relevant to rankings, matchmaking, and game systems. Meet in UCI's Donald Bren Hall 6011.
+https://ics.uci.edu/event/rating-competitors-in-games-with-strength-dependent-tie-probabilities/
+
+★ Irvine AI: Self-Correcting Code Agents and X-Ray Models
+Thursday, November 19 · 5:30–7:30 p.m. PST; check-in from 5:00 · Irvine · Free · RSVP open
+Team Artemis, PlanetDDS's AI-first innovation group, presents AI-assisted software development, agents that fix their own code, and a model that judges dental X-ray quality. Rahul Khot and Marcus Hobbs host at iQ Smart Center, 17872 Gillette, Suite 120. Technical sessions run 5:30–6:30, followed by food, beer, and conversation. Bring questions about actual engineering workflows; curious software engineers and technical leads are welcome.
+https://www.meetup.com/irvine-ai/events/317400653/
+
+UCI: LLM-Based Auto-Formalization for Trustworthy Planning
+Friday, November 20 · 11:00 a.m.–Noon PST · Irvine · Donald Bren Hall 6011
+Drexel's Li “Harry” Zhang uses LLMs to formalize environments and goals into languages such as PDDL, then delegates planning to deterministic solvers. The research examines evaluation under constraints, inference-time methods, and iterative or multi-agent planning with partial observability. Meet in UCI's Donald Bren Hall 6011. Choose this for a precise division of responsibilities between language models and formal planning systems.
+https://ics.uci.edu/event/llm-based-auto-formalization-for-trustworthy-planning/
+
+UCI: Materials and Models for Biopurification
+Friday, November 20 · 11:00 a.m.–Noon PST · Irvine · Interdisciplinary Science and Engineering Building 1010
+Nick Vecchiarello of the University of Virginia connects peptide-based mixed-mode chromatography resins, high-throughput screening, and mechanistic models of thermodynamics, kinetics, and transport. The goal is adaptable purification workflows and in-silico process simulation for emerging biologics. This is a specialist biomanufacturing alternative to the simultaneous CS planning talk, not a two-stop itinerary. Meet in UCI ISEB 1010.
+https://engineering.uci.edu/news/events/index.php#event-details/5dd1489d-1f5e-4e79-9a92-0c21cb3314fe
+
+UCI: The DARPA Tutor and Teaching Complex Skills
+Friday, November 20 · 1:00–2:00 p.m. PST · Irvine · Donald Bren Hall 6011 · In-person option
+Richard Burton describes how expert one-to-one teaching was encoded into a sixteen-week Navy IT and networking tutor. The session covers program design and evaluation; the organizer reports outcomes comparable to personnel with ten years of experience. Choose this for the construction and assessment of systems that teach complex skills. The physical session meets in UCI's Donald Bren Hall 6011; a Zoom option is separate.
+https://ics.uci.edu/event/the-darpa-tutor-using-computers-to-teach-complex-skills/
+
+LOS ANGELES (13)
+
+Caltech: Pulsar Navigation Short Course
+Monday, November 16 · 8:45 a.m.–12:30 p.m. PST; coffee at 8:15 · Pasadena · No registration · First-come seating
+Learn how cosmic clocks become navigation instruments. Maura McLaughlin, Zaven Arzoumanian, Tomas Martin-Mur, and Suneel Sheikh cover pulsar timing, instrumentation, Kalman filters, sensor fusion, and navigation demonstrations. The public short course meets in Caltech's Cahill Hameetman Auditorium, not the Hameetman student center. Researchers and students are invited; this morning program is distinct from the separate study workshop.
+https://www.kiss.caltech.edu/short-course/pulsar-pnt/
+
+Claude SMB Workshop: Build a Business Workflow
+Monday, November 16 · 4:00–7:00 p.m. PST; workshop 4:30–6:30 · Manhattan Beach · Free · Approval required
+Looper Systems helps business owners build a working workflow with Claude and their existing tools. Bring a laptop, charger, and one real task: lead follow-up, proposals, invoicing, or an operations brief. The workshop includes practical limitations and human approval before consequential actions. Apply individually with a business email. Meet at Manhattan Beach Library, 1320 Highland Avenue; the library does not sponsor or endorse the program.
+https://luma.com/vejcunp0
+
+USC New Space Economy Forum
+Tuesday, November 17 · 9:00 a.m.–6:30 p.m. PST · Los Angeles · USC Ginsburg Hall · Registration form open
+Explore propulsion, remote sensing, autonomous spacecraft, space computing, and the financing needed to turn research into deployed systems. The program includes A.C. Charania's keynote, Steve Crago's spotlight, doctoral posters, and student teams. Ginsburg Hall hosts at 1031 Downey Way. Use the university's linked registration form to select attendance and reception options; the published program does not state an admission price.
+https://viterbischool.usc.edu/new-space-economy-forum
+
+ISSA LA: Operating Enterprise AI at Scale
+Tuesday, November 17 · 5:30–8:30 p.m. PST · Culver City · Nonmembers $44.52 · Registration open
+Chris Falloon, Jeff Skeldon, and Dan Farmer discuss cybersecurity investment signals and the governance and controls needed as enterprise AI adoption grows. Meet in the Veterans Memorial Building's Rotunda Room, 4117 Overland Avenue. Buffet dinner and two CPE credits are included. Current ticket totals are $44.52 for nonmembers, $33.85 for members, and $21.05 for eligible full-time students or faculty; the lowest advertised price is not general admission.
+https://issala.org/event/november-17-2026-the-future-of-cybersecurity-operating-enterprise-ai-at-scale/
+
+Agentic LA: Models, Data Science and Enterprise Swarms
+Tuesday, November 17 · 6:00–9:00 p.m. PST · Culver City · Free · Approval required
+Tim Shea discusses agentic data science, Afzal Jasani covers model selection, and Ryan Marcoux examines enterprise agent swarms. Raj Singh and Katie Wilson add perspectives on human purpose and leadership, followed by a moderated panel and questions. Culver Theater hosts at 9500 Culver Boulevard. Apply and wait for approval before traveling. The current organizer page confirms Tuesday, November 17, superseding older Thursday discovery listings.
+https://luma.com/omlr3u62
+
+Caltech: Material Platforms for Neuromorphic Computing
+Wednesday, November 18 · 4:15–5:15 p.m. PST · Pasadena · Caltech, Noyes 147
+Alex Frano explores how trainable material responses can be co-designed with algorithms, connecting hydrogenated nickelates and vanadium dioxide with neuromorphic computing. The question is not merely how to mimic a neuron in software, but how a physical system's behavior can participate in computation. Refreshments begin at 4:00 p.m.; the research seminar meets in Noyes 147.
+https://www.caltech.edu/campus-life-events/calendar/applied-physics-and-materials-science-seminar-series-3
+
+OWASP LA: Why Incident Response Plans Fail Under Pressure
+Wednesday, November 18 · 5:30–8:30 p.m. PST · Santa Monica · Free · Registration open
+Cassio Goldschmidt examines why an incident-response plan that reads well can fail during a real emergency. The session covers cognitive offloading, pre-authorized responses, role clarity, realistic simulations, and blameless postmortems. Meet at 929 Colorado Avenue. Choose this for concrete ways to reduce the number of decisions responders must improvise under pressure, rather than another checklist of security products.
+https://luma.com/brtxnfte
+
+AI Cafe: From Creative Reference to Campaign
+Thursday, November 19 · 8:45–10:30 a.m. PST; workshop at 9:30 · Venice · Free standard ticket · Registration open
+Karen Manga and Natalie de Groot demonstrate model selection and a live reference-to-campaign workflow for AI-generated images and video. Bring a laptop to follow along; no coding or design experience is required. The KINN hosts at 150 Horizon Avenue. The standard event ticket is available to nonmembers, and the space closes to the public at 11:00 a.m.
+https://luma.com/AICafeNov19
+
+UCLA: AI That Understands Space and Motion
+Thursday, November 19 · Noon–1:45 p.m. PST · Westwood · UCLA, 3400 Boelter Hall
+Achuta Kadambi examines how to lift two-dimensional foundation models into queryable, editable three-dimensional scenes and four-dimensional video. Geometric consistency is central: a plausible image is not yet a coherent world model. The research talk meets in Room 3400 Boelter Hall, 420 Westwood Plaza. Choose this for the connection between visual representations, space, and motion rather than a general image-generation tutorial.
+https://www.cs.ucla.edu/upcoming-events/cs-201-achuta-kadambi-ucla/
+
+Caltech: Human-Centered Robotics
+Thursday, November 19 · Noon–1:00 p.m. PST · Pasadena · Caltech, Annenberg 104
+Sungjoon Choi connects expressive humanoid motion, persona-based interaction, flexible teleoperation, and motion generation. The seminar asks how these components can work together in robots people can interact with naturally. Meet in Annenberg 104. This is a research session about embodied behavior and integration, not a consumer-robot demonstration or a beginner coding workshop.
+https://www.caltech.edu/campus-life-events/calendar/cms-special-seminar-with-prof-sungjoon-choi-1
+
+★ LA DevOps: LLM Inference and Multi-Avatar Agents
+Thursday, November 19 · 6:00–9:00 p.m. PST · Santa Monica · Free · Registration open
+Hrittik Roy digs into prefill/decode, KV caches, batching, GPU scheduling, and disaggregated inference with vLLM and NVIDIA Dynamo at 6:45 p.m. At 7:15, Arsen Yeremin demonstrates multi-avatar agents and Gaussian-splat characters running on a five-GPU Kubernetes cluster. O'Brien's Irish Pub hosts at 2226 Wilshire Boulevard. Technical talks finish around 8:00, followed by conversation. Choose this for implementation details and live systems rather than agent slideware.
+https://luma.com/lf7nprdm
+
+AI Tinkerers LA: Working Demos and Architecture
+Friday, November 20 · 6:00–9:00 p.m. PST; demos until 7:30 · Venice · Free · Screened admission; approval required
+The holiday edition keeps the chapter's technical format: working demos, architecture, context-engineering choices, and candid debugging stories, followed by a celebration. The KINN hosts at 150 Horizon Avenue. Every attendee is screened; apply for audience admission and wait for approval. Proposing a demo is a separate process, and an audience ticket does not reserve a presentation slot.
+https://luma.com/AITinkerersLANov20
+
+AI Design LA: Lightning Talks and Demos
+Saturday, November 21 · 9:30 a.m.–12:30 p.m. PST · Santa Monica · Free · RSVP open
+David Nguyen explores simulated design-feedback panels, Lance Shields presents human/AI website modes and a Claude assistant, and an open-source XYZ Layout Engine separates generative assets from deterministic infographic rendering. A fourth speaker remains to be announced. BLANKSPACES hosts at 3110 Main Street, Building C. Choose this for concrete design-tool experiments and implementation tradeoffs rather than a general design mixer.
+https://www.meetup.com/ai-design-la/events/317190226/
+
+SAN DIEGO (10)
+
+IEEE: From Product-Centric to Customer-Centric Development
+Monday, November 16 · 5:30–7:30 p.m. PST · San Diego · No admission charge · RSVP closes at 10:00 a.m. Monday
+Sean Van Tyne discusses customer needs, pilot programs, and governance in product development. His presentation runs 6:15–7:00 p.m., with introductions and conversation around it. Leucadia Pizza UTC hosts at 7748 Regents Road. Newcomers are welcome, but register through IEEE vTools before the morning cutoff; account and guest routes are available. Buy your own food and drink, and include your own tip.
+https://events.vtools.ieee.org/m/587381
+
+Nucleate Inside AIxBio: Cell and Gene Therapy
+Monday, November 16 · 5:30–9:00 p.m. PST; panel 6:20–7:15 · San Diego · Free · Registration open
+Stephanie Cherqui, Darrell Irvine, Chris Mason, and Don Cleveland discuss computational capsid and promoter design, guide selection, off-target prediction, manufacturing analytics, delivery, regulation, and commercialization. Joya Kitchen hosts at 10275 Science Center Drive, with refreshments and networking after the panel. Registration asks for affiliation, role, LinkedIn information, and media consent; sponsor-sharing consent is a separate choice.
+https://luma.com/nucleate-l7m3
+
+PyData San Diego: Teaching with Marimo Notebooks
+Tuesday, November 17 · 6:00–7:30 p.m. PST · Rancho Bernardo · Free · RSVP open
+Justin Stevens gives a short presentation on teaching data science and machine learning with Marimo notebooks at PyData San Diego's inaugural meetup. Community discussion follows. Meet in the seminar room at Rancho Bernardo Branch Library, 17110 Bernardo Center Drive. Choose this for a focused introduction and meeting local Python/data practitioners; the optional Cork & Craft gathering after 7:30 is separate.
+https://www.meetup.com/pydata-san-diego/events/317186753/
+
+Claude × AI Tinkerers: Physical AI
+Tuesday, November 17 · 6:00–8:00 p.m. PST · San Diego/La Jolla · Free · Approval required · Address after registration
+Inspect working robotics, drone, edge-AI, and computer-vision demos, with code and hardware choices, latency, reliability, and failure cases exposed. Dinner and check-in begin at 6:00; technical demos and questions start around 6:30, followed by discussion at 7:30. The format excludes sales pitches and slide-only presentations. Apply with your work or study details and wait for approval and the exact venue before traveling.
+https://luma.com/claude-imum
+
+UC GIS Week: Humanitarian Map-a-thon
+Wednesday, November 18 · 2:00–4:00 p.m. PST · La Jolla · Free · Visitors welcome; drop-ins permitted
+Contribute to Missing Maps by tracing buildings and roads from satellite imagery for humanitarian response. No prior experience is required; bring a laptop and charger and stay for some or all of the session. Meet in Geisel Library, Classroom 1, 9701 Hopkins Drive. This is practical geospatial work with a public-interest purpose, not an AI research lecture. An optional free RSVP is available.
+https://calendar.ucsd.edu/event/uc-gis-week-mapathon-2026
+
+Arduino Enthusiasts: Low-Power STM32 PCB Project
+Wednesday, November 18 · 7:00–9:00 p.m. PST · National City · Free · RSVP open · Bring the project kit
+Continue a low-power PCB build by programming a WeAct STM32G431CB, with OLED work and low-power modes as time permits. Meet at Steal and Escape, 2602 Transportation Avenue, Suite A, entering through the A|ROYALE WEAR door. This is project-specific embedded development rather than a general hardware social. Bring the kit; free admission does not mean components are supplied.
+https://www.meetup.com/san-diego-hardware-startups-network/events/316970093/
+
+Rady Lean Lecture: Raising Capital and Milestones
+Thursday, November 19 · 5:15–6:30 p.m. PST · La Jolla · Otterson Hall 2S117 / MPR2 · Registration form open
+John Schveibinz connects financing rounds with the milestones that make a startup less risky and more valuable. The lecture covers capital requirements, founder dilution, and timing: how much to raise to reach the next meaningful state of the business. Meet at UCSD's Rady School, Otterson Hall, 10065 Scholars Drive North. The attendee-registration selector is active; the page does not publish a price or unrestricted visitor policy.
+https://events.blackthorn.io/en/6A1uwY6/lean-lecture-raising-capital-and-milestones-lll-5a3gVs2HkYL/overview
+
+OWASP SD: Malware in the MRI — A DICOM Payload Toolkit
+Thursday, November 19 · 6:00–8:00 p.m. PST · San Diego · University of San Diego, BEC-318 · Free · RSVP open
+Sophos Red Team's v3ga examines DICOM/PE polyglots, PACS ingestion, medical-imaging viewer round-trips, malformed parsers, and delivery paths. Attendees receive the payload set used in the technical session. The current listing supplies a detailed abstract despite older indexes saying “TBD.” Follow the organizer's USD directions: its venue label says Loma Hall on Camino San Diego, with the explicit room designation BEC-318.
+https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/312463345/
+
+★ DEVx Paper Club: Weight-Space Programming
+Thursday, November 19 · 7:00–9:00 p.m. PST · San Diego · Free · Registration open
+Matthew Love discusses MIT research on using LLMs to read, repair, and write neural-network weights directly, without gradient descent. The paper club welcomes questions and participants of all backgrounds; the focus is understanding the research, not a product demonstration. Meet at 11988 El Camino Real in the seminar space immediately off the lobby. Choose this for a technical discussion of what it would mean to program a model through its weights.
+https://luma.com/devx-paper-club-nov-19-2026
+
+Direct the Machine: AI Filmmaking Workshop
+Friday, November 20 · 6:30–9:00 p.m. PST · San Diego · $39 FilmNet ticket · Ages 18+
+Alex Guillen leads intent and shot-brief development, controlled still generation, and a one-note-per-take clip workflow, ending with screening and feedback. Expressive Arts SD hosts at 3201 Thorn Street. Bring a laptop signed into ChatGPT and a personal Google account; you use your own credits. The active checkout is $39, not the stale free listing. Refunds are available through 48 hours before the workshop, with transfers afterward.
+https://amplifyai.to/filmnet.html
+
+Full web issue: https://socaltech.live/
+
+SoCal Tech Signal
+Postal address required before launch
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
+Privacy: https://socaltech.live/privacy.html
+Made with love by Vivek Haldar — https://vivekhaldar.com/
