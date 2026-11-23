@@ -1,6 +1,6 @@
 # SoCal Event Source Registry
 
-Last updated: 2026-11-08
+Last updated: 2026-11-22
 
 Use this registry before open-ended discovery. Query every proven source for the coverage window, then search broadly for new sources and events. A source being listed here does not waive canonical event-page verification.
 
@@ -144,6 +144,12 @@ Editorial direction for the September 14 revision: target 10–15 listings each 
 | [UC Riverside Computer Science and Engineering events](https://www1.cs.ucr.edu/events) | Robotics, AI, systems, and computer-science colloquia for “Worth the drive” | The October 30 robotics colloquium has a concrete technical abstract, room, hours, free admission, and a student target audience. Read the individual detail page: text-extraction snapshots of the index can lag the live site. A free university seminar does not establish unrestricted visitor access. |
 
 ## Maintenance
+
+November 22, 2026 OC checks: [UCI Builders Demo Day](https://luma.com/ro3oo9wg) explicitly welcomes the public but still requires approval; free/public is not instant admission. Hacker Fab's current demo-day page has no agenda, so do not transplant its August semiconductor program. Engineering's rendered ISEB 1010 venue overrides an inconsistent appended ICS geocoding token. EECS has a blank November 27 placeholder, not a verified holiday seminar. See [the OC research record](docs/sweeps/2026-11-22-oc-research.md).
+
+November 22, 2026 SD checks: [UCSD CSE's theory schedule](https://cse.ucsd.edu/research/theory-seminar) and [MAE seminars](https://maeweb.ucsd.edu/seminars) surfaced research absent from broad indexes. IEEE's Media over QUIC listing has conflicting end dates and a midnight RSVP cutoff; VibeCraft and SDPy holiday recurrences are not confirmed occurrences. Molley's free RSVP is explicit ticket metadata, but public-visitor eligibility remains unstated. AICamp's working [SD city-query route](https://www.aicamp.ai/event/eventsquery?city=US-San%20Diego) replaces its broken generic route for discovery. See [the SD research record](docs/sweeps/2026-11-22-sd-research.md).
+
+November 22, 2026 LA checks: [Caltech AI Alignment](https://luma.com/e80v7uiw) has a student-focused free e-values talk, and the university calendar independently verifies its room and hours. [UCLA GES](https://luma.com/oth0ouim) publishes the room number in Luma's venue description. OWASP SFV's next meeting is December 8, superseding tentative November 24 discovery copy; OWASP LA's November 23 program is virtual. Clean Architecture Masterclass roundups lack a verifiable organizer/venue/ticket route; Innovation Portal's “LA-AI” is Lower Alabama. For USC, try the [alternate university Viterbi calendar](https://calendar.usc.edu/department/viterbi) when the legacy endpoint blocks access. See [the LA research record](docs/sweeps/2026-11-22-la-research.md).
 
 November 15, 2026 OC checks: [Orange County AI's current first-party calendar](https://www.orangecountyai.com/events) is useful while its old site is a shell. ACM's free event requires approved group membership; Irvine AI's occurrence welcomes curious engineers despite stricter older group copy. Grand Rounds audience sales end before doors. AI Action Room is cancelled despite stale InStock metadata; Morning Prompt has conflicting dates. UCI Engineering requires rendered accessibility/shadow content, and CML has talks absent from the main ICS index. See [the OC research record](docs/sweeps/2026-11-15-oc-research.md).
 
